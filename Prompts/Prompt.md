@@ -13,5 +13,3 @@ i want to create a TUI library that will be used to create TUI app using deno2
 
 Create a prototype for game named hell diver a top-down shooter game the game is a bout a shuttle falling from the sky while shooting ground force the game is a 2 split screen the top showing the shuttle bottom is to show the ground force enemies create this using web technologies
 
-release/2.22/85652\_fix\_licence\_header\_message\_for\_valid\_todo
-release/2.22/85652\_inscription\_V2\_open\_connected\_agent\_details\_page\_by\_default
