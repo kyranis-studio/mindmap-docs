@@ -13,7 +13,9 @@
     "work/Branch.md": {
       "isFavorite": false,
       "aiSummary": "",
-      "tags": [],
+      "tags": [
+        "t1"
+      ],
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
@@ -22,29 +24,35 @@
     "work/Doctrine migrations.md": {
       "isFavorite": false,
       "aiSummary": "",
-      "tags": [],
+      "tags": [
+        "t1"
+      ],
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-06-21T11:43:10.814Z"
+      "updatedAt": "2026-06-21T11:45:48.467Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
       "aiSummary": "",
-      "tags": [],
+      "tags": [
+        "t1"
+      ],
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-06-21T11:43:10.814Z"
+      "updatedAt": "2026-06-21T11:45:57.606Z"
     },
     "work/cape.md": {
       "isFavorite": false,
       "aiSummary": "",
-      "tags": [],
+      "tags": [
+        "t1"
+      ],
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-06-21T11:43:10.814Z"
+      "updatedAt": "2026-06-21T11:46:04.851Z"
     }
   },
   "folders": {
@@ -55,6 +63,12 @@
       "passwordHash": null
     }
   },
-  "tags": [],
-  "nextTagId": 0
+  "tags": [
+    {
+      "id": "t1",
+      "name": "work",
+      "color": "#3b82f6"
+    }
+  ],
+  "nextTagId": 1
 }
