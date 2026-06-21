@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "documents": {
+    "Prompts/Prompt.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-06-21T11:43:10.814Z",
+      "updatedAt": "2026-06-21T11:43:10.814Z"
+    },
+    "work/Branch.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-06-21T11:43:10.814Z",
+      "updatedAt": "2026-06-21T11:43:10.814Z"
+    },
+    "work/Doctrine migrations.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-06-21T11:43:10.814Z",
+      "updatedAt": "2026-06-21T11:43:10.814Z"
+    },
+    "work/Olafatco.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-06-21T11:43:10.814Z",
+      "updatedAt": "2026-06-21T11:43:10.814Z"
+    },
+    "work/cape.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-06-21T11:43:10.814Z",
+      "updatedAt": "2026-06-21T11:43:10.814Z"
+    }
+  },
+  "folders": {
+    "Prompts": {
+      "passwordHash": null
+    },
+    "work": {
+      "passwordHash": null
+    }
+  },
+  "tags": [],
+  "nextTagId": 0
+}
