@@ -8,7 +8,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-06-21T19:25:31.104Z"
+      "updatedAt": "2026-06-22T12:58:07.208Z"
     },
     "work/Branch.md": {
       "isFavorite": false,
@@ -36,12 +36,13 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [
-        "t1"
+        "t1",
+        "t2"
       ],
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-06-21T13:05:48.915Z"
+      "updatedAt": "2026-06-22T12:56:50.013Z"
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -68,7 +69,12 @@
       "id": "t1",
       "name": "work",
       "color": "#3b82f6"
+    },
+    {
+      "id": "t2",
+      "name": "olafatco",
+      "color": "#26a269"
     }
   ],
-  "nextTagId": 1
+  "nextTagId": 2
 }
