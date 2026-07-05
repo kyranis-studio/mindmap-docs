@@ -5,10 +5,10 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T16:23:53.848Z"
+      "updatedAt": "2026-07-05T20:31:50.102Z"
     },
     "work/Branch.md": {
       "isFavorite": true,
@@ -16,10 +16,10 @@
       "tags": [
         "t1"
       ],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T16:23:49.269Z"
+      "updatedAt": "2026-07-05T20:30:11.978Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -27,7 +27,7 @@
       "tags": [
         "t1"
       ],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
       "updatedAt": "2026-07-05T16:23:50.684Z"
@@ -39,7 +39,7 @@
         "t1",
         "t2"
       ],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
       "updatedAt": "2026-07-05T16:23:51.922Z"
@@ -50,7 +50,7 @@
       "tags": [
         "t1"
       ],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
       "updatedAt": "2026-07-05T16:23:52.534Z"
@@ -58,10 +58,10 @@
   },
   "folders": {
     "Prompts": {
-      "passwordHash": null
+      "isEncrypted": false
     },
     "work": {
-      "passwordHash": null
+      "isEncrypted": false
     }
   },
   "tags": [
