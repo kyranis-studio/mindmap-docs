@@ -5,10 +5,10 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
+      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-02T14:48:21.673Z"
+      "updatedAt": "2026-07-05T11:46:51.080Z"
     },
     "work/Branch.md": {
       "isFavorite": true,
@@ -19,7 +19,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-04T19:10:36.788Z"
+      "updatedAt": "2026-07-05T11:46:43.402Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
