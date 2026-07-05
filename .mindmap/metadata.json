@@ -5,7 +5,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
+      "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
       "updatedAt": "2026-07-05T15:56:37.659Z"
@@ -16,7 +16,7 @@
       "tags": [
         "t1"
       ],
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
+      "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
       "updatedAt": "2026-07-05T15:56:32.661Z"
