@@ -23,3 +23,4 @@ release/2.22/add\_dark\_light\_mode\_switch\
 release/2.22/vite\_build\
 release/2.22/code\_cleaning\
 release/2.22/87873\_fix\_CMO\_team\_limit\_alert\_submit
+
