@@ -8,18 +8,19 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-02T14:48:21.673Z"
+      "updatedAt": "2026-07-02T15:16:21.006Z"
     },
     "work/Branch.md": {
-      "isFavorite": true,
+      "isFavorite": false,
       "aiSummary": "",
       "tags": [
-        "t1"
+        "t1",
+        "t2"
       ],
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-02T15:09:00.875Z"
+      "updatedAt": "2026-07-02T15:16:45.038Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -30,7 +31,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-02T14:46:31.922Z"
+      "updatedAt": "2026-07-02T15:16:51.173Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
@@ -42,7 +43,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-02T11:22:13.612Z"
+      "updatedAt": "2026-07-02T15:16:53.764Z"
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -53,7 +54,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-02T13:52:03.238Z"
+      "updatedAt": "2026-07-02T15:17:00.670Z"
     }
   },
   "folders": {
