@@ -8,7 +8,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T06:36:38.043Z",
-      "updatedAt": "2026-07-06T07:17:10.755Z"
+      "updatedAt": "2026-07-06T07:40:02.837Z"
     },
     "work/Branch.md": {
       "isFavorite": false,
@@ -17,7 +17,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T07:21:14.226Z",
-      "updatedAt": "2026-07-06T07:25:43.083Z"
+      "updatedAt": "2026-07-06T07:40:05.820Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -26,7 +26,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T07:21:14.226Z",
-      "updatedAt": "2026-07-06T07:25:33.926Z"
+      "updatedAt": "2026-07-06T07:39:59.700Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
@@ -35,7 +35,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T07:21:14.226Z",
-      "updatedAt": "2026-07-06T07:25:36.431Z"
+      "updatedAt": "2026-07-06T07:40:00.332Z"
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -44,25 +44,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T07:21:14.226Z",
-      "updatedAt": "2026-07-06T07:25:38.534Z"
-    },
-    "volte/Untitled.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
-      "position": 0,
-      "createdAt": "2026-07-06T07:30:20.135Z",
-      "updatedAt": "2026-07-06T07:34:28.191Z"
-    },
-    "volte/secret.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
-      "position": 0,
-      "createdAt": "2026-07-06T07:28:10.147Z",
-      "updatedAt": "2026-07-06T07:37:20.009Z"
+      "updatedAt": "2026-07-06T07:40:01.300Z"
     }
   },
   "folders": {
@@ -71,9 +53,6 @@
     },
     "work": {
       "passwordHash": null
-    },
-    "volte": {
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
     }
   },
   "tags": [],
