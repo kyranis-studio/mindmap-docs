@@ -33,6 +33,7 @@ release/2.22/integrate\_leave\_dialog\_confirmation\_setting\_on\_submit
 
 release/2.22/fix\_vue2\_build
 release/2.22/leave\_credit\_before\_delete
+
 release/2.22/add\_security\_layer
 release/2.22/85652\_fix\_licence\_V2\_header\_message
 release/2.22/remove\_prefix\_from\_js\_files
