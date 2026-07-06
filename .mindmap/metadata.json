@@ -1,6 +1,15 @@
 {
   "version": 1,
   "documents": {
+    "New Folder/Serect.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-06T07:40:16.784Z",
+      "updatedAt": "2026-07-06T07:40:43.166Z"
+    },
     "Prompts/Prompt.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -46,24 +55,24 @@
       "createdAt": "2026-07-06T07:21:14.226Z",
       "updatedAt": "2026-07-06T07:40:01.300Z"
     },
-    "New Folder/Serect.md": {
+    "New Folder/Untitled.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-07-06T07:40:16.784Z",
-      "updatedAt": "2026-07-06T07:40:43.166Z"
+      "createdAt": "2026-07-06T07:44:12.816Z",
+      "updatedAt": "2026-07-06T07:44:12.816Z"
     }
   },
   "folders": {
+    "New Folder": {
+      "passwordHash": null
+    },
     "Prompts": {
       "passwordHash": null
     },
     "work": {
-      "passwordHash": null
-    },
-    "New Folder": {
       "passwordHash": null
     }
   },
