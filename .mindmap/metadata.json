@@ -3,53 +3,12 @@
   "documents": {
     "Prompts/Prompt.md": {
       "isFavorite": false,
-      "isEncrypted": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T06:36:38.043Z",
       "updatedAt": "2026-07-06T07:17:10.755Z"
-    },
-    "work/Doctrine migrations.emd": {
-      "isFavorite": false,
-      "isEncrypted": true,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-06T06:36:38.043Z",
-      "updatedAt": "2026-07-06T07:02:41.828Z"
-    },
-    "work/Olafatco.emd": {
-      "isFavorite": false,
-      "isEncrypted": true,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-06T06:36:38.043Z",
-      "updatedAt": "2026-07-06T07:02:45.203Z"
-    },
-    "work/branches.emd": {
-      "isFavorite": false,
-      "isEncrypted": true,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-06T06:36:38.043Z",
-      "updatedAt": "2026-07-06T07:02:47.094Z"
-    },
-    "work/cape.emd": {
-      "isFavorite": false,
-      "isEncrypted": true,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-06T06:36:38.043Z",
-      "updatedAt": "2026-07-06T07:02:48.971Z"
     }
   },
   "folders": {
@@ -57,10 +16,9 @@
       "passwordHash": null
     },
     "work": {
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
+      "passwordHash": null
     }
   },
   "tags": [],
-  "nextTagId": 0,
-  "masterPasswordSet": true
+  "nextTagId": 0
 }
