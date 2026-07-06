@@ -1,19 +1,23 @@
 {
   "version": 1,
   "documents": {
+    "Projects/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:19.866Z"
+    },
     "Prompts/Prompt.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
       "position": 0,
-<<<<<<< HEAD
-      "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T20:42:50.617Z"
-=======
-      "createdAt": "2026-07-06T06:36:38.043Z",
-      "updatedAt": "2026-07-06T11:05:24.190Z"
->>>>>>> 0a2edaa5772815a287ce76e6848b9e48f702a129
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:29.616Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -21,13 +25,8 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-<<<<<<< HEAD
-      "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T20:41:24.112Z"
-=======
-      "createdAt": "2026-07-06T07:21:14.226Z",
-      "updatedAt": "2026-07-06T07:49:55.611Z"
->>>>>>> 0a2edaa5772815a287ce76e6848b9e48f702a129
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:19.866Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
@@ -35,22 +34,8 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-<<<<<<< HEAD
-      "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T20:42:08.200Z"
-    },
-    "work/branches.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "isEncrypted": false,
-      "position": 0,
-      "createdAt": "2026-07-05T20:40:51.443Z",
-      "updatedAt": "2026-07-05T20:42:32.286Z"
-=======
-      "createdAt": "2026-07-06T07:21:14.226Z",
-      "updatedAt": "2026-07-06T07:50:11.508Z"
->>>>>>> 0a2edaa5772815a287ce76e6848b9e48f702a129
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:19.866Z"
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -58,32 +43,18 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-<<<<<<< HEAD
-      "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T20:42:33.995Z"
-=======
-      "createdAt": "2026-07-06T07:21:14.226Z",
-      "updatedAt": "2026-07-06T07:49:59.529Z"
-    },
-    "Projects/Untitled.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-06T11:28:10.924Z",
-      "updatedAt": "2026-07-06T11:39:20.164Z"
->>>>>>> 0a2edaa5772815a287ce76e6848b9e48f702a129
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:19.866Z"
     }
   },
   "folders": {
+    "Projects": {
+      "passwordHash": null
+    },
     "Prompts": {
       "passwordHash": null
     },
     "work": {
-      "passwordHash": null
-    },
-    "Projects": {
       "passwordHash": null
     }
   },
