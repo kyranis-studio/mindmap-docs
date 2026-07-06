@@ -36,6 +36,15 @@
       "position": 0,
       "createdAt": "2026-07-06T07:21:14.226Z",
       "updatedAt": "2026-07-06T07:49:59.529Z"
+    },
+    "Projects/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-06T11:28:10.924Z",
+      "updatedAt": "2026-07-06T11:39:20.164Z"
     }
   },
   "folders": {
@@ -45,7 +54,7 @@
     "work": {
       "passwordHash": null
     },
-    "work/New Folder": {
+    "Projects": {
       "passwordHash": null
     }
   },
