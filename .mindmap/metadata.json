@@ -1,6 +1,24 @@
 {
   "version": 1,
   "documents": {
+    "Projects/Untitled 1.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-06T16:56:03.513Z",
+      "updatedAt": "2026-07-06T16:56:03.513Z"
+    },
+    "Projects/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-06T16:56:01.453Z",
+      "updatedAt": "2026-07-06T16:56:01.453Z"
+    },
     "Prompts/Prompt.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -8,7 +26,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T16:38:19.866Z",
-      "updatedAt": "2026-07-06T16:53:24.168Z"
+      "updatedAt": "2026-07-06T17:05:29.812Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -26,7 +44,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T16:38:19.866Z",
-      "updatedAt": "2026-07-06T16:53:22.968Z"
+      "updatedAt": "2026-07-06T17:01:32.730Z"
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -36,24 +54,6 @@
       "position": 0,
       "createdAt": "2026-07-06T16:38:19.866Z",
       "updatedAt": "2026-07-06T16:53:21.023Z"
-    },
-    "Projects/Untitled.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-06T16:56:01.453Z",
-      "updatedAt": "2026-07-06T16:56:01.453Z"
-    },
-    "Projects/Untitled 1.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-06T16:56:03.513Z",
-      "updatedAt": "2026-07-06T16:56:03.513Z"
     }
   },
   "folders": {
