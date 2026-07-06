@@ -5,97 +5,56 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "isEncrypted": false,
+      "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-06-21T11:43:10.814Z",
-<<<<<<< HEAD
-      "updatedAt": "2026-07-02T15:16:21.006Z"
-=======
-      "updatedAt": "2026-07-05T20:36:02.257Z"
->>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
-    },
-    "work/Branch.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [
-        "t1",
-        "t2"
-      ],
-      "isEncrypted": false,
-      "position": 0,
-      "createdAt": "2026-06-21T11:43:10.814Z",
-<<<<<<< HEAD
-      "updatedAt": "2026-07-02T15:16:45.038Z"
-=======
-      "updatedAt": "2026-07-05T20:39:38.527Z"
->>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
+      "createdAt": "2026-07-06T06:36:38.043Z",
+      "updatedAt": "2026-07-06T06:47:36.766Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
       "aiSummary": "",
-      "tags": [
-        "t1"
-      ],
-      "isEncrypted": false,
+      "tags": [],
+      "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-06-21T11:43:10.814Z",
-<<<<<<< HEAD
-      "updatedAt": "2026-07-02T15:16:51.173Z"
-=======
-      "updatedAt": "2026-07-05T16:23:50.684Z"
->>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
+      "createdAt": "2026-07-06T06:36:38.043Z",
+      "updatedAt": "2026-07-06T06:36:38.043Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
       "aiSummary": "",
-      "tags": [
-        "t1",
-        "t2"
-      ],
-      "isEncrypted": false,
+      "tags": [],
+      "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-06-21T11:43:10.814Z",
-<<<<<<< HEAD
-      "updatedAt": "2026-07-02T15:16:53.764Z"
-=======
-      "updatedAt": "2026-07-05T16:23:51.922Z"
->>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
+      "createdAt": "2026-07-06T06:36:38.043Z",
+      "updatedAt": "2026-07-06T06:36:38.043Z"
+    },
+    "work/branches.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-06T06:36:38.043Z",
+      "updatedAt": "2026-07-06T06:41:03.488Z"
     },
     "work/cape.md": {
       "isFavorite": false,
       "aiSummary": "",
-      "tags": [
-        "t1"
-      ],
-      "isEncrypted": false,
+      "tags": [],
+      "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-06-21T11:43:10.814Z",
-<<<<<<< HEAD
-      "updatedAt": "2026-07-02T15:17:00.670Z"
-=======
-      "updatedAt": "2026-07-05T16:23:52.534Z"
->>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
+      "createdAt": "2026-07-06T06:36:38.043Z",
+      "updatedAt": "2026-07-06T06:36:38.043Z"
     }
   },
   "folders": {
     "Prompts": {
-      "isEncrypted": false
+      "passwordHash": null
     },
     "work": {
-      "isEncrypted": false
+      "passwordHash": null
     }
   },
-  "tags": [
-    {
-      "id": "t1",
-      "name": "work",
-      "color": "#3b82f6"
-    },
-    {
-      "id": "t2",
-      "name": "olafatco",
-      "color": "#26a269"
-    }
-  ],
-  "nextTagId": 2
+  "tags": [],
+  "nextTagId": 0
 }
