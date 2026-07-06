@@ -46,23 +46,23 @@
       "createdAt": "2026-07-06T07:21:14.226Z",
       "updatedAt": "2026-07-06T07:25:38.534Z"
     },
-    "work/volte/secret.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
-      "position": 0,
-      "createdAt": "2026-07-06T07:28:10.147Z",
-      "updatedAt": "2026-07-06T07:32:37.721Z"
-    },
-    "work/volte/Untitled.emd": {
+    "volte/Untitled.emd": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
       "position": 0,
       "createdAt": "2026-07-06T07:30:20.135Z",
-      "updatedAt": "2026-07-06T07:32:39.586Z"
+      "updatedAt": "2026-07-06T07:34:28.191Z"
+    },
+    "volte/secret.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
+      "position": 0,
+      "createdAt": "2026-07-06T07:28:10.147Z",
+      "updatedAt": "2026-07-06T07:37:20.009Z"
     }
   },
   "folders": {
@@ -72,7 +72,7 @@
     "work": {
       "passwordHash": null
     },
-    "work/volte": {
+    "volte": {
       "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
     }
   },
