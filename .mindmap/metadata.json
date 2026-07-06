@@ -10,15 +10,6 @@
       "createdAt": "2026-07-06T06:36:38.043Z",
       "updatedAt": "2026-07-06T11:05:24.190Z"
     },
-    "work/Branch.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-06T07:21:14.226Z",
-      "updatedAt": "2026-07-06T11:05:26.501Z"
-    },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -52,6 +43,9 @@
       "passwordHash": null
     },
     "work": {
+      "passwordHash": null
+    },
+    "work/New Folder": {
       "passwordHash": null
     }
   },
