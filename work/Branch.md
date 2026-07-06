@@ -36,9 +36,14 @@ release/2.22/fix\_vue2\_build
 release/2.22/leave\_credit\_before\_delete
 
 release/2.22/add\_security\_layer
+
 release/2.22/85652\_fix\_licence\_V2\_header\_message
+
 release/2.22/remove\_prefix\_from\_js\_files
+
 release/2.22/add\_dark\_light\_mode\_switch
+
 release/2.22/vite\_build
 release/2.22/code\_cleaning
+
 release/2.22/87873\_fix\_CMO\_team\_limit\_alert\_submit
