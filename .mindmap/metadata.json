@@ -3,15 +3,17 @@
   "documents": {
     "Prompts/Prompt.md": {
       "isFavorite": false,
+      "isEncrypted": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-06T06:36:38.043Z",
-      "updatedAt": "2026-07-06T07:04:33.691Z"
+      "updatedAt": "2026-07-06T07:07:36.845Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
+      "isEncrypted": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
@@ -21,6 +23,7 @@
     },
     "work/Olafatco.md": {
       "isFavorite": false,
+      "isEncrypted": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
@@ -30,6 +33,7 @@
     },
     "work/branches.md": {
       "isFavorite": false,
+      "isEncrypted": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
@@ -39,6 +43,7 @@
     },
     "work/cape.md": {
       "isFavorite": false,
+      "isEncrypted": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,

@@ -4,4 +4,4 @@ the encrypted file is by default password protected and locked
 
 The encrypted file must not appear by default in the vector database use a different vector database and add an option to the chat with a master password to chat with encrypted files
 
-ask for the master password with the a bilit
+Ask for the master password when the user encrypts it first file/folder with the ability of skipping it and use the default vector database
