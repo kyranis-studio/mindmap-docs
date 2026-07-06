@@ -45,6 +45,15 @@
       "position": 0,
       "createdAt": "2026-07-06T07:21:14.226Z",
       "updatedAt": "2026-07-06T07:40:01.300Z"
+    },
+    "New Folder/Serect.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-06T07:40:16.784Z",
+      "updatedAt": "2026-07-06T07:40:43.166Z"
     }
   },
   "folders": {
@@ -52,6 +61,9 @@
       "passwordHash": null
     },
     "work": {
+      "passwordHash": null
+    },
+    "New Folder": {
       "passwordHash": null
     }
   },
