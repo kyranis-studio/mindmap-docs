@@ -28,7 +28,9 @@ release/2.22/add\_docker\_compose
 release/2.22/fix\_source\_map\_generation\_for\_prod\_dev
 
 release/2.22/85718\_capa\_V3
+
 release/2.22/integrate\_leave\_dialog\_confirmation\_setting\_on\_submit
+
 release/2.22/fix\_vue2\_build
 release/2.22/leave\_credit\_before\_delete
 release/2.22/add\_security\_layer
