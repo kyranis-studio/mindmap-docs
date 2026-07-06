@@ -9,12 +9,18 @@ release/2.22/82109\_capa\_V2
 release/2.22/capa\_api\_fix
 
 release/2.22/fix\_leave\_no\_data\_return
+
 release/2.22/fix\_leave\_conflict\_alert\_date\_end
+
 release/2.22/82109\_capa\_V2\_refactored
+
 release/2.22/doctrine\_migrations
+
 release/2.22/fix\_by\_date\_list\_behavior
+
 release/2.22/project\_cleanup
 release/2.22/devkit-cli
+
 release/2.22/build\_out\_of\_memory\_fix
 release/2.22/add\_docker\_compose
 release/2.22/fix\_source\_map\_generation\_for\_prod\_dev
