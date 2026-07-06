@@ -5,10 +5,14 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
+<<<<<<< HEAD
       "updatedAt": "2026-07-02T15:16:21.006Z"
+=======
+      "updatedAt": "2026-07-05T20:36:02.257Z"
+>>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
     },
     "work/Branch.md": {
       "isFavorite": false,
@@ -17,10 +21,14 @@
         "t1",
         "t2"
       ],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
+<<<<<<< HEAD
       "updatedAt": "2026-07-02T15:16:45.038Z"
+=======
+      "updatedAt": "2026-07-05T20:39:38.527Z"
+>>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -28,10 +36,14 @@
       "tags": [
         "t1"
       ],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
+<<<<<<< HEAD
       "updatedAt": "2026-07-02T15:16:51.173Z"
+=======
+      "updatedAt": "2026-07-05T16:23:50.684Z"
+>>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
     },
     "work/Olafatco.md": {
       "isFavorite": false,
@@ -40,10 +52,14 @@
         "t1",
         "t2"
       ],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
+<<<<<<< HEAD
       "updatedAt": "2026-07-02T15:16:53.764Z"
+=======
+      "updatedAt": "2026-07-05T16:23:51.922Z"
+>>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -51,18 +67,22 @@
       "tags": [
         "t1"
       ],
-      "passwordHash": null,
+      "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
+<<<<<<< HEAD
       "updatedAt": "2026-07-02T15:17:00.670Z"
+=======
+      "updatedAt": "2026-07-05T16:23:52.534Z"
+>>>>>>> 1d2cd7343628bf43768fac6a1a05d07e90fa1ab5
     }
   },
   "folders": {
     "Prompts": {
-      "passwordHash": null
+      "isEncrypted": false
     },
     "work": {
-      "passwordHash": null
+      "isEncrypted": false
     }
   },
   "tags": [
