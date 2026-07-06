@@ -8,18 +8,7 @@
       "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T20:36:02.257Z"
-    },
-    "work/Branch.md": {
-      "isFavorite": true,
-      "aiSummary": "",
-      "tags": [
-        "t1"
-      ],
-      "isEncrypted": false,
-      "position": 0,
-      "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T20:39:38.527Z"
+      "updatedAt": "2026-07-05T20:42:50.617Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -30,7 +19,7 @@
       "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T16:23:50.684Z"
+      "updatedAt": "2026-07-05T20:41:24.112Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
@@ -42,7 +31,16 @@
       "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T16:23:51.922Z"
+      "updatedAt": "2026-07-05T20:42:08.200Z"
+    },
+    "work/branches.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "isEncrypted": false,
+      "position": 0,
+      "createdAt": "2026-07-05T20:40:51.443Z",
+      "updatedAt": "2026-07-05T20:42:32.286Z"
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -53,7 +51,7 @@
       "isEncrypted": false,
       "position": 0,
       "createdAt": "2026-06-21T11:43:10.814Z",
-      "updatedAt": "2026-07-05T16:23:52.534Z"
+      "updatedAt": "2026-07-05T20:42:33.995Z"
     }
   },
   "folders": {
