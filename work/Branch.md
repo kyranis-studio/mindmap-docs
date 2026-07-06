@@ -1,8 +1,13 @@
 hotfix/2.21/84648\_fix\_uncap\_behavior
+
 hotfix/2.21/fix\_english\_hours\_calculations
+
 hotfix/2.21/fix\_inscriptions\_by\_date\_list
+
 release/2.22/82109\_capa\_V2
+
 release/2.22/capa\_api\_fix
+
 release/2.22/fix\_leave\_no\_data\_return
 release/2.22/fix\_leave\_conflict\_alert\_date\_end
 release/2.22/82109\_capa\_V2\_refactored
