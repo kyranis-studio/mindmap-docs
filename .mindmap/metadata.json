@@ -7,8 +7,8 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-07-07T11:33:25.842Z",
-      "updatedAt": "2026-07-07T13:27:19.993Z"
+      "createdAt": "2026-07-07T19:35:10.235Z",
+      "updatedAt": "2026-07-07T19:35:28.402Z"
     },
     "Prompts/Prompt.md": {
       "isFavorite": false,
@@ -16,13 +16,8 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-<<<<<<< HEAD
-      "createdAt": "2026-07-06T16:38:19.866Z",
-      "updatedAt": "2026-07-06T18:07:49.786Z"
-=======
-      "createdAt": "2026-07-07T08:33:44.299Z",
-      "updatedAt": "2026-07-07T13:27:44.901Z"
->>>>>>> 2827a4e7f82c085d7d48418b73d9d54dbd55317a
+      "createdAt": "2026-07-07T19:35:10.235Z",
+      "updatedAt": "2026-07-07T19:35:10.235Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -30,13 +25,8 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-<<<<<<< HEAD
-      "createdAt": "2026-07-06T16:38:19.866Z",
-      "updatedAt": "2026-07-06T18:08:48.316Z"
-=======
-      "createdAt": "2026-07-07T08:33:44.299Z",
-      "updatedAt": "2026-07-07T13:27:44.282Z"
->>>>>>> 2827a4e7f82c085d7d48418b73d9d54dbd55317a
+      "createdAt": "2026-07-07T19:35:10.235Z",
+      "updatedAt": "2026-07-07T19:35:10.235Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
@@ -44,8 +34,8 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-07-07T08:33:44.299Z",
-      "updatedAt": "2026-07-07T13:15:40.719Z"
+      "createdAt": "2026-07-07T19:35:10.236Z",
+      "updatedAt": "2026-07-07T19:35:10.236Z"
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -53,8 +43,8 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-07-07T08:33:44.299Z",
-      "updatedAt": "2026-07-07T13:17:03.515Z"
+      "createdAt": "2026-07-07T19:35:10.236Z",
+      "updatedAt": "2026-07-07T19:35:10.236Z"
     }
   },
   "folders": {
@@ -69,14 +59,5 @@
     }
   },
   "tags": [],
-  "edges": [
-    {
-      "id": "e1783429916300-1",
-      "sourceId": "d1783429907708-1",
-      "targetId": "d1783429907708-4",
-      "relationType": "doc_link",
-      "weight": 0.5
-    }
-  ],
   "nextTagId": 0
 }
