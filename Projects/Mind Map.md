@@ -1,1 +1,5 @@
-add a way to link the data between document to be shown in the \[\[Prompt]] editor the deitor used is milkdown create a plugin to to that
+When I use password on a file or folder make sure to encrypt the files and change the extension to be .emd for the encrypted markdown when the user opens an encrypted file decrypt only the file with the used password in memory the files in disk must stay encrypted don't store the passwords use it only for encryption decryption
+
+the encrypted file is by default password protected and locked
+
+The encrypted file must not appear in the vector database

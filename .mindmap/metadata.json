@@ -8,7 +8,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T11:33:25.842Z",
-      "updatedAt": "2026-07-07T13:10:59.410Z"
+      "updatedAt": "2026-07-07T13:12:11.492Z"
     },
     "Prompts/Prompt.md": {
       "isFavorite": false,
@@ -17,7 +17,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T08:33:44.299Z",
-      "updatedAt": "2026-07-07T13:11:25.608Z"
+      "updatedAt": "2026-07-07T13:11:58.928Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -59,6 +59,14 @@
     }
   },
   "tags": [],
-  "edges": [],
+  "edges": [
+    {
+      "id": "e1783429916300-1",
+      "sourceId": "d1783429907708-1",
+      "targetId": "d1783429907708-4",
+      "relationType": "doc_link",
+      "weight": 0.5
+    }
+  ],
   "nextTagId": 0
 }
