@@ -16,19 +16,15 @@ Mind Map\*\* is a local-first, AI-assisted note-taking and knowledge management 
 
 7. **Git Sync** — Auto-init repo on first launch, auto-commit on save, manual push/pull to remote (GitHub/GitLab/self-hosted), periodic auto-sync, history viewer with diffs, revert to any commit, merge conflict resolution UI, status indicator.
 
-<br />
+1) **Version Control Viewer** — Browse commit log, view per-document diffs, restore previous versions.
 
-##
+2) **Export** — Export documents to Markdown, HTML, PDF.
 
-<br />
+3) **Settings** — AI provider config, light/dark mode, font size, editor theme, data path override, git remote config, language/locale, import/export settings.
 
-1. **Version Control Viewer** — Browse commit log, view per-document diffs, restore previous versions.
+4) **Security & Privacy** — 100% local-first, no telemetry, API keys in OS keychain, optional biometric lock, git credentials in keychain, user-controlled sync.
 
-2. **Export** — Export documents to Markdown, HTML, PDF.
-
-3. **Settings** — AI provider config, light/dark mode, font size, editor theme, data path override, git remote config, language/locale, import/export settings.
-
-4. **Security & Privacy** — 100% local-first, no telemetry, API keys in OS keychain, optional biometric lock, git credentials in keychain, user-controlled sync.
+# Todo
 
 * [ ] Select and restore version
 
@@ -37,28 +33,4 @@ Mind Map\*\* is a local-first, AI-assisted note-taking and knowledge management 
 * [ ] Undo redo system
 
 * [ ] Compress commit and limit the version to be saved
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
-
-  <br />
 
