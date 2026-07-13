@@ -8,7 +8,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-07-07T19:39:15.603Z"
+      "updatedAt": "2026-07-13T15:18:13.391Z"
     },
     "Prompts/Prompt.md": {
       "isFavorite": false,
@@ -17,7 +17,11 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
+<<<<<<< HEAD
       "updatedAt": "2026-07-08T07:51:14.565Z"
+=======
+      "updatedAt": "2026-07-13T15:13:48.306Z"
+>>>>>>> f3e5d81b3a5e183ba198368408039523137018b0
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -26,7 +30,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-07-07T19:35:10.235Z"
+      "updatedAt": "2026-07-13T11:16:32.737Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
@@ -44,7 +48,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-07-07T19:35:10.236Z"
+      "updatedAt": "2026-07-13T11:11:42.140Z"
     }
   },
   "folders": {
