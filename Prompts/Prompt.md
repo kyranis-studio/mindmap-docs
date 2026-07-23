@@ -1,5 +1,9 @@
-When I use password on a file or folder make sure to \[\[Mind Map]]Mind MapMind MapMind MapMind MapMind MapMind MapMind MapMind MapMind MapMind MapMind MapMind MapMind Map the files and change the extension to be .emd for the encrypted markdown when the user opens an encrypted file \[\[Mind Map]]Mind MapMind MapMind MapMind MapMind Map only the file with the used password in memory the files in disk must stay encrypted don't store the passwords use it only for encryption decryption
+Once upon a time, in a digital realm where files and folders held secrets, there lived an encrypted guardian named MindMap. This vigilant protector ensured that sensitive documents remained safe from prying eyes.
 
-the encrypted \[\[Mind Map]]Mind MapMind MapMind Mapfile is by default \[\[Doctrine migrations]]Doctrine migrationsDoctrine migrationsDoctrine migrationsDoctrine migrationsDoctrine migrations protected and \[\[Mind Map]]Mind MapMind MapMind MapMind MapMind MapMind MapMind MapMind MapMind Map
+When someone wished to secure their thoughts within a file or folder, they would invoke the password of protection. With each keystroke, MindMap carefully monitored the chosen files, transforming them into encrypted markdown by changing their extension to `.emd`.
 
-The encrypted file \[\[Mind Map]]Mind Mapmust not appear in the \[\[Mind Map]]Mind MapMind MapMind MapMind MapMind MapMind Map database
+Upon opening an encrypted file, MindMap would summon it from the depths of memory, decrypting its contents for the user's eyes only. Yet, on disk, the files stayed cloaked in encryption, never revealing their true nature or storing the passwords within. Instead, MindMap wielded the passwords solely for the sacred rites of encryption and decryption.
+
+The encrypted `.emd` file was by default shielded under the watchful gaze of Doctrine Migrations, ensuring its integrity and protection from unauthorized access. This guardian also ensured that the encrypted file would never be catalogued in the database's records, remaining a solitary secret known only to those who possessed the password.
+
+And so, with MindMap as their steadfast ally, users could traverse the digital landscape with confidence, knowing that their most cherished thoughts remained forever secure and private. The end.
