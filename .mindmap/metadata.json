@@ -17,7 +17,16 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-24T13:40:50.021Z",
-      "updatedAt": "2026-07-24T13:41:11.130Z"
+      "updatedAt": "2026-07-28T16:04:08.169Z"
+    },
+    "work/Branches.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-25T18:26:25.891Z",
+      "updatedAt": "2026-07-25T18:28:50.867Z"
     },
     "work/Doctrine migrations.md": {
       "isFavorite": false,
@@ -45,15 +54,6 @@
       "position": 0,
       "createdAt": "2026-07-24T13:40:50.021Z",
       "updatedAt": "2026-07-25T18:26:15.208Z"
-    },
-    "work/Branches.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-25T18:26:25.891Z",
-      "updatedAt": "2026-07-25T18:28:50.867Z"
     }
   },
   "folders": {
