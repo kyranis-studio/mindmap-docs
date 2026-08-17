@@ -1,24 +1,98 @@
-### Features
+### Mind Map — Agent Guide
 
-1. **Document Management** — Create, edit, delete, rename Markdown documents with WYSIWYG editing (Milkdown), nested folder tree, drag-and-drop, favorites/pinning, auto-save with debounced git auto-commits.
+## Stack
 
-2. **Folder & Tag Organization** — Unlimited-depth nested folders, multi-tag support, AI auto-tagging on save, manual tag CRUD, tag filtering, color-coded tags.
+* **Desktop shell:** Tauri v2 (Rust). Entrypoint: `src-tauri/src/main.rs` → `mind_map_lib::run()` in `lib.rs`
 
-3. **AI Chat Panel** — Docked chat alongside editor with streaming responses, markdown rendering, context-aware (reads current doc or selection), quick actions (summarize, expand, rephrase, brainstorm, find links), copy-to-document.
+* **Frontend:** Vue 3 + TypeScript, Vite. Entrypoint: `src/main.ts` → `src/App.vue`
 
-4. **AI Provider Abstraction** — Pluggable providers: Ollama (default), LM Studio, OpenAI-compatible APIs. Configurable base URL, API key, model, health check, fallback support.
+* **Package mgmt:** npm deps via Deno (`deno.lock`), but no `deno.json` committed — use `npx`/`npm` directly. `deno install` to sync lockfile if present.
 
-5. **Knowledge Graph** — Interactive visual graph of document relationships, manual + AI-suggested links, force-directed layout with clustering, zoom/pan/search, mini-map.
+* **Rust deps:** Cargo (`src-tauri/Cargo.toml`)
 
-6. **Full-Text & Semantic Search** — Search-as-you-type across titles/content, filter by folder/tag/date, AI-powered semantic search via embeddings, "Ask AI" mode for natural-language Q\&A grounded in documents (RAG).
+## Dev Commands
 
-7. **Git Sync** — Auto-init repo on first launch, auto-commit on save, manual push/pull to remote (GitHub/GitLab/self-hosted), periodic auto-sync, history viewer with diffs, revert to any commit, merge conflict resolution UI, status indicator.
+* `npx tauri dev` — desktop dev (Vite on port **1420**, strict; Vite ignores `src-tauri/`)
 
-8. **Version Control Viewer** — Browse commit log, view per-document diffs, restore previous versions.
+* `npm run build` — typecheck (`vue-tsc --noEmit`) + `vite build`
 
-9. **Settings** — AI provider config, light/dark mode, font size, editor theme, data path override, git remote config, language/locale, import/export settings.
+* `npm run preview` — Vite preview
 
-10. **Security & Privacy** — 100% local-first, no telemetry, API keys in OS keychain, optional biometric lock, git credentials in keychain, user-controlled sync.
+* `npm run tauri -- <args>` — Tauri CLI passthrough
+
+No linter, formatter, or test framework is configured.
+
+## Architecture
+
+### Data Storage
+
+* Documents: flat `.md` files (or `.emd` for encrypted) in the workspace directory
+
+* Metadata: `workspace/.mindmap/metadata.json` (favorites, tags, passwords, positions, dates)
+
+* RAG index: `workspace/.mindmap/vectors/index.json`
+
+* No SQLite yet (PRD specifies it, not implemented)
+
+* Workspace path stored in `localStorage` key `mindmap-workspace`
+
+* Model settings in localStorage keys: `mindmap-chat-model`, `mindmap-embedding-model`, `mindmap-editing-model`, `mindmap-vision-model`
+
+* System prompts in localStorage: `mindmap-chat-system-prompt`, `mindmap-editing-system-prompt`, `mindmap-vision-system-prompt`
+
+* Chat sessions stored in localStorage key `mindmap-chat-sessions` (capped at 50 sessions, 200 messages each)
+
+* Credentials stored in `mindmap-git-credentials`
+
+### Auto-save
+
+* Document content: 800ms debounce (`scheduleSave`)
+
+* Metadata JSON: 500ms debounce (`scheduleMetadataSave`)
+
+### AI (Rust backend, hardcoded to `localhost:11434`)
+
+* Ollama required for embeddings & chat. Default models: `llama3.2` (chat), `nomic-embed-text` (embeddings), `llava` (vision)
+
+* RAG commands: `rag_index_workspace`, `rag_query`, `rag_query_stream` (auto-indexes if no index exists), `cancel_rag_query`
+
+* Streaming events: `rag:token`, `rag:done`, `edit:token`, `edit:done` (Tauri events)
+
+* Editing via AI: `edit_with_ai_stream` — returns only edited content, no commentary
+
+* Document chat: `chat_with_doc_stream` — per-document Q&A (emits `rag:token`/`rag:done`)
+
+### Encryption
+
+* AES-256-GCM with PBKDF2 (100k iterations)
+
+* Encrypted files use `.emd` extension; SHA-256 password hash stored in metadata
+
+* Password hashing client-side in `src/utils/hash.ts` (Web Crypto `crypto.subtle.digest`)
+
+### Git (Rust backend, shells out to `git` CLI)
+
+* Commands: `git_init`, `git_clone`, `git_sync`, `git_status`, `git_diff_file`, `git_checkout_file`, etc.
+
+* Auto-sync: `git add -A` + `git commit -m "Auto-sync"` + pull (`--no-rebase -X theirs -X ignore-all-space`) + push
+
+* Workspace polling: `git status` every 3s, remote check every 30s
+
+### Notable Conventions
+
+* CSP is disabled (`"csp": null` in `tauri.conf.json`)
+
+* `diff=ignoreall` in `.gitattributes` for all source files
+
+* CRUD logic lives entirely in `src/App.vue` (\~2821 lines, not in Pinia stores)
+
+* Component count: 16 components in `src/components/`
+
+* No routing (single-window app, `activeView` toggle)
+
+* Mock data in `src/store/mockData.ts` for dev without backend
+
+<br />
 
 # Todo
 
