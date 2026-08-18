@@ -4,7 +4,7 @@ Update the auto save strategy
 
 * commit all  change locally in one commit to have less history
 
-* synchronize only on app load
+* synchronize only on app load keeping only the last file update 
 
 - remove all synch button the synch will be executed automatically
 
