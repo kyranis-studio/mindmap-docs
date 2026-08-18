@@ -4,3 +4,9 @@
 
 * [ ] use space for pan mode in the graph
 
+* [ ] add llm switch node
+
+* [ ] add a script execution node
+
+* [ ] add a script execution too node
+
