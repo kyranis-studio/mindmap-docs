@@ -2,6 +2,8 @@
 
 * [ ] add group select with control + G to create the group
 
+* [ ] add tools permission
+
 * [ ] use space for pan mode in the graph
 
 * [ ] add llm switch node
