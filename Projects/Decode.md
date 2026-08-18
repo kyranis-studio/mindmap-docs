@@ -1,5 +1,11 @@
 <br />
 
+* [ ] llm chain execution
+
+* [ ] add loop in graph
+
+* [ ] control click and move the group too
+
 * [ ] add group select with control + G to create the group
 
 * [ ] add tools permission
