@@ -2,5 +2,5 @@
 
 * [ ] add group select with control + G to create the group
 
-* [ ] use space for pan
+* [ ] use space for pan mode in the graph
 
