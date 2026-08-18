@@ -8,7 +8,7 @@ Update the auto save strategy
 
 - remove all synch button the synch will be executed automatically
 
-- add
+- auto indexing files on change
 
 # Todo
 
