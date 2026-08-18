@@ -12,7 +12,7 @@
 
 * [ ] add database in knowledge tab
 
-* [ ] add a browser tab 
+* [ ] add a browser tab
 
   <br />
 
