@@ -1,26 +1,30 @@
-* [ ] add loop in graph
-
-* [ ] add a ui tool node
+###### bug fix
 
 * [ ] control click and move the group too
 
-* [ ] add group select with control + G to create the group
+###### features
 
-* [ ] add tools permission
+* [ ] add loop in graph
 
-* [ ] use space for pan mode in the graph
+- [ ] add a ui tool node
 
-* [ ] add llm switch node
+- [ ] add group select with control + G to create the group
 
-* [ ] add a script execution node
+- [ ] add tools permission
 
-* [ ] add a script execution tool node
+- [ ] use space for pan mode in the graph
 
-* [ ] add database in knowledge tab
+- [ ] add llm switch node
 
-* [ ] add a browser tab
+- [ ] add a script execution node
 
-* [ ] add memory for actions
+- [ ] add a script execution tool node
 
-  <br />
+- [ ] add database in knowledge tab
+
+- [ ] add a browser tab
+
+- [ ] add memory for actions
+
+<br />
 
