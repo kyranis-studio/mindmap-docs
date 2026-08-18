@@ -16,5 +16,7 @@
 
 * [ ] add a browser tab
 
+* [ ] add memory for actions
+
   <br />
 
