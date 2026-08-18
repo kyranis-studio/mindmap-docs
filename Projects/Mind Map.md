@@ -1,12 +1,13 @@
 ### Mind Map — Agent Guide
 
-<br />
-
 Update the auto save strategy 
 
 * commit all  change locally 
 * combine all multiple local commit for shorter history
 * synchronize only on app load 
+
+<br />
+
 * remove all synch button the synch will be executed automatically
 
 # Todo
