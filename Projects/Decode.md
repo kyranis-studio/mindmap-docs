@@ -1,28 +1,26 @@
-<br />
-
 * [ ] llm chain execution
 
-* [ ] add loop in graph
+- [ ] add loop in graph
 
-* [ ] control click and move the group too
+- [ ] control click and move the group too
 
-* [ ] add group select with control + G to create the group
+- [ ] add group select with control + G to create the group
 
-* [ ] add tools permission
+- [ ] add tools permission
 
-* [ ] use space for pan mode in the graph
+- [ ] use space for pan mode in the graph
 
-* [ ] add llm switch node
+- [ ] add llm switch node
 
-* [ ] add a script execution node
+- [ ] add a script execution node
 
-* [ ] add a script execution tool node
+- [ ] add a script execution tool node
 
-* [ ] add database in knowledge tab
+- [ ] add database in knowledge tab
 
-* [ ] add a browser tab
+- [ ] add a browser tab
 
-* [ ] add memory for actions
+- [ ] add memory for actions
 
   <br />
 
