@@ -2,10 +2,12 @@
 
 <br />
 
-Update the auto save strategy \
-- commit all  change locally \
-- synchronize only on app load \
-\- combine multiple commit for shorter history
+Update the auto save strategy 
+
+* commit all  change locally 
+* combine multiple commit for shorter history
+* synchronize only on app load 
+* remove all synch button the synch will be executed automatically
 
 # Todo
 
