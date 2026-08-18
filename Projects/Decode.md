@@ -10,3 +10,9 @@
 
 * [ ] add a script execution tool node
 
+* [ ] add database in knowledge tab
+
+* [ ] add a browser tab 
+
+  <br />
+
