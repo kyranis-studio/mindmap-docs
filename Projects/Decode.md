@@ -8,5 +8,5 @@
 
 * [ ] add a script execution node
 
-* [ ] add a script execution too node
+* [ ] add a script execution tool node
 
