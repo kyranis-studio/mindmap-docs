@@ -8,6 +8,8 @@ Update the auto save strategy
 
 - remove all synch button the synch will be executed automatically
 
+- add
+
 # Todo
 
 * [ ] **Select and restore version**
