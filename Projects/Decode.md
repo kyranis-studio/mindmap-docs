@@ -8,8 +8,6 @@
 
 - [ ] add loop in graph
 
-- [ ] use space as shortcut for pan mode in the graph
-
 - [ ] ask for command run
 
 * [ ] add a ui tool node
