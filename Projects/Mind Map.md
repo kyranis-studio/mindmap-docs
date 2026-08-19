@@ -2,7 +2,7 @@
 
 ###### bugs
 
-* [ ] the sync still fire after
+* [ ] the sync still fire after edition 
 
 ###### featues :
 
