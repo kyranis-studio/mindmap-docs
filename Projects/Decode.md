@@ -4,8 +4,6 @@
 
 ###### features
 
-* [ ] add unsloth provider
-
 * [ ] ask for run command 
 
 - [ ] add llm switch node
