@@ -4,7 +4,7 @@
 
 ###### features
 
-* [ ] ask for run command 
+* [ ] ask for run command
 
 - [ ] add llm switch node
 
