@@ -2,13 +2,15 @@
 
 ###### bugs
 
-* [ ] the sync still fire after edition to verify
+* [ ] the sync still fire after edition
 
 * [ ] reset the timer after edition
 
 ###### featues :
 
 * [ ] **Select and restore version**
+
+* [ ] show the sync process in status bar
 
 * [ ] **save and sync before close**
 
