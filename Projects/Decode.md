@@ -6,6 +6,8 @@
 
 * [ ] add loop in graph
 
+* [ ] ask for command run
+
 - [ ] add a ui tool node
 
 - [ ] add group select with control + G to create the group
@@ -25,6 +27,4 @@
 - [ ] add a browser tab
 
 - [ ] add memory for actions
-
-<br />
 
