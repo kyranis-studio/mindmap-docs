@@ -6,9 +6,9 @@
 
 * [ ] add loop in graph
 
-- [ ] add a ui tool node
+* [ ] add branching decision node
 
-- [ ] add group select with control + G to create the group
+- [ ] add a ui tool node
 
 - [ ] add tools permission
 
@@ -25,6 +25,4 @@
 - [ ] add a browser tab
 
 - [ ] add memory for actions
-
-<br />
 
