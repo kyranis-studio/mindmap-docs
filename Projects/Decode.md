@@ -1,26 +1,28 @@
 ###### bug fix
 
-* [ ] control click and move the group too
+* [ ] none
 
 ###### features
 
-* [ ] add llm switch node
+* [ ] add unsloth provider
 
-- [ ] add loop in graph
+- [ ] add llm switch node
 
-- [ ] ask for command run
+* [ ] add loop in graph
 
-* [ ] add a ui tool node
+* [ ] ask for command run
 
-* [ ] add tools permission
+- [ ] add a ui tool node
 
-* [ ] add a script execution node
+- [ ] add tools permission
 
-* [ ] add a script execution tool node
+- [ ] add a script execution node
 
-* [ ] add database in knowledge tab
+- [ ] add a script execution tool node
 
-* [ ] add a browser tab
+- [ ] add database in knowledge tab
 
-* [ ] add memory for actions
+- [ ] add a browser tab
+
+- [ ] add memory for actions
 
