@@ -8,13 +8,13 @@
 
 ###### featues :
 
-* [ ] **Select and restore version**
-
 * [ ] show the sync process in status bar
 
-* [ ] **save and sync before close**
+- [ ] **Select and restore version**
 
-* [ ] **AI summarize grammar check**
+- [ ] **save and sync before close**
 
-* [ ] **Undo/redo system**
+- [ ] **AI summarize grammar check**
+
+- [ ] **Undo/redo system**
 
