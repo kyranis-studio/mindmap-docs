@@ -2,9 +2,7 @@
 
 ###### bugs
 
-<br />
-
-<br />
+* [ ] the sync still fire after
 
 ###### featues :
 
