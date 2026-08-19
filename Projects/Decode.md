@@ -8,7 +8,7 @@
 
 - [ ] add loop in graph
 
-- [ ] use space for pan mode in the graph
+- [ ] use space as shortcut for pan mode in the graph
 
 - [ ] ask for command run
 
