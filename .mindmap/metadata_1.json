@@ -1,23 +1,14 @@
 {
   "version": 1,
   "documents": {
-    "Projects/Decode.md": {
+    "Projects/Untitled.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-08-18T11:37:43.073Z",
-      "updatedAt": "2026-08-19T15:49:26.040Z"
-    },
-    "Projects/Mind Map.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": null,
-      "position": 0,
-      "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-19T15:24:51.561Z"
+      "createdAt": "2026-07-06T16:43:40.474Z",
+      "updatedAt": "2026-07-06T16:43:40.474Z"
     },
     "Prompts/Prompt.md": {
       "isFavorite": false,
@@ -25,17 +16,17 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-18T19:23:51.160Z"
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:29.616Z"
     },
-    "work/Branches.md": {
+    "work/Doctrine migrations.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-08-17T11:41:55.452Z",
-      "updatedAt": "2026-08-17T11:42:11.941Z"
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:19.866Z"
     },
     "work/Olafatco.md": {
       "isFavorite": false,
@@ -43,8 +34,8 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-17T11:42:36.993Z"
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:19.866Z"
     },
     "work/cape.md": {
       "isFavorite": false,
@@ -52,8 +43,17 @@
       "tags": [],
       "passwordHash": null,
       "position": 0,
-      "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-17T11:42:18.239Z"
+      "createdAt": "2026-07-06T16:38:19.866Z",
+      "updatedAt": "2026-07-06T16:38:19.866Z"
+    },
+    "Projects/Untitled 1.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-07-06T16:50:42.224Z",
+      "updatedAt": "2026-07-06T16:50:42.224Z"
     }
   },
   "folders": {
