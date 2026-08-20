@@ -6,6 +6,10 @@
 
 * [ ] add grammar fix
 
+* [ ] embedding images
+
+* [ ] fetch url content
+
 * [ ] add smart chunking strategy
 
 * [ ] add inline edit feature
