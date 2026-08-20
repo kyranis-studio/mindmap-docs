@@ -1,5 +1,3 @@
-<br />
-
 ###### bugs
 
 * [ ] the sync still fire after edition
