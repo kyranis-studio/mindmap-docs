@@ -4,8 +4,6 @@
 
 ###### featues:
 
-* [ ] marks file to be synced or not
-
 * [ ] add a dropdown checking grammar with AI
 
 * [ ] make sure to use the grammar check for all app inputs
