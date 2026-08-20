@@ -1,6 +1,15 @@
 {
   "version": 1,
   "documents": {
+    "Personal/API keys.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
+      "position": 0,
+      "createdAt": "2026-08-20T18:39:30.639Z",
+      "updatedAt": "2026-08-20T18:39:57.020Z"
+    },
     "Projects/Decode.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -26,7 +35,7 @@
       "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-20T18:03:12.875Z"
+      "updatedAt": "2026-08-20T18:41:40.465Z"
     },
     "work/Branches.md": {
       "isFavorite": false,
@@ -54,18 +63,12 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
-    },
-    "Personal/API keys.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
-      "position": 0,
-      "createdAt": "2026-08-20T18:39:30.639Z",
-      "updatedAt": "2026-08-20T18:39:57.020Z"
     }
   },
   "folders": {
+    "Personal": {
+      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
+    },
     "Projects": {
       "passwordHash": null
     },
@@ -74,9 +77,6 @@
     },
     "work": {
       "passwordHash": null
-    },
-    "Personal": {
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
     }
   },
   "tags": [],
