@@ -1,10 +1,10 @@
 ###### bugs
 
-* [ ] fix the tag usedd after the ai response to point to the used file only
+* [ ] fix the tag used after the ai response to point to the used file only
 
 ###### featues:
 
-* [ ] add grammar fix
+* [ ] add grammar spelling fix
 
 * [ ] add a settings for splelling check
 
