@@ -10,6 +10,8 @@
 
 * [ ] fetch url content
 
+* [ ] add wiki link with the graph
+
 * [ ] add smart chunking strategy
 
 * [ ] add inline edit feature
