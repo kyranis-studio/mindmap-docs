@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] remove the file sync index popup
+* [ ] none
 
 ###### Featues:
 
