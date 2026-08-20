@@ -8,17 +8,17 @@
 
 * [ ] add llm switch node
 
+* [ ] add a script execution node
+
+* [ ] add a script execution tool node
+
 - [ ] improuve loop in graph
 
 - [ ] ask for command run
 
-* [ ] add an ui tool node
+* [ ] add a ui tool node
 
 * [ ] add tools permission
-
-* [ ] add a script execution node
-
-* [ ] add a script execution tool node
 
 * [ ] add database in knowledge tab
 
