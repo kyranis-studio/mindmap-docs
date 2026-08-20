@@ -54,6 +54,15 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
+    },
+    "Personal/API keys.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
+      "position": 0,
+      "createdAt": "2026-08-20T18:39:30.639Z",
+      "updatedAt": "2026-08-20T18:39:57.020Z"
     }
   },
   "folders": {
@@ -67,7 +76,7 @@
       "passwordHash": null
     },
     "Personal": {
-      "passwordHash": null
+      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
     }
   },
   "tags": [],
