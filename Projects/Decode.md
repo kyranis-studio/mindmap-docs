@@ -4,29 +4,29 @@
 
 ###### Priority
 
+* [ ] add llm switch node
+
+* [ ] add a script execution tool node
+
+* [ ] add a script execution node
+
+* [ ] improve loop in graph
+
 * [ ] none
 
 ###### Features
 
 * [ ] AI model control the IDE
 
-- [ ] add llm switch node
+- [ ] ask for command run
 
-- [ ] add a script execution node
+* [ ] add an UI tool node
 
-- [ ] add a script execution tool node
+* [ ] add tools permission
 
-* [ ] improve loop in graph
+* [ ] add database in knowledge tab
 
-* [ ] ask for command run
+* [ ] add a browser tab
 
-- [ ] add an UI tool node
-
-- [ ] add tools permission
-
-- [ ] add database in knowledge tab
-
-- [ ] add a browser tab
-
-- [ ] add memory for actions
+* [ ] add memory for actions
 
