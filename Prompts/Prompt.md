@@ -13,3 +13,5 @@ control + D to duplicate a node
 control + G to group ungroup the nodes
 
 space to toggle pan mode
+
+delete to delete the node
