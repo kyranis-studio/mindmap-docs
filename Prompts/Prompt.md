@@ -1,4 +1,4 @@
-the ui graph interaction has become a bit buggy 
+the ui graph interaction has become a bit buggy
 
 rewrite the graph ui interaction system for a node editor from scratch. implement the following features and behaviors, using a state machine architecture for handling complex ui interactions:
 
