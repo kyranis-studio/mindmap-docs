@@ -1,20 +1,20 @@
 ###### bug fix
 
-* [ ] control click and move the group too
+* [ ] none
 
 ###### features
 
+* [ ] ask for run command
+
+- [ ] add llm switch node
+
 * [ ] add loop in graph
 
-* [ ] add branching decision node
+* [ ] ask for command run
 
 - [ ] add a ui tool node
 
 - [ ] add tools permission
-
-- [ ] use space for pan mode in the graph
-
-- [ ] add llm switch node
 
 - [ ] add a script execution node
 

@@ -1,12 +1,16 @@
-* [ ] synchronize before close the app. display the process and block the app close until the synch finish
+###### bugs
 
-* [ ] Throttle the sync and reindexing process by hours / day / action in settings
+* [ ] the sync still fire after edition
 
-- [ ] fix the status bar to show the correct information of the llm used
+* [ ] reset the timer after edition
 
-- [ ] **add multiple AI providers** omiroute/openroute/lm studio
+###### featues :
+
+* [ ] add inline edit feature
 
 - [ ] **Select and restore version**
+
+- [ ] **save and sync before close**
 
 - [ ] **AI summarize grammar check**
 
