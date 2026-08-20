@@ -1,14 +1,6 @@
 {
   "version": 1,
   "documents": {
-    "Personal/API keys.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-20T18:39:30.639Z",
-      "updatedAt": "2026-08-20T18:39:57.020Z"
-    },
     "Projects/Decode.md": {
       "isFavorite": false,
       "aiSummary": "",
