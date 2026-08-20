@@ -8,7 +8,7 @@
 
 - [ ] add llm switch node
 
-* [ ] add loop in graph
+* [ ] improuve loop in graph
 
 * [ ] ask for command run
 
