@@ -1,6 +1,15 @@
 {
   "version": 1,
   "documents": {
+    "Personel/API keys.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
+      "position": 0,
+      "createdAt": "2026-08-20T17:51:06.467Z",
+      "updatedAt": "2026-08-20T17:54:29.145Z"
+    },
     "Projects/Decode.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -54,18 +63,12 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
-    },
-    "Personel/API keys.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
-      "position": 0,
-      "createdAt": "2026-08-20T17:51:06.467Z",
-      "updatedAt": "2026-08-20T17:53:35.818Z"
     }
   },
   "folders": {
+    "Personel": {
+      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
+    },
     "Projects": {
       "passwordHash": null
     },
@@ -74,9 +77,6 @@
     },
     "work": {
       "passwordHash": null
-    },
-    "Personel": {
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
     }
   },
   "tags": [],
