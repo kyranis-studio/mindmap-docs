@@ -1,6 +1,6 @@
 ###### bugs
 
-* [ ] fix the tag used files to response bug
+* [ ] fix the tag used after the ai response to point to the used file only
 
 ###### featues :
 
