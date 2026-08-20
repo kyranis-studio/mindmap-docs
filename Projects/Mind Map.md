@@ -1,8 +1,12 @@
-###### bugs
+###### Bugs
 
 * [ ] none
 
-###### featues:
+###### Priority
+
+* [ ] remove the file sync index popup
+
+###### Featues:
 
 * [ ] add a dropdown checking grammar with AI
 
@@ -20,7 +24,7 @@
 
 * [ ] add smart chunking strategy
 
-* [ ] add inline edit feature
+* [ ] add inline AI edit feature
 
 * [ ] create a custom markdown editor
 
