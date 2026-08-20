@@ -1,4 +1,4 @@
-you are an experienced ui developer. rewrite the graph ui interaction system for a node editor from scratch. implement the following features and behaviors, using a state machine architecture for handling complex ui interactions:
+rewrite the graph ui interaction system for a node editor from scratch. implement the following features and behaviors, using a state machine architecture for handling complex ui interactions:
 
 features to implement:
 
