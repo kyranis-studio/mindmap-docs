@@ -46,6 +46,8 @@ View controls:
 
 Link creation:
 
+* allow a single node output to connect to multiple node inputs
+
 * ctrl + drag while creating a link to create routing points
 
 Architecture:
