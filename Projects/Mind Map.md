@@ -4,6 +4,8 @@
 
 * [ ] reset the timer after edition
 
+* [ ] fix the ai edit feature
+
 ###### featues :
 
 * [ ] show the sync process in status bar
