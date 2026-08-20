@@ -6,6 +6,8 @@
 
 * [ ] add grammar fix
 
+* [ ] add a settings for splelling check
+
 * [ ] embedding images
 
 * [ ] fetch url content
