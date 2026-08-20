@@ -4,7 +4,7 @@
 
 ###### featues:
 
-* [ ] <br />
+* [ ] marks file to be synced or not
 
 * [ ] add a dropdown checking grammar with AI
 
