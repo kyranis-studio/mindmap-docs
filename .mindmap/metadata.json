@@ -9,6 +9,14 @@
       "createdAt": "2026-08-20T18:50:46.893Z",
       "updatedAt": "2026-08-20T20:14:31.454Z"
     },
+    "Personal/Info.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-20T20:13:23.029Z",
+      "updatedAt": "2026-08-20T20:13:57.154Z"
+    },
     "Projects/Decode.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -31,7 +39,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-20T18:47:34.611Z"
+      "updatedAt": "2026-08-20T20:16:35.464Z"
     },
     "work/Branches.md": {
       "isFavorite": false,
@@ -56,14 +64,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
-    },
-    "Personal/Info.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-20T20:13:23.029Z",
-      "updatedAt": "2026-08-20T20:13:57.154Z"
     }
   },
   "folders": {
@@ -82,10 +82,5 @@
   },
   "tags": [],
   "nextTagId": 0,
-  "files": {
-    "Personal/Info.md": {
-      "sync": false,
-      "index": false
-    }
-  }
+  "files": {}
 }
