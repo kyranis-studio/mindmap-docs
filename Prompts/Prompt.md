@@ -8,6 +8,8 @@ action to implement in the graph node editor
 
 * control drag a node from group to remove it make sure to stop the group extension so it is possible to drag the node out
 
+* control while dragging a link to create routing
+
 <br />
 
 the shortcut are
