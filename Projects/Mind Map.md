@@ -1,4 +1,42 @@
-###### bugs
+###### lbugs
+
+p
+
+a
+
+m
+
+d
+
+n
+
+i
+
+m
+
+f
+
+o
+
+o
+
+d
+
+o
+
+t
+
+e
+
+h
+
+t
+
+t
+
+s
+
+i
 
 * [ ] the sync still fire after edition
 
