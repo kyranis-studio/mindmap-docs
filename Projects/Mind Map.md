@@ -4,8 +4,6 @@
 
 ###### featues:
 
-* [ ] add grammar fix
-
 * [ ] add a settings for spelling check
 
 * [ ] embedding images
