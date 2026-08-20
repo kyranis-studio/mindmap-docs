@@ -1,27 +1,57 @@
-the graph UI interaction have become a bit buggy make a full rewrite of it taking these action in consideration
+you are an experienced ui developer. rewrite the graph ui interaction system for a node editor from scratch. implement the following features and behaviors, using a state machine architecture for handling complex ui interactions:
 
-action to implement in the graph node editor
+features to implement:
 
-* control click on multiple node to select them
+node selection:
 
-* shift to snap to the grid
+* ctrl + click to select multiple nodes
 
-* control drag a node into a group to add it
+* single click to select a node
 
-* control drag a node from group to remove it make sure to stop the group extension while pressing control so it is possible to drag the node out from the group
+* click outside to deselect
 
-* control while dragging a link to create routing
+grid snapping:
 
-<br />
+* hold shift to enable grid snapping while dragging nodes
 
-the shortcut are
+* snap nodes to grid positions when shift is held
 
-control + D to duplicate a node
+Grouping:
 
-control + G to group ungroup the nodes
+* ctrl + drag a node into a group to add it to the group
 
-space to toggle pan mode
+* ctrl + drag a node from within a group to remove it, stop group extension while holding ctrl so you can drag the node out
 
-delete to delete the node
+* ctrl + G to group selected nodes
 
-it will be better to use a state machine for this complex UI interaction
+* ctrl + G again to ungroup selected nodes
+
+Node manipulation:
+
+* ctrl + D to duplicate selected nodes
+
+* delete to delete selected nodes
+
+* drag nodes to move them freely
+
+View controls:
+
+* spacebar to toggle pan mode
+
+* pan the canvas when in pan mode
+
+Link creation:
+
+* ctrl + drag while creating a link to create routing points
+
+Architecture:
+
+* use a state machine pattern to manage all ui interaction states (idle, selecting, dragging, panning, linking, grouping, etc.)
+
+* ensure clean state transitions between all modes
+
+* handle edge cases like releasing ctrl during group drag operations
+
+* make the system modular and maintainable
+
+Write the complete implementation following best practices for ui state management.
