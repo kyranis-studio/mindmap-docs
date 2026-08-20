@@ -6,7 +6,7 @@ action to implement in the graph node editor
 
 * control drag a node into a group to add it
 
-* control drag a node from group to remove it make sure to stop the group extension so it is possible to drag the node out
+* control drag a node from group to remove it make sure to stop the group extension while pressing control so it is possible to drag the node out from the group
 
 * control while dragging a link to create routing
 
