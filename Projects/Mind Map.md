@@ -14,7 +14,7 @@
 
 * [ ] fetch URL content
 
-* [ ] add wiki link with the graph
+* [ ] add wiki link and integrated with the graph
 
 * [ ] add smart chunking strategy
 
