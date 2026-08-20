@@ -1,16 +1,16 @@
 ###### bugs
 
-* [ ] fix the tag used after the ai response to point to the used file only
+* [ ] fix the tag used after the AI response to point to the used file only
 
 ###### featues:
 
 * [ ] add grammar spelling fix
 
-* [ ] add a settings for splelling check
+* [ ] add a settings for spelling check
 
 * [ ] embedding images
 
-* [ ] fetch url content
+* [ ] fetch URL content
 
 * [ ] add wiki link with the graph
 
