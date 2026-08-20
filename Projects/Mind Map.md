@@ -1,18 +1,30 @@
 ###### bugs
 
-* [ ] fix close window
+* [ ] fix the tag used after the AI response to point to the used file only
 
-- [ ] the sync still fire after edition
+###### featues:
 
-- [ ] reset the timer after edition
+* [ ] add a dropdown checking grammar with AI
 
-###### featues :
+* [ ] make sure to use the grammar check for all app inputs
 
-* [ ] **show the sync process in status bar**
+* [ ] add an ignore button for grammar check
+
+* [ ] add a settings for spelling check
+
+* [ ] embedding images
+
+* [ ] fetch URL content
+
+* [ ] add wiki link and integrated with the graph
+
+* [ ] add smart chunking strategy
+
+* [ ] add inline edit feature
+
+* [ ] create a custom markdown editor
 
 - [ ] **Select and restore version**
-
-- [ ] **save and sync before close**
 
 - [ ] **AI summarize grammar check**
 

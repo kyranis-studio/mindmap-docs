@@ -4,25 +4,23 @@
 
 ###### features
 
-* [ ] ask for run command
+* [ ] add llm switch node
 
-- [ ] add llm switch node
+* [ ] add a script execution node
 
-* [ ] add loop in graph
+* [ ] add a script execution tool node
 
-* [ ] ask for command run
+- [ ] improve loop in graph
 
-- [ ] add a ui tool node
+- [ ] ask for command run
 
-- [ ] add tools permission
+* [ ] add an UI tool node
 
-- [ ] add a script execution node
+* [ ] add tools permission
 
-- [ ] add a script execution tool node
+* [ ] add database in knowledge tab
 
-- [ ] add database in knowledge tab
+* [ ] add a browser tab
 
-- [ ] add a browser tab
-
-- [ ] add memory for actions
+* [ ] add memory for actions
 
