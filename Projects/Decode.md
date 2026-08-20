@@ -1,6 +1,6 @@
 ###### bug fix
 
-* [ ] none
+* [ ] fix group shortcut
 
 ###### features
 
