@@ -18,6 +18,8 @@ grid snapping:
 
 * snap nodes to grid positions when shift is held
 
+* snap nodes to nodes in the graph for better alignment
+
 Grouping:
 
 * ctrl + drag a node into a group to add it to the group
