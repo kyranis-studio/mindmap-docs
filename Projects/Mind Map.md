@@ -4,7 +4,7 @@
 
 ###### featues:
 
-* [ ] add grammar spelling fix
+* [ ] add grammar fix
 
 * [ ] add a settings for spelling check
 
