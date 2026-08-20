@@ -4,25 +4,23 @@
 
 ###### features
 
-* [ ] ask for run command
+* [ ] add llm switch node
 
-- [ ] add llm switch node
+- [ ] improuve loop in graph
 
-* [ ] improuve loop in graph
+- [ ] ask for command run
 
-* [ ] ask for command run
+* [ ] add a ui tool node
 
-- [ ] add a ui tool node
+* [ ] add tools permission
 
-- [ ] add tools permission
+* [ ] add a script execution node
 
-- [ ] add a script execution node
+* [ ] add a script execution tool node
 
-- [ ] add a script execution tool node
+* [ ] add database in knowledge tab
 
-- [ ] add database in knowledge tab
+* [ ] add a browser tab
 
-- [ ] add a browser tab
-
-- [ ] add memory for actions
+* [ ] add memory for actions
 
