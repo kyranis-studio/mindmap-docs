@@ -4,6 +4,8 @@
 
 ###### featues :
 
+* [ ] add smart chunking strategy
+
 * [ ] add inline edit feature
 
 - [ ] **Select and restore version**
