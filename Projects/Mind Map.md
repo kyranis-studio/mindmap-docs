@@ -4,6 +4,8 @@
 
 ###### featues:
 
+* [ ] add an ignore button for grammar check
+
 * [ ] add a settings for spelling check
 
 * [ ] embedding images
