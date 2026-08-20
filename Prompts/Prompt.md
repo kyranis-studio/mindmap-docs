@@ -19,3 +19,5 @@ control + G to group ungroup the nodes
 space to toggle pan mode
 
 delete to delete the node
+
+it will be better to use a state machine for this complex 
