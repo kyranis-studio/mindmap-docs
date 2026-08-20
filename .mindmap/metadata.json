@@ -1,6 +1,15 @@
 {
   "version": 1,
   "documents": {
+    "Personal/API keys.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "passwordHash": null,
+      "position": 0,
+      "createdAt": "2026-08-20T18:23:16.307Z",
+      "updatedAt": "2026-08-20T18:23:16.307Z"
+    },
     "Personel/API keys.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -8,7 +17,7 @@
       "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
       "position": 0,
       "createdAt": "2026-08-20T17:51:06.467Z",
-      "updatedAt": "2026-08-20T18:08:06.181Z"
+      "updatedAt": "2026-08-20T18:23:27.996Z"
     },
     "Projects/Decode.md": {
       "isFavorite": false,
@@ -68,6 +77,9 @@
   "folders": {
     "Personal": {
       "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
+    },
+    "Personel": {
+      "passwordHash": null
     },
     "Projects": {
       "passwordHash": null
