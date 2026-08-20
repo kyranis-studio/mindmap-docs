@@ -2,11 +2,13 @@
 
 * [ ] none
 
-  features
+###### Priority
 
-  <br />
+* [ ] none
 
-- [ ] AI model control the IDE
+###### Features
+
+* [ ] AI model control the IDE
 
 - [ ] add llm switch node
 
