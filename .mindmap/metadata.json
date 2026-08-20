@@ -1,15 +1,6 @@
 {
   "version": 1,
   "documents": {
-    "Personal/API keys.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef",
-      "position": 0,
-      "createdAt": "2026-08-20T18:23:16.307Z",
-      "updatedAt": "2026-08-20T18:36:43.267Z"
-    },
     "Projects/Decode.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -66,9 +57,6 @@
     }
   },
   "folders": {
-    "Personal": {
-      "passwordHash": "0bd1cf4ded3d3dba40f1a54ffbd6547e8f8673b40464c4c7a31f78ef6fb05bef"
-    },
     "Projects": {
       "passwordHash": null
     },
@@ -76,6 +64,9 @@
       "passwordHash": null
     },
     "work": {
+      "passwordHash": null
+    },
+    "Personal": {
       "passwordHash": null
     }
   },
