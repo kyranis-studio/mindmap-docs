@@ -1,3 +1,5 @@
+the graph UI interaction have become a bit buggy make a full rewrite of it taking these action in consideration
+
 action to implement in the graph node editor
 
 * control click on multiple node to select them
