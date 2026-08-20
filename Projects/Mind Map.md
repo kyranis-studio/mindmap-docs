@@ -4,6 +4,8 @@
 
 ###### featues :
 
+* [ ] add grammar fix
+
 * [ ] add smart chunking strategy
 
 * [ ] add inline edit feature
