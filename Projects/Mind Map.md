@@ -1,8 +1,6 @@
 ###### bugs
 
-* [ ] the sync still fire after edition
-
-* [ ] reset the timer after edition
+* [ ] none
 
 ###### featues :
 
