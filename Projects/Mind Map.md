@@ -18,6 +18,8 @@
 
 * [ ] add inline edit feature
 
+* [ ] create a custom markdown editor
+
 - [ ] **Select and restore version**
 
 - [ ] **AI summarize grammar check**
