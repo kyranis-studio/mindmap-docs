@@ -25,6 +25,14 @@
       "createdAt": "2026-07-07T19:35:10.235Z",
       "updatedAt": "2026-08-20T18:43:01.968Z"
     },
+    "Projects/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-20T19:16:19.855Z",
+      "updatedAt": "2026-08-20T19:16:19.855Z"
+    },
     "Prompts/Prompt.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -56,14 +64,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
-    },
-    "Projects/Untitled.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-20T19:16:19.855Z",
-      "updatedAt": "2026-08-20T19:16:19.855Z"
     }
   },
   "folders": {
