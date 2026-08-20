@@ -4,6 +4,8 @@
 
 ###### features
 
+* [ ] AI model control the IDE 
+
 * [ ] add llm switch node
 
 * [ ] add a script execution node
