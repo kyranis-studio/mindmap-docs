@@ -1,14 +1,21 @@
-```
-Action to Implement in Graph Node Editor
+action to implement in the graph node editor
 
-- Control-click on multiple nodes to select them simultaneously
-- Shift key to snap to the grid
-- Control-drag a node into a group to add it; control-drag a node from a group to remove it (ensure the group extension is disabled so the node can be dragged out)
+* control click on multiple node to select them
 
-Shortcuts:
-- Ctrl+D: Duplicate a node
-- Ctrl+G: Group/ungroup nodes
-- Space: Toggle pan mode
-- Delete: Delete a node
-```
+* shift to snap to the grid
 
+* control drag a node into a group to add it
+
+* control drag a node from group to remove it make sure to stop the group extension so it is possible to drag the node out
+
+<br />
+
+the shortcut are
+
+control + D to duplicate a node
+
+control + G to group ungroup the nodes
+
+space to toggle pan mode
+
+delete to delete the node
