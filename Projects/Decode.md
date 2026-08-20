@@ -1,8 +1,6 @@
 ###### bug fix
 
-* [ ] fix group shortcut
-
-* [ ] fix ungroup button
+* [ ] none
 
 ###### features
 
