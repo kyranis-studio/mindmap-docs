@@ -16,7 +16,7 @@
 
 - [ ] ask for command run
 
-* [ ] add a ui tool node
+* [ ] add an UI tool node
 
 * [ ] add tools permission
 
