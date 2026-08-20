@@ -6,7 +6,7 @@
 
 ###### featues :
 
-* [ ] show the sync process in status bar
+* [ ] add inline edit feature
 
 - [ ] **Select and restore version**
 
