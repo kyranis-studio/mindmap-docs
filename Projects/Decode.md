@@ -2,6 +2,8 @@
 
 * [ ] fix group shortcut
 
+* [ ] fix ungroup button
+
 ###### features
 
 * [ ] add llm switch node
