@@ -56,6 +56,14 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
+    },
+    "Personal/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-20T20:13:23.029Z",
+      "updatedAt": "2026-08-20T20:13:23.029Z"
     }
   },
   "folders": {
@@ -74,5 +82,10 @@
   },
   "tags": [],
   "nextTagId": 0,
-  "files": {}
+  "files": {
+    "Personal/Untitled.md": {
+      "sync": false,
+      "index": false
+    }
+  }
 }
