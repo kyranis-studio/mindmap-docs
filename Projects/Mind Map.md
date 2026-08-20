@@ -1,8 +1,8 @@
 ###### bugs
 
-* [ ] fix the tag used after the ai response to point to the used file only
+* [ ] fix the tag usd after the ai response to point to the used file only
 
-###### featues :
+###### featues:
 
 * [ ] add grammar fix
 
