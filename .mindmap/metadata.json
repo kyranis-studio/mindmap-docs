@@ -7,7 +7,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-20T19:59:45.436Z"
+      "updatedAt": "2026-08-20T20:13:54.322Z"
     },
     "Projects/Decode.md": {
       "isFavorite": false,
@@ -57,7 +57,7 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
     },
-    "Personal/Untitled.md": {
+    "Personal/Info.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
@@ -83,7 +83,7 @@
   "tags": [],
   "nextTagId": 0,
   "files": {
-    "Personal/Untitled.md": {
+    "Personal/Info.md": {
       "sync": false,
       "index": false
     }
