@@ -12,11 +12,11 @@
 
 * [ ] add a script execution tool node
 
-- [ ] improuve loop in graph
+- [ ] improve loop in graph
 
 - [ ] ask for command run
 
-* [ ] add a ui tool node
+* [ ] add an UI tool node
 
 * [ ] add tools permission
 
