@@ -1,6 +1,6 @@
 ###### bug fix
 
-* [ ] none
+* [ ] remove the loop group
 
 ###### Priority
 

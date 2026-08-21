@@ -23,7 +23,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-18T11:37:43.073Z",
-      "updatedAt": "2026-08-21T05:34:57.738Z"
+      "updatedAt": "2026-08-21T05:48:06.850Z"
     },
     "Projects/Mind Map.md": {
       "isFavorite": false,
@@ -82,10 +82,5 @@
   },
   "tags": [],
   "nextTagId": 0,
-  "files": {
-    "Projects/Untitled.md": {
-      "sync": false,
-      "index": false
-    }
-  }
+  "files": {}
 }
