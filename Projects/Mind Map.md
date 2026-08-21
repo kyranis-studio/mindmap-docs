@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] at startup verify every section in model assignemt 
+* [ ] at startup verify every section in model assignment have the correct model
 
 * [ ] after modification indexing don't start
 
