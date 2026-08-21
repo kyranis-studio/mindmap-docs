@@ -4,8 +4,6 @@
 
 * [ ] filter the models by capabilities embedding vision general chat
 
-* [ ] show error when no embedding model is selected
-
 * [ ] none
 
 ###### Priority
