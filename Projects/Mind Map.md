@@ -4,19 +4,17 @@
 
 ###### Priority
 
-* [ ] don't sync or re index file if edited by AI until the AI modification is applied /accepted
+* [ ] replace sync and indexing tab in settings by sync and backup
 
-- [ ] replace sync and indexing tab in settings by sync and backup
+* [ ] sync app parameters
 
-- [ ] sync app parameters
+* [ ] add URL scrapping
 
-- [ ] add URL scrapping
+* [ ] clean the git history for password protected files
 
-- [ ] clean the git history for password protected files
+* [ ] add and update server
 
-- [ ] add and update server
-
-- [ ] none
+* [ ] none
 
 ###### Featues:
 
