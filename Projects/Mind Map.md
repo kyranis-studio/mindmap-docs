@@ -4,7 +4,7 @@
 
 ###### Priority
 
-remove github history for deleted files anencrypte files
+remove github history for deleted files and encrypte files
 
 * [ ] add URL scrapping
 
