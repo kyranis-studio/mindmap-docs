@@ -6,9 +6,9 @@
 
 * [ ] rewrite setting
 
-* [ ] add URL scrapping
-
 * [ ] add custom prompt for action like skills in setting
+
+* [ ] add URL scrapping
 
 * [ ] clean the git history for password protected files
 
