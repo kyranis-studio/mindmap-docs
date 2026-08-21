@@ -12,7 +12,7 @@
 
 * [ ] Select and restore version /optimization of commit
 
-* [ ] rewrite settings tab
+* [ ] rewrite settings tabs
 
 * [ ] add theme settings
 
