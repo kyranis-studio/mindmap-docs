@@ -8,6 +8,8 @@
 
 - [ ] sync app parameters
 
+- [ ] replace sync and indexing tab in settings by backup
+
 - [ ] add URL scrapping
 
 - [ ] clean the git history for password protected files
