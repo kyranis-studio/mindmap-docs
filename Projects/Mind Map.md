@@ -4,7 +4,7 @@
 
 ###### Priority
 
-remove githu
+remove github hsitory for 
 
 * [ ] add URL scrapping
 
