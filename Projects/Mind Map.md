@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] at startup verify every 
+* [ ] at startup verify every section in 
 
 * [ ] after modification indexing don't start
 
