@@ -1,5 +1,1 @@
-In settings, I want to factor the sync and indexing tab it will be renamed to sync and backups
-remove the delay for sync and indexing the sync indexing will be triggered if the user click away from the line being edited or open another the document
-remove the INDEXING DELAY SYNC DELAY MINIMUM INTERVAL BETWEEN SYNCS
-add a new delay this delay will be used to create the auto backup with an interval of hours/days
-every sync will be pushed automatically and create an auto backup respecting the duration interval
+In the Settings menu, I would like to rename the Sync and Indexing tab to “Sync and Backups.” Remove any delay for syncing or indexing so that sync indexing occurs when the user clicks away from the edited line or opens another document. Delete the existing values for INDEXING DELAY, SYNC DELAY, and MINIMUM INTERVAL BETWEEN SYNCS. Add a new delay setting to be used for creating automatic backups at intervals of hours or days. Ensure that each sync is pushed automatically and an auto backup is generated according to the specified interval.
