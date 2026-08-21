@@ -16,6 +16,8 @@
 
 * [ ] clean the git history for password protected files
 
+* [ ] add and update server
+
 * [ ] none
 
 ###### Featues:
