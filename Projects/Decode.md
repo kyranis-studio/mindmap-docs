@@ -4,6 +4,8 @@
 
 ###### Priority
 
+* [ ] optimize indexing
+
 * [ ] add llm branching node
 
 * [ ] add llm routing (choose the best llm to use)

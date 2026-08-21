@@ -6,6 +6,8 @@
 
 ###### Priority
 
+* [ ] optimize indexing
+
 * [ ] rewrite setting
 
 * [ ] add custom prompt for action like skills in setting
