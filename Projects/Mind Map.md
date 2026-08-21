@@ -2,6 +2,8 @@
 
 * [ ] at startup verify every section in model assignment have the correct model
 
+* [ ] <br />
+
 * [ ] after modification indexing don't start
 
 * [ ] show error when no embedding model is selected
