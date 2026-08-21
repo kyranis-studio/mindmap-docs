@@ -1,5 +1,3 @@
-In the Settings menu:
-
 * Rename the Sync and Indexing tab to “Sync and Backups.”
 
 * Remove any sync/indexing delay.
