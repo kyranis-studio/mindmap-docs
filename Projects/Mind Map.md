@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] aftert modification 
+* [ ] aftert modification indexing dont start
 
 * [ ] none
 
