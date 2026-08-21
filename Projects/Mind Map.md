@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] ast startup verify ecry 
+* [ ] at startup verify ecry 
 
 * [ ] after modification indexing don't start
 
