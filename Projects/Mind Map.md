@@ -9,6 +9,7 @@
 ###### Priority
 
 * [ ] optimize indexing
+* [ ] Select and restore version /optimization of commit
 
 - [ ] sync app parameters
 
@@ -43,8 +44,6 @@
 * [ ] add inline AI edit feature
 
 * [ ] create a custom markdown editor
-
-- [ ] **Select and restore version**
 
 - [ ] **AI summarize grammar check**
 
