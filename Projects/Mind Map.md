@@ -6,8 +6,6 @@
 
 ###### Priority
 
-* [ ] Select and restore version / optimization of commit
-
 * [ ] rewrite settings tabs
 
 * [ ] add theme settings
