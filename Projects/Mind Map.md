@@ -2,7 +2,7 @@
 
 * [ ] after modification indexing don't start
 
-* [ ] show error when no embeddin model is selected
+* [ ] show error when no embedding model is selected
 
 * [ ] none
 
