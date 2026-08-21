@@ -10,6 +10,8 @@
 
 * [ ] add custom prompt for action like skills in setting
 
+* [ ] clean the git history for password protected files
+
 * [ ] none
 
 ###### Featues:
