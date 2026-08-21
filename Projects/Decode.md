@@ -22,6 +22,8 @@
 
 ###### Features
 
+* [ ] graph auto layout (column based)
+
 * [ ] AI model control the IDE
 
 * [ ] add git tab
