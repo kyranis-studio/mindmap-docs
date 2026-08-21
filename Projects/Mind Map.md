@@ -10,7 +10,7 @@
 
 * [ ] add URL scrapping
 
-* [ ] add custom prompt for action like skills
+* [ ] add custom prompt for action like skills in setting
 
 * [ ] none
 
