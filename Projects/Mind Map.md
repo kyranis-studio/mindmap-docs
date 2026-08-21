@@ -2,8 +2,6 @@
 
 * [ ] after closing an encrypted file the content don't show
 
-* [ ] for the files tree use the same width for icons
-
 * [ ] none
 
 ###### Priority
