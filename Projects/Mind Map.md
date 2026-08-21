@@ -2,7 +2,7 @@
 
 * [ ] at startup verify every section in model assignment have the correct model
 
-* [ ] filter the models by capabilities emmbedding vision general chat
+* [ ] filter the models by capabilities embedding vision general chat
 
 * [ ] after modification indexing don't start
 
