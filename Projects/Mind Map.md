@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] sync app parameters
-
 * [ ] add URL scrapping
 
 * [ ] clean the git history for password protected files
