@@ -1,0 +1,52 @@
+###### Bugs
+
+* [ ] after closing an encrypted file the content don't show
+
+* [ ] for the files tree use the same width for icons
+
+* [ ] none
+
+###### Priority
+
+* [ ] Select and restore version / optimization of commit
+
+* [ ] rewrite settings tabs
+
+* [ ] add theme settings
+
+* [ ] add custom prompt for action like skills in setting
+
+* [ ] add a settings for spelling check
+
+* [ ] add schedules and task reminder
+
+- [ ] sync app parameters
+
+- [ ] add URL scrapping
+
+- [ ] clean the git history for password protected files
+
+- [ ] add and update server
+
+- [ ] none
+
+###### Featues:
+
+* [ ] make sure to use the grammar check for all app inputs
+
+* [ ] save the ignored word
+
+* [ ] embedding images
+
+* [ ] add wiki link and integrated with the graph
+
+* [ ] add smart chunking strategy
+
+* [ ] add inline AI edit feature
+
+* [ ] create a custom markdown editor
+
+- [ ] **AI summarize grammar check**
+
+- [ ] **Undo/redo system**
+
