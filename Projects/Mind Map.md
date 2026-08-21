@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] replace sync and indexing tab in settings by sync and backup
-
 * [ ] sync app parameters
 
 * [ ] add URL scrapping
