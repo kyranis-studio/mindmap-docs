@@ -8,23 +8,25 @@
 
 ###### Priority
 
-* [ ] sync app parameters
-
 * [ ] optimize indexing
 
-* [ ] rewrite setting
+- [ ] sync app parameters
 
-* [ ] add custom prompt for action like skills in setting
+- [ ] rewrite setting
 
-* [ ] add a settings for spelling check
+- [ ] add theme settings
 
-* [ ] add URL scrapping
+- [ ] add custom prompt for action like skills in setting
 
-* [ ] clean the git history for password protected files
+- [ ] add a settings for spelling check
 
-* [ ] add and update server
+- [ ] add URL scrapping
 
-* [ ] none
+- [ ] clean the git history for password protected files
+
+- [ ] add and update server
+
+- [ ] none
 
 ###### Featues:
 
