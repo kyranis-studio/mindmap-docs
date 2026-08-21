@@ -2,7 +2,7 @@
 
 * [ ] at startup verify every section in model assignment have the correct model
 
-* [ ] <br />
+* [ ] filter the models by
 
 * [ ] after modification indexing don't start
 
