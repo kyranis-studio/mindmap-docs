@@ -6,8 +6,6 @@
 
 ###### Priority
 
-* [ ] add custom prompt for action like skills in setting
-
 * [ ] add a settings for spelling check
 
 * [ ] add schedules and task reminder
