@@ -4,11 +4,11 @@
 
 ###### Priority
 
-* [ ] rewrite the model settings with backup list
+* [ ] don't sync or re index file if edited by AI until the AI modification is applied /accepted
+
+- [ ] replace sync and indexing tab in settings by sync and backup
 
 - [ ] sync app parameters
-
-- [ ] replace sync and indexing tab in settings by backup
 
 - [ ] add URL scrapping
 
