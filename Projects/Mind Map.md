@@ -1,5 +1,7 @@
 ###### Bugs
 
+* [ ] <br />
+
 * [ ] after modification indexing don't start
 
 * [ ] show error when no embedding model is selected
