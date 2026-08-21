@@ -9,6 +9,7 @@
 ###### Priority
 
 * [ ] optimize indexing
+
 * [ ] Select and restore version /optimization of commit
 
 - [ ] sync app parameters
@@ -20,6 +21,8 @@
 - [ ] add custom prompt for action like skills in setting
 
 - [ ] add a settings for spelling check
+
+- [ ] add schedules and task reminder
 
 - [ ] add URL scrapping
 
