@@ -1,8 +1,6 @@
 ###### bug fix
 
-* [ ] remove the loop group
-
-* [ ] fix the multi group bugs
+* [ ] none
 
 ###### Priority
 
