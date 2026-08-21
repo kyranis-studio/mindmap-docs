@@ -1,20 +1,33 @@
 ###### Bugs
 
+* [ ] after closing an encrypted file the content don't show
+
+* [ ] for the files tree use the same width for icons
+
 * [ ] none
 
 ###### Priority
 
-* [ ] rewrite setting
+* [ ] optimize indexing
+* [ ] Select and restore version /optimization of commit
 
-* [ ] add custom prompt for action like skills in setting
+- [ ] sync app parameters
 
-* [ ] add a settings for spelling check
+- [ ] rewrite setting
 
-* [ ] add URL scrapping
+- [ ] add theme settings
 
-* [ ] clean the git history for password protected files
+- [ ] add custom prompt for action like skills in setting
 
-* [ ] none
+- [ ] add a settings for spelling check
+
+- [ ] add URL scrapping
+
+- [ ] clean the git history for password protected files
+
+- [ ] add and update server
+
+- [ ] none
 
 ###### Featues:
 
@@ -24,8 +37,6 @@
 
 * [ ] embedding images
 
-* [ ] fetch URL content
-
 * [ ] add wiki link and integrated with the graph
 
 * [ ] add smart chunking strategy
@@ -33,8 +44,6 @@
 * [ ] add inline AI edit feature
 
 * [ ] create a custom markdown editor
-
-- [ ] **Select and restore version**
 
 - [ ] **AI summarize grammar check**
 

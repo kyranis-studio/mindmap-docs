@@ -9,6 +9,14 @@
       "createdAt": "2026-08-20T18:50:46.893Z",
       "updatedAt": "2026-08-20T20:14:31.454Z"
     },
+    "Personal/General tasks.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 3,
+      "createdAt": "2026-08-21T08:08:37.616Z",
+      "updatedAt": "2026-08-21T08:09:24.054Z"
+    },
     "Personal/Info.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -31,7 +39,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-18T11:37:43.073Z",
-      "updatedAt": "2026-08-21T06:31:02.111Z"
+      "updatedAt": "2026-08-21T09:48:45.434Z"
     },
     "Projects/Mind Map.md": {
       "isFavorite": false,
@@ -39,7 +47,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-21T06:56:23.485Z"
+      "updatedAt": "2026-08-21T09:50:56.299Z"
     },
     "Prompts/Prompt.md": {
       "isFavorite": false,
@@ -71,15 +79,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-17T11:42:18.239Z"
-    },
-    "Personal/General tasks.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 3,
-      "createdAt": "2026-08-21T08:08:37.616Z",
-      "updatedAt": "2026-08-21T08:09:24.054Z"
+      "updatedAt": "2026-08-21T08:27:00.515Z"
     }
   },
   "folders": {
