@@ -9,6 +9,14 @@
       "createdAt": "2026-08-20T18:50:46.893Z",
       "updatedAt": "2026-08-20T20:14:31.454Z"
     },
+    "Personal/General tasks.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 3,
+      "createdAt": "2026-08-21T08:08:37.616Z",
+      "updatedAt": "2026-08-21T08:09:24.054Z"
+    },
     "Personal/Info.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -39,7 +47,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-21T06:56:23.485Z"
+      "updatedAt": "2026-08-21T08:25:32.967Z"
     },
     "Prompts/Prompt.md": {
       "isFavorite": false,
@@ -72,14 +80,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
-    },
-    "Personal/General tasks.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 3,
-      "createdAt": "2026-08-21T08:08:37.616Z",
-      "updatedAt": "2026-08-21T08:09:24.054Z"
     }
   },
   "folders": {
