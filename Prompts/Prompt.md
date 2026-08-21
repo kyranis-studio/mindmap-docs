@@ -8,5 +8,5 @@
 
 * Ensure syncs push automatically and backups run on the specified interval.
 
-* dos it works
+  <br />
 
