@@ -4,7 +4,7 @@
 
 ###### Priority
 
-remove github hsitory for deletd filesq anencrypr
+remove github hsitory for deletd filesq anencrypte files
 
 * [ ] add URL scrapping
 
