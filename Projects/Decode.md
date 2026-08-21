@@ -4,7 +4,9 @@
 
 ###### Priority
 
-* [ ] add llm switch node
+* [ ] add llm branching node
+
+* [ ] add llm routing (choose the best llm to use)
 
 * [ ] add a script execution tool node
 
