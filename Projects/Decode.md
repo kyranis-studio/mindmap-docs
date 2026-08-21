@@ -20,6 +20,8 @@
 
 * [ ] AI model control the IDE
 
+* [ ] add git tab
+
 - [ ] ask for command run
 
 * [ ] add an UI tool node
