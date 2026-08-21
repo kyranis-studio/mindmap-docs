@@ -6,8 +6,6 @@
 
 * [ ] none
 
-<br />
-
 ###### Priority
 
 * [ ] remove github history for deleted files and encrypted files
