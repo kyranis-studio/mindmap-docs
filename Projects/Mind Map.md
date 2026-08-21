@@ -4,10 +4,6 @@
 
 ###### Priority
 
-* [ ] add a settings for spelling check
-
-* [ ] add schedules and task reminder
-
 * [ ] rewrite the model settings with backup list
 
 - [ ] sync app parameters
