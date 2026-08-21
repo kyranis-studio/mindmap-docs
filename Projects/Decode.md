@@ -1,16 +1,26 @@
 ###### bug fix
 
-* [ ] none
+* [ ] remove the loop group
 
-###### features
+###### Priority
 
-* [ ] add llm switch node
+* [ ] add llm branching node
 
-* [ ] add a script execution node
+* [ ] add llm routing (choose the best llm to use)
 
 * [ ] add a script execution tool node
 
-- [ ] improve loop in graph
+* [ ] add a script execution node
+
+* [ ] improve loop in graph
+
+* [ ] none
+
+###### Features
+
+* [ ] AI model control the IDE
+
+* [ ] add git tab
 
 - [ ] ask for command run
 

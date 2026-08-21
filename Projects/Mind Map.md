@@ -1,16 +1,26 @@
-###### bugs
+###### Bugs
 
-* [ ] fix the tag used after the AI response to point to the used file only
+* [ ] none
 
-###### featues:
+###### Priority
 
-* [ ] add a dropdown checking grammar with AI
+* [ ] rewrite setting
+
+* [ ] add custom prompt for action like skills in setting
+
+* [ ] add a settings for spelling check
+
+* [ ] add URL scrapping
+
+* [ ] clean the git history for password protected files
+
+* [ ] none
+
+###### Featues:
 
 * [ ] make sure to use the grammar check for all app inputs
 
-* [ ] add an ignore button for grammar check
-
-* [ ] add a settings for spelling check
+* [ ] save the ignored word
 
 * [ ] embedding images
 
@@ -20,7 +30,7 @@
 
 * [ ] add smart chunking strategy
 
-* [ ] add inline edit feature
+* [ ] add inline AI edit feature
 
 * [ ] create a custom markdown editor
 
