@@ -4,6 +4,8 @@
 
 ###### Priority
 
+* [ ] add url scrapping
+
 * [ ] add custom prompt for action like skills
 
 * [ ] none
