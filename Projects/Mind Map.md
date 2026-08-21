@@ -8,6 +8,8 @@
 
 * [ ] add custom prompt for action like skills in setting
 
+* [ ] add a settings for spelling check
+
 * [ ] add URL scrapping
 
 * [ ] clean the git history for password protected files
@@ -19,8 +21,6 @@
 * [ ] make sure to use the grammar check for all app inputs
 
 * [ ] save the ignored word
-
-* [ ] add a settings for spelling check
 
 * [ ] embedding images
 
