@@ -2,7 +2,7 @@
 
 * [ ] at startup verify every section in model assignment have the correct model
 
-* [ ] filter the models by
+* [ ] filter the models by capabilties 
 
 * [ ] after modification indexing don't start
 
