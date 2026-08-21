@@ -2,6 +2,8 @@
 
 * [ ] after modification indexing don't start
 
+* [ ] show error when no embeddin model is selected
+
 * [ ] none
 
 ###### Priority
