@@ -2,7 +2,7 @@
 
 * [ ] remove the loop group
 
-* [ ] fix the 
+* [ ] fix the multi 
 
 ###### Priority
 
