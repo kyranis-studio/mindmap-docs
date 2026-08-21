@@ -12,17 +12,17 @@
 
 * [ ] Select and restore version /optimization of commit
 
+* [ ] rewrite setting
+
+* [ ] add theme settings
+
+* [ ] add custom prompt for action like skills in setting
+
+* [ ] add a settings for spelling check
+
+* [ ] add schedules and task reminder
+
 - [ ] sync app parameters
-
-- [ ] rewrite setting
-
-- [ ] add theme settings
-
-- [ ] add custom prompt for action like skills in setting
-
-- [ ] add a settings for spelling check
-
-- [ ] add schedules and task reminder
 
 - [ ] add URL scrapping
 
