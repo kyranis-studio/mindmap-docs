@@ -2,6 +2,8 @@
 
 * [ ] remove the loop group
 
+* [ ] fix the 
+
 ###### Priority
 
 * [ ] optimize indexing
