@@ -1,5 +1,7 @@
 ###### Bugs
 
+* [ ] show the file that not has been synced in yellow until the sync fire
+
 * [ ] none
 
 ###### Priority
