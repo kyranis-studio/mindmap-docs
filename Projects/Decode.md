@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] optimize indexing
-
 * [ ] add llm branching node
 
 * [ ] add a script execution tool node
