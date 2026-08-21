@@ -6,5 +6,5 @@
 
 * Add a new delay setting for automatic backups (hours or days).
 
-* Ensure syncs push automatically and backups run on the specified interval.?
+* Ensure syncs push automatically and backups run on the specified interval.
 
