@@ -4,8 +4,6 @@
 
 * [ ] filter the models by capabilities embedding vision general chat
 
-* [ ] after modification indexing don't start
-
 * [ ] show error when no embedding model is selected
 
 * [ ] none
