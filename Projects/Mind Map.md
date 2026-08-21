@@ -12,8 +12,6 @@
 
 ###### Featues:
 
-* [ ] add a dropdown checking grammar with AI
-
 * [ ] make sure to use the grammar check for all app inputs
 
 * [ ] add an ignore button for grammar check
