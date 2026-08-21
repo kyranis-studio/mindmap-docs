@@ -6,6 +6,8 @@
 
 ###### Priority
 
+* [ ] sync app parameters
+
 * [ ] optimize indexing
 
 * [ ] rewrite setting
