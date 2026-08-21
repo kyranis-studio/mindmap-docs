@@ -1,7 +1,5 @@
 ###### Bugs
 
-* [ ] after closing an encrypted file the content don't show
-
 * [ ] none
 
 ###### Priority
