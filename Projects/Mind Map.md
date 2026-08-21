@@ -4,6 +4,8 @@
 
 ###### Priority
 
+* [ ] rewrite setting
+
 * [ ] add URL scrapping
 
 * [ ] add custom prompt for action like skills
