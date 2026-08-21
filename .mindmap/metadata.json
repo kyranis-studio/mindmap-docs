@@ -65,13 +65,13 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
     },
-    "Personal/Untitled.md": {
+    "Personal/Web ressources.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-21T05:53:39.660Z",
-      "updatedAt": "2026-08-21T05:53:39.660Z"
+      "updatedAt": "2026-08-21T05:54:40.882Z"
     }
   },
   "folders": {
@@ -91,9 +91,9 @@
   "tags": [],
   "nextTagId": 0,
   "files": {
-    "Personal/Untitled.md": {
-      "sync": false,
-      "index": false
+    "Personal/Web ressources.md": {
+      "sync": true,
+      "index": true
     }
   }
 }
