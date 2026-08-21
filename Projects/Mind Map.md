@@ -1,40 +1,40 @@
 ###### Bugs
 
-* No issues were identified.
+* [ ] none
 
 ###### Priority
 
-* Rewrite the model settings using a backup list.
+* [ ] rewrite the model settings with backup list
 
-- Sync application parameters.
+- [ ] sync app parameters
 
-- Replace the sync and indexing tabs in the settings with backups.
+- [ ] replace sync and indexing tab in settings by backup
 
-- Implement URL scraping.
+- [ ] add URL scrapping
 
-- Clean the git history of password‑protected files.
+- [ ] clean the git history for password protected files
 
-- Add and update the server.
+- [ ] add and update server
 
-* None.
+- [ ] none
 
-###### Features
+###### Featues:
 
-* Ensure grammar checking is applied to all app inputs.
+* [ ] make sure to use the grammar check for all app inputs
 
-* Save ignored words.
+* [ ] save the ignored word
 
-* Embed images.
+* [ ] embedding images
 
-* Add a wiki link integrated with the graph.
+* [ ] add wiki link and integrated with the graph
 
-* Introduce a smart chunking strategy.
+* [ ] add smart chunking strategy
 
-* Add an inline AI editing feature.
+* [ ] add inline AI edit feature
 
-* Create a custom markdown editor.
+* [ ] create a custom markdown editor
 
-- **AI summarize grammar check**
+- [ ] **AI summarize grammar check**
 
-- **Undo/redo system**
+- [ ] **Undo/redo system**
 
