@@ -16,6 +16,8 @@
 
 * [ ] AI model control the IDE
 
+* [ ] add an UI tool node
+
 * [ ] none
 
 ###### Features
@@ -25,8 +27,6 @@
 - [ ] add git tab
 
 * [ ] ask for command run
-
-- [ ] add an UI tool node
 
 - [ ] add tools permission
 
