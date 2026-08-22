@@ -10,6 +10,8 @@
 
 ###### Priority
 
+* [ ] ui 
+
 * [ ] LLM app awareness
 
 * [ ] MCP connection
