@@ -2,6 +2,8 @@
 
 * [ ] when the user click in the canvas deselect all the selected node
 
+* [ ] <br />
+
 * [ ] none
 
 ###### Priority
