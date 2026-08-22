@@ -1,6 +1,6 @@
 ###### bug fix
 
-* [ ] <br />
+* [ ] when the user click in 
 
 * [ ] none
 
