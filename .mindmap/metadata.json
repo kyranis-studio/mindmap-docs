@@ -51,7 +51,7 @@
       "createdAt": "2026-07-07T19:35:10.235Z",
       "updatedAt": "2026-08-22T17:14:28.369Z"
     },
-    "Prompts/Unichat.md": {
+    "Prompts/Unichat 1.md": {
       "isFavorite": true,
       "favoritePosition": 5,
       "aiSummary": "",
@@ -121,7 +121,7 @@
       "sync": true,
       "index": false
     },
-    "Prompts/Unichat.md": {
+    "Prompts/Unichat 1.md": {
       "sync": true,
       "index": true
     }
