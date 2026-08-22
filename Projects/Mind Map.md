@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] favorite icon don't align well
+* [ ] favorite icon and tags don't align well
 
 * [ ] at startup verify every section in model assignment have the correct model
 
