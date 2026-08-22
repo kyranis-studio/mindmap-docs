@@ -8,6 +8,8 @@
 
 * [ ] open node script in the editor fro edit
 
+* [ ] add a json file 
+
 * [ ] add llm routing (choose the best llm to use)
 
 * [ ] MCP connection
