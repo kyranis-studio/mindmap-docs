@@ -6,7 +6,7 @@
 
 ###### Priority
 
-* [ ] <br />
+* [ ] open node script 
 
 * [ ] add llm routing (choose the best llm to use)
 
