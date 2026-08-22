@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] expose and connect with other vector database
+* [ ] MCP connection
 
 * [ ] remove github history for deleted files and encrypted files
 
