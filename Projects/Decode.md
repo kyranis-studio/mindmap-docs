@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] open node script in the editor for display and edit
-
 * [ ] control click in node for isolation mode
 
 * [ ] graph auto layout (column based)
