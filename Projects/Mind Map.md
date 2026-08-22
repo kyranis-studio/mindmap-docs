@@ -16,7 +16,7 @@
 
 * [ ] add and update server
 
-* [ ] make sure the llm coul edit settings
+* [ ] make sure the llm could edit settings
 
 * [ ] none
 
