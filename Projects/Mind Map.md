@@ -16,7 +16,7 @@
 
 * [ ] MCP connection
 
-* [ ] remove github history for deleted files and encrypted files ask for premission for deleted files
+* [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
 
 * [ ] add URL scrapping
 
