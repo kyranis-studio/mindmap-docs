@@ -8,8 +8,6 @@
 
 ###### Priority
 
-* [ ] UI optimization
-
 * [ ] LLM app awareness
 
 * [ ] MCP connection
