@@ -51,6 +51,15 @@
       "createdAt": "2026-07-07T19:35:10.235Z",
       "updatedAt": "2026-08-22T17:14:28.369Z"
     },
+    "Prompts/Prompt.md": {
+      "isFavorite": true,
+      "favoritePosition": 4,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-07-07T19:35:10.235Z",
+      "updatedAt": "2026-08-21T17:46:41.761Z"
+    },
     "work/Branches.md": {
       "isFavorite": true,
       "favoritePosition": 0,
@@ -67,15 +76,6 @@
       "position": 1,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:36.993Z"
-    },
-    "Prompts/Prompt.md": {
-      "isFavorite": true,
-      "favoritePosition": 4,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-21T17:46:41.761Z"
     },
     "work/cape.md": {
       "isFavorite": true,
@@ -111,10 +111,6 @@
     "Personal/General tasks.md": {
       "sync": true,
       "index": false
-    },
-    "Prompts/Unichat 1.md": {
-      "sync": true,
-      "index": true
     }
   }
 }
