@@ -1,7 +1,5 @@
 ###### bug fix
 
-* [ ] the box select don't select group
-
 * [ ] none
 
 ###### Priority
