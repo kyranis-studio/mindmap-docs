@@ -10,7 +10,7 @@
 
 * [ ] improve loop in graph
 
-* [ ] ask for command run in tools ll
+* [ ] ask for command run in tools nodes
 
 * [ ] add and update server
 
