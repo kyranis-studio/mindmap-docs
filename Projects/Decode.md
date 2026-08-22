@@ -1,6 +1,6 @@
 ###### bug fix
 
-* [ ] when the user click in 
+* [ ] when the user click in the canvas unselect all t
 
 * [ ] none
 
