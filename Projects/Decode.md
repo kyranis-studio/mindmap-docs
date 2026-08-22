@@ -1,6 +1,6 @@
 ###### bug fix
 
-* [ ] when the user click in the canvas select all the selected node
+* [ ] when the user click in the canvas deselect all the selected node
 
 * [ ] none
 
