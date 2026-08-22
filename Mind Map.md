@@ -1,8 +1,14 @@
 ###### Bugs
 
+* [ ] at startup verify every section in model assignment have the correct model
+
+* [ ] filter the models by capabilities embedding vision general chat
+
 * [ ] none
 
 ###### Priority
+
+* [ ] remove github history for deleted files and encrypted files
 
 * [ ] add URL scrapping
 
