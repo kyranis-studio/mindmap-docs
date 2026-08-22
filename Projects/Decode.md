@@ -6,23 +6,23 @@
 
 ###### Priority
 
-* [ ] open node script in the editor for display and edit
-
 * [ ] add a JSON file editor
 
-* [ ] graph auto layout (column based)
+- [ ] open node script in the editor for display and edit
 
-* [ ] add llm routing (choose the best llm to use)
+- [ ] graph auto layout (column based)
 
-* [ ] MCP connection
+- [ ] add llm routing (choose the best llm to use)
 
-* [ ] improve loop in graph
+- [ ] MCP connection
 
-* [ ] add and update server
+- [ ] improve loop in graph
 
-* [ ] AI model control the IDE
+- [ ] add and update server
 
-* [ ] none
+- [ ] AI model control the IDE
+
+- [ ] none
 
 ###### Features
 
