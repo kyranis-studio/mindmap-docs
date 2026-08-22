@@ -10,11 +10,11 @@
 
 * [ ] graph auto layout (column based)
 
-* [ ] MCP connection
-
 * [ ] improve loop in graph
 
 * [ ] add and update server
+
+* [ ] MCP connection
 
 * [ ] AI model control the IDE
 
