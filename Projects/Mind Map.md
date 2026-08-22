@@ -1,7 +1,5 @@
 ###### Bugs
 
-* [ ] favorite icon and tags don't align well
-
 * [ ] at startup verify every section in model assignment have the correct model
 
 * [ ] filter the models by capabilities embedding vision general chat
