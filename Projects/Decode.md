@@ -1,6 +1,6 @@
 ###### bug fix
 
-* [ ] the box select don't
+* [ ] the box select don't select group
 
 * [ ] toggle group node dons show the link until the will be moved
 
