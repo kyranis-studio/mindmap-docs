@@ -45,15 +45,15 @@
       "isFavorite": true,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 1,
       "createdAt": "2026-07-07T19:35:10.235Z",
       "updatedAt": "2026-08-22T17:14:28.369Z"
     },
-    "Projects/Unichat.md": {
+    "Prompts/Unichat.md": {
       "isFavorite": true,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 1,
       "createdAt": "2026-08-22T12:13:58.382Z",
       "updatedAt": "2026-08-22T12:14:29.173Z"
     },
@@ -115,7 +115,7 @@
       "sync": true,
       "index": false
     },
-    "Projects/Unichat.md": {
+    "Prompts/Unichat.md": {
       "sync": true,
       "index": true
     }
