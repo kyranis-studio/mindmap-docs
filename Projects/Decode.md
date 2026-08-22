@@ -8,7 +8,7 @@
 
 * [ ] open node script in the editor fro edit
 
-* [ ] add a json file 
+* [ ] add a json file editor
 
 * [ ] add llm routing (choose the best llm to use)
 
