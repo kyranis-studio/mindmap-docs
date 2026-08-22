@@ -8,9 +8,9 @@
 
 * [ ] LLM app awareness
 
-* [ ] MCP connection
-
 * [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
+
+* [ ] MCP connection
 
 * [ ] add URL scrapping / learn skill
 
