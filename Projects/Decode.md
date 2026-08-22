@@ -10,6 +10,8 @@
 
 * [ ] improve loop in graph
 
+* [ ] ask for command run
+
 * [ ] add and update server
 
 * [ ] MCP connection
@@ -26,13 +28,11 @@
 
 - [ ] add git tab
 
-* [ ] ask for command run
+* [ ] add tools permission
 
-- [ ] add tools permission
+* [ ] add database in knowledge tab
 
-- [ ] add database in knowledge tab
+* [ ] add a browser tab
 
-- [ ] add a browser tab
-
-- [ ] add memory for actions
+* [ ] add memory for actions
 
