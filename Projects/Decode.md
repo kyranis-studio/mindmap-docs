@@ -10,8 +10,6 @@
 
 * [ ] graph auto layout (column based)
 
-* [ ] add llm routing (choose the best llm to use)
-
 * [ ] MCP connection
 
 * [ ] improve loop in graph
@@ -24,17 +22,19 @@
 
 ###### Features
 
-* [ ] add git tab
+* [ ] add llm routing (choose the best llm to use)
 
-- [ ] ask for command run
+- [ ] add git tab
 
-* [ ] add an UI tool node
+* [ ] ask for command run
 
-* [ ] add tools permission
+- [ ] add an UI tool node
 
-* [ ] add database in knowledge tab
+- [ ] add tools permission
 
-* [ ] add a browser tab
+- [ ] add database in knowledge tab
 
-* [ ] add memory for actions
+- [ ] add a browser tab
+
+- [ ] add memory for actions
 
