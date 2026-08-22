@@ -14,7 +14,7 @@
 
 * [ ] add llm routing (choose the best llm to use)
 
-* [ ] expose and connect with other vector database
+* [ ] MCP
 
 * [ ] improve loop in graph
 
