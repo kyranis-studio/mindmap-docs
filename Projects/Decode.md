@@ -10,6 +10,8 @@
 
 - [ ] open node script in the editor for display and edit
 
+- [ ] control click in node vor 
+
 - [ ] graph auto layout (column based)
 
 - [ ] add llm routing (choose the best llm to use)
