@@ -6,7 +6,7 @@
 
 ###### Priority
 
-* [ ] open node script in the editor 
+* [ ] open node script in the editor fro edit
 
 * [ ] add llm routing (choose the best llm to use)
 
