@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] LLm 
+* [ ] LLm ai
 
 * [ ] MCP connection
 
