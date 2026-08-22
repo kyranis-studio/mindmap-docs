@@ -6,8 +6,6 @@
 
 ###### Priority
 
-open
-
 * [ ] add llm routing (choose the best llm to use)
 
 * [ ] MCP connection
