@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] control click in node for isolation mode
-
 * [ ] graph auto layout (column based)
 
 * [ ] improve loop in graph
