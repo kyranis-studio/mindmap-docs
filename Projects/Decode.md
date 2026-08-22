@@ -6,7 +6,7 @@
 
 ###### Priority
 
-* [ ] open node script in the editor for edit
+* [ ] open node script in the editor for display and edit
 
 * [ ] add a JSON file editor
 
