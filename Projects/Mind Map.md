@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] LLm app awerness
+* [ ] LLm app LLM app awareness
 
 * [ ] MCP connection
 
