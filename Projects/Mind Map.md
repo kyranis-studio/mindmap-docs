@@ -10,7 +10,7 @@
 
 ###### Priority
 
-* [ ] ui optimazaetion
+* [ ] ui optimazation
 
 * [ ] LLM app awareness
 
