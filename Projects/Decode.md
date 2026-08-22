@@ -6,10 +6,6 @@
 
 ###### Priority
 
-* [ ] add a script execution tool node
-
-* [ ] add a script execution node
-
 * [ ] add llm routing (choose the best llm to use)
 
 * [ ] MCP connection
