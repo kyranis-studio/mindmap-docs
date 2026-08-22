@@ -4,31 +4,29 @@
 
 ###### Priority
 
-* [ ] add llm branching node
+* [ ] control click in node for isolation mode
 
-* [ ] add a script execution tool node
-
-* [ ] add a script execution node
-
-* [ ] add llm routing (choose the best llm to use)
+* [ ] graph auto layout (column based)
 
 * [ ] improve loop in graph
 
+* [ ] ask for command run in tools nodes
+
 * [ ] add and update server
+
+* [ ] MCP connection
+
+* [ ] AI model control the IDE
+
+* [ ] add an UI tool node
 
 * [ ] none
 
 ###### Features
 
-* [ ] graph auto layout (column based)
+* [ ] add llm routing (choose the best llm to use)
 
-* [ ] AI model control the IDE
-
-* [ ] add git tab
-
-- [ ] ask for command run
-
-* [ ] add an UI tool node
+- [ ] add git tab
 
 * [ ] add tools permission
 
