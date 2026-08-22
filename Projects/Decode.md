@@ -2,7 +2,7 @@
 
 * [ ] when the user click in the canvas deselect all the selected node
 
-* [ ] toggle group 
+* [ ] toggle group node lo
 
 * [ ] none
 
