@@ -20,8 +20,6 @@
 
 * [ ] add URL scrapping
 
-* [ ] clean the git history for password protected files
-
 * [ ] add and update server
 
 * [ ] make sure the llm could edit settings
