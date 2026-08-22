@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] graph auto layout (column based)
-
 * [ ] improve loop in graph
 
 * [ ] ask for command run in tools nodes
