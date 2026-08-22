@@ -116,8 +116,8 @@
       "index": false
     },
     "Projects/Unichat.md": {
-      "sync": false,
-      "index": false
+      "sync": true,
+      "index": true
     }
   }
 }
