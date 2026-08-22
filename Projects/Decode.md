@@ -2,7 +2,7 @@
 
 * [ ] when the user click in the canvas deselect all the selected node
 
-* [ ] toggle group node dons show
+* [ ] toggle group node dons show the link until the will be moved
 
 * [ ] none
 
