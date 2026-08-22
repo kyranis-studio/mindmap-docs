@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] add a JSON file editor
+* [ ] add Vanilla JSON Editor file editor
 
 - [ ] open node script in the editor for display and edit
 
