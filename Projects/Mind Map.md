@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] v
+* [ ] favourit icon dont align well
 
 * [ ] at startup verify every section in model assignment have the correct model
 
