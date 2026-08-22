@@ -1,5 +1,7 @@
 ###### Bugs
 
+* [ ] <br />
+
 * [ ] at startup verify every section in model assignment have the correct model
 
 * [ ] filter the models by capabilities embedding vision general chat
