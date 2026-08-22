@@ -10,6 +10,8 @@
 
 * [ ] add a JSON file editor
 
+* [ ] graph auto layout (column based)
+
 * [ ] add llm routing (choose the best llm to use)
 
 * [ ] MCP connection
@@ -23,8 +25,6 @@
 * [ ] none
 
 ###### Features
-
-* [ ] graph auto layout (column based)
 
 * [ ] add git tab
 
