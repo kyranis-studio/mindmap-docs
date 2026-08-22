@@ -4,25 +4,23 @@
 
 ###### Priority
 
-* [ ] add Vanilla JSON Editor file editor
+* [ ] open node script in the editor for display and edit
 
-- [ ] open node script in the editor for display and edit
+* [ ] control click in node for isolation mode
 
-- [ ] control click in node for isolation mode
+* [ ] graph auto layout (column based)
 
-- [ ] graph auto layout (column based)
+* [ ] add llm routing (choose the best llm to use)
 
-- [ ] add llm routing (choose the best llm to use)
+* [ ] MCP connection
 
-- [ ] MCP connection
+* [ ] improve loop in graph
 
-- [ ] improve loop in graph
+* [ ] add and update server
 
-- [ ] add and update server
+* [ ] AI model control the IDE
 
-- [ ] AI model control the IDE
-
-- [ ] none
+* [ ] none
 
 ###### Features
 
