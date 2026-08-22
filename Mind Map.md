@@ -1,5 +1,7 @@
 ###### Bugs
 
+* [ ] favorite icon don't align well
+
 * [ ] at startup verify every section in model assignment have the correct model
 
 * [ ] filter the models by capabilities embedding vision general chat
@@ -8,6 +10,10 @@
 
 ###### Priority
 
+* [ ] LLM app awareness
+
+* [ ] MCP connection
+
 * [ ] remove github history for deleted files and encrypted files
 
 * [ ] add URL scrapping
@@ -15,6 +21,8 @@
 * [ ] clean the git history for password protected files
 
 * [ ] add and update server
+
+* [ ] make sure the llm could edit settings
 
 * [ ] none
 
