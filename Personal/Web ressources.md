@@ -4,3 +4,4 @@
 
 **Prime agent**: <https://github.com/PrimeIntellect-ai/prime-agent>
 
+Free
