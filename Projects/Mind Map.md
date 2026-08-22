@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] <br />
+* [ ] expose and connect with other vector database
 
 * [ ] remove github history for deleted files and encrypted files
 
