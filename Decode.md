@@ -1,10 +1,8 @@
 ###### bug fix
 
-* [ ] remove the loop group
+* [ ] none
 
 ###### Priority
-
-* [ ] optimize indexing
 
 * [ ] add llm branching node
 
