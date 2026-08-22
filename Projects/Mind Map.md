@@ -16,7 +16,7 @@
 
 * [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
 
-* [ ] add URL scrapping
+* [ ] add URL scrapping / learn skill
 
 * [ ] add and update server
 
