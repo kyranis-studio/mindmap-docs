@@ -6,8 +6,6 @@
 
 ###### Priority
 
-* [ ] add llm branching node
-
 * [ ] add a script execution tool node
 
 * [ ] add a script execution node
