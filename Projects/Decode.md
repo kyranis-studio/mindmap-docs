@@ -10,7 +10,7 @@
 
 - [ ] open node script in the editor for display and edit
 
-- [ ] control click in node vor 
+- [ ] control click in node vor isolation mode
 
 - [ ] graph auto layout (column based)
 
