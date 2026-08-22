@@ -1,6 +1,6 @@
 ###### bug fix
 
-* [ ] when the user click in the canvas deselect all the selected node
+* [ ] the box select don't
 
 * [ ] toggle group node dons show the link until the will be moved
 
