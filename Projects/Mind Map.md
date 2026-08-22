@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] LLm app aw
+* [ ] LLm app awerness
 
 * [ ] MCP connection
 
