@@ -149,7 +149,7 @@
       "index": false
     },
     "Personal/Tags.md": {
-      "sync": false,
+      "sync": true,
       "index": false
     }
   }
