@@ -4,4 +4,4 @@
 
 **Prime agent**: <https://github.com/PrimeIntellect-ai/prime-agent>
 
-<https://github.com/FlashML-org/FreeToken/tree/main>
+FreeToken <https://github.com/FlashML-org/FreeToken/tree/main>
