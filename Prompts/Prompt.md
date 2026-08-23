@@ -1,12 +1,14 @@
-* Rename the Sync and Indexing tab to “Sync and Backups.”
+* Make sure the rag system work like this
 
-* Eliminate any sync or indexing delay.
+  the LLM will use the vector database to save
 
-* Delete INDEXING DELAY, SYNC DELAY, and MINIMUM INTERVAL BETWEEN SYNCS.
+  \- the tree structure
 
-* Add a new delay setting for automatic backups (hours or days).
+  \- files content
 
-* Ensure syncs are pushed automatically and backups run on the specified interval.
+  \- AI description
 
-* Make it work
+  when the user prompts the model will use the vector database to decide what files to be used read the files then respond
+
+  the LLM will be restricted to one file if the user uses the chat button to chat the document
 
