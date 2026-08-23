@@ -126,7 +126,8 @@
     },
     "Projects/Mind Map.md": {
       "sync": true,
-      "index": true
+      "index": true,
+      "describe": true
     },
     "Projects/Decode.md": {
       "sync": true,
