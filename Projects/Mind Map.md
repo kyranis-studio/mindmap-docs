@@ -4,6 +4,10 @@
 
 ###### Priority
 
+* [ ] add wiki link and integrated with the graph
+
+- [ ] embedding images
+
 * [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
 
 * [ ] MCP connection
@@ -15,10 +19,6 @@
 * [ ] none
 
 ###### Featues:
-
-* [ ] embedding images
-
-* [ ] add wiki link and integrated with the graph
 
 * [ ] add smart chunking strategy
 
