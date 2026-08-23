@@ -123,6 +123,16 @@
     "Projects/Unichat.md": {
       "sync": true,
       "index": true
+    },
+    "Projects/Mind Map.md": {
+      "sync": true,
+      "index": true,
+      "describe": true
+    },
+    "Projects/Decode.md": {
+      "sync": true,
+      "index": true,
+      "describe": true
     }
   }
 }
