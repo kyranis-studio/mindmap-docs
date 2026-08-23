@@ -30,7 +30,5 @@
 
 * [ ] create a custom markdown editor
 
-- [ ] **AI summarize grammar check**
-
-- [ ] **Undo/redo system**
+* [ ] **Undo/redo system**
 
