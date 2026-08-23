@@ -126,13 +126,16 @@
     },
     "Projects/Mind Map.md": {
       "sync": true,
-      "index": true,
-      "describe": true
+      "index": true
     },
     "Projects/Decode.md": {
       "sync": true,
-      "index": true,
-      "describe": true
+      "index": true
+    },
+    "work/Branches.md": {
+      "sync": true,
+      "index": false,
+      "describe": false
     }
   }
 }
