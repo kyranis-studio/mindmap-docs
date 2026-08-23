@@ -16,8 +16,6 @@
 
 ###### Featues:
 
-* [ ] save the ignored word
-
 * [ ] embedding images
 
 * [ ] add wiki link and integrated with the graph
