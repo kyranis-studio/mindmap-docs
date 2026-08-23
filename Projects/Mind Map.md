@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] the wiki link don't work on first created when t
+* [ ] the wiki link don't work on first created when the user click inthe likn
 
 * [ ] none
 
