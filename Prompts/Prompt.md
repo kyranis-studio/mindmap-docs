@@ -1,2 +1,2 @@
-* [ ] add wiki link and integrated with the graph
+add wiki link and integrated with the graph
 
