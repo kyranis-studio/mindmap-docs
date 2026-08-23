@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] the wiki link dont work on first
+* [ ] the wiki link dont work on first created
 
 * [ ] none
 
