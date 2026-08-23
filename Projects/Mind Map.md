@@ -10,7 +10,7 @@
 
 - [ ] add inline AI edit feature
 
-- [ ] Undo/redo system
+- [ ] Undo/redo [system](work/cape.md)
 
 * [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
 
