@@ -4,9 +4,9 @@ the LLM will use the vector database to save
 
 \- the tree structure
 
-* \- files content
+\- files content
 
-  \- AI description
+* \- AI description
 
   when the user prompts the model will use the vector database to decide what files to be used read the files then respond
 
