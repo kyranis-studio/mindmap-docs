@@ -16,8 +16,6 @@
 
 ###### Featues:
 
-* [ ] make sure to use the grammar check for all app inputs
-
 * [ ] save the ignored word
 
 * [ ] embedding images
