@@ -10,7 +10,7 @@
 
 - [ ] add inline AI edit feature
 
-- [ ] **Undo/redo system**
+- [ ] Undo/redo system
 
 * [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
 
