@@ -1,10 +1,6 @@
 ###### Bugs
 
-* [ ] favorite icon don't align well
-
 * [ ] at startup verify every section in model assignment have the correct model
-
-* [ ] filter the models by capabilities embedding vision general chat
 
 * [ ] none
 
@@ -12,17 +8,15 @@
 
 * [ ] LLM app awareness
 
+* [ ] make sure the llm could edit settings
+
+* [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
+
 * [ ] MCP connection
 
-* [ ] remove github history for deleted files and encrypted files
-
-* [ ] add URL scrapping
-
-* [ ] clean the git history for password protected files
+* [ ] add URL scrapping / learn skill
 
 * [ ] add and update server
-
-* [ ] make sure the llm could edit settings
 
 * [ ] none
 
