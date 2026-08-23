@@ -1,7 +1,5 @@
 ###### Bugs
 
-* [ ] at startup verify every section in model assignment have the correct model
-
 * [ ] none
 
 ###### Priority
