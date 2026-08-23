@@ -8,17 +8,15 @@
 
 * [ ] ask for command run in tools nodes
 
-- [ ] improve loop in graph
+* [ ] add an UI tool node
 
-- [ ] add an UI tool node
+* [ ] AI model control the IDE
 
-- [ ] AI model control the IDE
+* [ ] add and update server
 
-- [ ] add and update server
+* [ ] MCP connection
 
-- [ ] MCP connection
-
-- [ ] none
+* [ ] none
 
 ###### Features
 
