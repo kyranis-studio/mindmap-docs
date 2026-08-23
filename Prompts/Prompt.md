@@ -1,6 +1,6 @@
-* Make sure the rag system work like this
+Make sure the rag system work like this
 
-  the LLM will use the vector database to save
+* the LLM will use the vector database to save
 
   \- the tree structure
 
