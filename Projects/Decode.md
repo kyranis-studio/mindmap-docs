@@ -8,11 +8,11 @@
 
 - [ ] improve loop in graph
 
+- [ ] AI model control the IDE
+
 - [ ] add and update server
 
 - [ ] MCP connection
-
-- [ ] AI model control the IDE
 
 - [ ] add an UI tool node
 
