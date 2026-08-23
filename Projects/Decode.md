@@ -4,19 +4,19 @@
 
 ###### Priority
 
+* [ ] improve loop in graph
+
 * [ ] ask for command run in tools nodes
 
-- [ ] improve loop in graph
+* [ ] add and update server
 
-- [ ] add and update server
+* [ ] MCP connection
 
-- [ ] MCP connection
+* [ ] AI model control the IDE
 
-- [ ] AI model control the IDE
+* [ ] add an UI tool node
 
-- [ ] add an UI tool node
-
-- [ ] none
+* [ ] none
 
 ###### Features
 
