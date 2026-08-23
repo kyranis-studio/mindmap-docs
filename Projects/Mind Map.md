@@ -14,8 +14,6 @@
 
 * [ ] none
 
-* [ ] <br />
-
 ###### Featues:
 
 * [ ] embedding images
