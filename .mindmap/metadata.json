@@ -93,6 +93,14 @@
       "position": 2,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:18.239Z"
+    },
+    "Personal/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-23T18:12:32.047Z",
+      "updatedAt": "2026-08-23T18:12:32.047Z"
     }
   },
   "folders": {
@@ -138,6 +146,10 @@
     },
     "work/cape.md": {
       "sync": true,
+      "index": false
+    },
+    "Personal/Untitled.md": {
+      "sync": false,
       "index": false
     }
   }
