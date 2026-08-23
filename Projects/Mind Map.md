@@ -6,7 +6,7 @@
 
 * [ ] add wiki link and integrated with the graph
 
-- [ ] embedding images
+- [ ] embedding [images](work/cape.md)
 
 - [ ] add inline AI edit feature
 
