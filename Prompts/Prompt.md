@@ -1,2 +1,1 @@
-add wiki link and integrated with the graph
-
+Add a wiki link and integrate it with the graph
