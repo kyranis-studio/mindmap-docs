@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] add graph llop
+* [ ] add graph loop
 
 * [ ] ask for command run in tools nodes
 
