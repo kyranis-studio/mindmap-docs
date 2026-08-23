@@ -131,7 +131,8 @@
     },
     "Projects/Decode.md": {
       "sync": true,
-      "index": true
+      "index": true,
+      "describe": true
     },
     "work/Branches.md": {
       "sync": true,
