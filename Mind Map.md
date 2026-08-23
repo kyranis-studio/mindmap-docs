@@ -1,14 +1,16 @@
 ###### Bugs
 
-* [ ] at startup verify every section in model assignment have the correct model
-
 * [ ] none
 
 ###### Priority
 
-* [ ] LLM app awareness
+* [ ] add wiki link and integrated with the graph
 
-* [ ] make sure the llm could edit settings
+- [ ] embedding images
+
+- [ ] add inline AI edit feature
+
+- [ ] **Undo/redo system**
 
 * [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
 
@@ -22,21 +24,7 @@
 
 ###### Featues:
 
-* [ ] make sure to use the grammar check for all app inputs
-
-* [ ] save the ignored word
-
-* [ ] embedding images
-
-* [ ] add wiki link and integrated with the graph
-
 * [ ] add smart chunking strategy
 
-* [ ] add inline AI edit feature
-
 * [ ] create a custom markdown editor
-
-- [ ] **AI summarize grammar check**
-
-- [ ] **Undo/redo system**
 
