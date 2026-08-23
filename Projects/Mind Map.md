@@ -1,7 +1,5 @@
 ###### Bugs
 
-* [ ] <br />
-
 * [ ] none
 
 ###### Priority
