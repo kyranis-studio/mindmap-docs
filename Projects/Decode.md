@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] ask for command run in [tools](Personal/General%20tasks.md) nodes
+* [ ] ask for command run in tools nodes
 
 - [ ] improve loop in graph
 
