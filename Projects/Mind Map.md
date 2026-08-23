@@ -4,10 +4,6 @@
 
 ###### Priority
 
-* [ ] LLM app awareness
-
-* [ ] make sure the llm could edit settings
-
 * [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
 
 * [ ] MCP connection
