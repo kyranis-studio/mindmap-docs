@@ -136,6 +136,11 @@
       "sync": true,
       "index": false,
       "describe": false
+    },
+    "work/cape.md": {
+      "sync": false,
+      "index": true,
+      "describe": false
     }
   }
 }
