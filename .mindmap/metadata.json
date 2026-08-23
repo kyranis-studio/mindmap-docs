@@ -138,8 +138,8 @@
       "describe": false
     },
     "work/cape.md": {
-      "sync": false,
-      "index": true,
+      "sync": true,
+      "index": false,
       "describe": false
     }
   }
