@@ -8,6 +8,8 @@
 
 - [ ] embedding images
 
+- [ ] add inline AI edit feature
+
 * [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
 
 * [ ] MCP connection
@@ -21,8 +23,6 @@
 ###### Featues:
 
 * [ ] add smart chunking strategy
-
-* [ ] add inline AI edit feature
 
 * [ ] create a custom markdown editor
 
