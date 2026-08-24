@@ -68,7 +68,8 @@
       "updatedAt": "2026-08-24T06:09:00.178Z"
     },
     "Prompts/Prompt.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 4,
       "aiSummary": "",
       "tags": [],
       "position": 0,
