@@ -1,24 +1,32 @@
-###### bugs
+###### Bugs
 
-* [ ] fix the tag used after the AI response to point to the used file only
+* [ ] none
 
-###### featues:
+###### Priority
 
-* [ ] add grammar fix
+* [ ] add URL scrapping
 
-* [ ] add a settings for spelling check
+* [ ] clean the git history for password protected files
+
+* [ ] add and update server
+
+* [ ] none
+
+###### Featues:
+
+* [ ] make sure to use the grammar check for all app inputs
+
+* [ ] save the ignored word
 
 * [ ] embedding images
 
-* [ ] fetch URL content
-
-* [ ] add wiki link with the graph
+* [ ] add wiki link and integrated with the graph
 
 * [ ] add smart chunking strategy
 
-* [ ] add inline edit feature
+* [ ] add inline AI edit feature
 
-- [ ] **Select and restore version**
+* [ ] create a custom markdown editor
 
 - [ ] **AI summarize grammar check**
 

@@ -1,22 +1,30 @@
 ###### bug fix
 
-* [ ] fix group shortcut
+* [ ] none
 
-* [ ] fix ungroup button
+###### Priority
 
-###### features
+* [ ] add graph loop
 
-* [ ] add llm switch node
-
-* [ ] add a script execution node
-
-* [ ] add a script execution tool node
-
-- [ ] improve loop in graph
-
-- [ ] ask for command run
+* [ ] ask for command run in tools nodes
 
 * [ ] add an UI tool node
+
+* [ ] AI model control the IDE
+
+* [ ] add and update server
+
+* [ ] MCP connection
+
+* [ ] none
+
+###### Features
+
+* [ ] UI designer tab
+
+* [ ] add llm routing (choose the best llm to use)
+
+- [ ] add git tab
 
 * [ ] add tools permission
 

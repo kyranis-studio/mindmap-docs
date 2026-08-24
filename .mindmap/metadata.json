@@ -1,47 +1,90 @@
 {
   "version": 1,
   "documents": {
+    "Personal/API Keys.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-20T18:50:46.893Z",
+      "updatedAt": "2026-08-20T20:14:31.454Z"
+    },
+    "Personal/General tasks.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 3,
+      "createdAt": "2026-08-21T08:08:37.616Z",
+      "updatedAt": "2026-08-21T08:09:24.054Z"
+    },
+    "Personal/Info.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 1,
+      "createdAt": "2026-08-20T20:13:23.029Z",
+      "updatedAt": "2026-08-20T20:13:57.154Z"
+    },
+    "Personal/Tags.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-24T06:09:00.177Z",
+      "updatedAt": "2026-08-24T06:09:00.177Z"
+    },
+    "Personal/Web ressources.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 2,
+      "createdAt": "2026-08-21T05:53:39.660Z",
+      "updatedAt": "2026-08-21T06:51:42.766Z"
+    },
     "Projects/Decode.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
       "position": 0,
       "createdAt": "2026-08-18T11:37:43.073Z",
-      "updatedAt": "2026-08-20T12:40:03.927Z"
+      "updatedAt": "2026-08-21T09:48:45.434Z"
     },
     "Projects/Mind Map.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-20T12:27:38.501Z"
+      "updatedAt": "2026-08-24T06:16:37.510Z"
+    },
+    "Projects/Unichat.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-24T06:09:00.178Z",
+      "updatedAt": "2026-08-24T06:09:00.178Z"
     },
     "Prompts/Prompt.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-20T10:30:25.746Z"
+      "updatedAt": "2026-08-20T20:16:35.464Z"
     },
     "work/Branches.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
       "position": 0,
       "createdAt": "2026-08-17T11:41:55.452Z",
       "updatedAt": "2026-08-20T09:42:01.068Z"
     },
-    "work/Olafatco.md": {
+    "work/Olafatco.emd": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:36.993Z"
@@ -50,23 +93,35 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "passwordHash": null,
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-17T11:42:18.239Z"
+      "updatedAt": "2026-08-21T08:27:00.515Z"
     }
   },
   "folders": {
+    "Personal": {
+      "name": "Personal"
+    },
     "Projects": {
-      "passwordHash": null
+      "name": "Projects"
     },
     "Prompts": {
-      "passwordHash": null
+      "name": "Prompts"
     },
     "work": {
-      "passwordHash": null
+      "name": "work"
     }
   },
   "tags": [],
-  "nextTagId": 0
+  "nextTagId": 0,
+  "files": {
+    "Personal/Web ressources.md": {
+      "sync": true,
+      "index": true
+    },
+    "Personal/General tasks.md": {
+      "sync": true,
+      "index": false
+    }
+  }
 }
