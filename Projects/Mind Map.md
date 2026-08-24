@@ -9,6 +9,7 @@
 ###### Priority
 
 * [ ] optimize indexing
+
 * [ ] Select and restore version /optimization of commit
 
 - [ ] sync app parameters
