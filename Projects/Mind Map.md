@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] add a settings for spelling check
+* [ ] <br />
 
 * [ ] add URL scrapping
 
