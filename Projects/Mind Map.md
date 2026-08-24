@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] sync app parameters
-
 * [ ] rewrite setting
 
 * [ ] add theme settings
