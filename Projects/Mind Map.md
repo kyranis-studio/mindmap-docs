@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] rewrite setting
-
 * [ ] add theme settings
 
 * [ ] add custom prompt for action like skills in setting
