@@ -1,36 +1,30 @@
 ###### bug fix
 
-* [ ] remove the loop group
+* [ ] none
 
 ###### Priority
 
-* [ ] optimize indexing
+* [ ] add graph loop
 
-* [ ] add llm branching node
+* [ ] ask for command run in tools nodes
 
-* [ ] add llm routing (choose the best llm to use)
+* [ ] add an UI tool node
 
-* [ ] add a script execution tool node
-
-* [ ] add a script execution node
-
-* [ ] improve loop in graph
+* [ ] AI model control the IDE
 
 * [ ] add and update server
+
+* [ ] MCP connection
 
 * [ ] none
 
 ###### Features
 
-* [ ] graph auto layout (column based)
+* [ ] UI designer tab
 
-* [ ] AI model control the IDE
+* [ ] add llm routing (choose the best llm to use)
 
-* [ ] add git tab
-
-- [ ] ask for command run
-
-* [ ] add an UI tool node
+- [ ] add git tab
 
 * [ ] add tools permission
 

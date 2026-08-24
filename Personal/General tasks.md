@@ -1,1 +1,1 @@
-ollama pull ornith-1.5:35b
+openrouter Alpha + OpenCode (100T Tokens/Day)
