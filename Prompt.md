@@ -1,0 +1,1 @@
+Create a plugin that enables users to link words to an article via “wiki link”. Include this relation in the graph visualization. Follow all existing constraints and ensure the output meets the specified requirements.
