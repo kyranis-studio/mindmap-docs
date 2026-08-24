@@ -1,7 +1,5 @@
 ###### Bugs
 
-* [ ] for the files tree use the same width for icons
-
 * [ ] none
 
 ###### Priority
