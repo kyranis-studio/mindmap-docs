@@ -4,25 +4,23 @@
 
 ###### Priority
 
-* [ ] Select and restore version /optimization of commit
+* [ ] sync app parameters
 
-- [ ] sync app parameters
+* [ ] rewrite setting
 
-- [ ] rewrite setting
+* [ ] add theme settings
 
-- [ ] add theme settings
+* [ ] add custom prompt for action like skills in setting
 
-- [ ] add custom prompt for action like skills in setting
+* [ ] add a settings for spelling check
 
-- [ ] add a settings for spelling check
+* [ ] add URL scrapping
 
-- [ ] add URL scrapping
+* [ ] clean the git history for password protected files
 
-- [ ] clean the git history for password protected files
+* [ ] add and update server
 
-- [ ] add and update server
-
-- [ ] none
+* [ ] none
 
 ###### Featues:
 
