@@ -74,7 +74,8 @@
       "updatedAt": "2026-08-20T20:16:35.464Z"
     },
     "work/Branches.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 0,
       "aiSummary": "",
       "tags": [],
       "position": 0,
