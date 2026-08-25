@@ -82,7 +82,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-25T12:20:30.122Z"
+      "updatedAt": "2026-08-25T12:38:40.327Z"
     },
     "work/Branches.md": {
       "isFavorite": true,
@@ -140,5 +140,7 @@
       "sync": true,
       "index": false
     }
-  }
+  },
+  "docAssetRefs": {},
+  "retainedAssets": []
 }
