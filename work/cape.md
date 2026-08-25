@@ -19,3 +19,7 @@ http\://localhost/absences-v2?u=rudy.krolikowski
 
 <br />
 
+<br />
+
+![1.00](blob:http://localhost:1420/55b34a51-1eb5-4a98-94a8-013370993d68)
+
