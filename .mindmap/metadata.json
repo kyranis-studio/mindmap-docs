@@ -99,7 +99,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-25T16:12:30.924Z"
+      "updatedAt": "2026-08-25T16:12:34.393Z"
     },
     "work/cape.md": {
       "isFavorite": true,
@@ -152,8 +152,12 @@
     "Prompts/Prompt.md": [],
     "work/Branches.md": [],
     "work/cape.md": [],
-    "work/Olafatco.emd": []
+    "work/Olafatco.emd": [
+      ".assets/Capture-a6b37b59.PNG"
+    ]
   },
   "retainedAssets": [],
-  "embeddedAssets": []
+  "embeddedAssets": [
+    ".assets/Capture-a6b37b59.PNG"
+  ]
 }
