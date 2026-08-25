@@ -17,5 +17,3 @@ http\://localhost/gerer-la-licence-v2?u=maryline.faure-vinay
 
 http\://localhost/absences-v2?u=rudy.krolikowski
 
-![1.00](blob:http://localhost:1420/66263a2f-84fa-4f47-9229-2f4461c9a318)
-
