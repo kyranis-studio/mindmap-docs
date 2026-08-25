@@ -6,5 +6,3 @@ with the ability to create and open nested loop like a tree
 
 <br />
 
-![1.00](.assets/Capture-36c92363.PNG)
-
