@@ -30,4 +30,4 @@
 
 **Next move**: guide your out of control character with random action
 
-**Strong bond tactical squad** : tactical game with dog
+**Strong bond tactical squad**: tactical game with dog
