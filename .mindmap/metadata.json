@@ -82,7 +82,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-25T13:05:26.915Z"
+      "updatedAt": "2026-08-25T13:06:08.175Z"
     },
     "work/Branches.md": {
       "isFavorite": true,
@@ -149,9 +149,7 @@
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
     "Projects/Unichat.md": [],
-    "Prompts/Prompt.md": [
-      ".assets/Capture-231b3d9b.PNG"
-    ],
+    "Prompts/Prompt.md": [],
     "work/Branches.md": [],
     "work/cape.md": []
   },
