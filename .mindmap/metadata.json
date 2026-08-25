@@ -101,6 +101,14 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-21T08:27:00.515Z"
+    },
+    "Personal/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-25T08:24:49.228Z",
+      "updatedAt": "2026-08-25T08:24:49.228Z"
     }
   },
   "folders": {
@@ -126,6 +134,10 @@
     },
     "Personal/General tasks.md": {
       "sync": true,
+      "index": false
+    },
+    "Personal/Untitled.md": {
+      "sync": false,
       "index": false
     }
   }
