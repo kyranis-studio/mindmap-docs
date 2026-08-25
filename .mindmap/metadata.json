@@ -141,6 +141,17 @@
       "index": false
     }
   },
-  "docAssetRefs": {},
+  "docAssetRefs": {
+    "Personal/Game idea.md": [],
+    "Personal/General tasks.md": [],
+    "Personal/Tags.md": [],
+    "Personal/Web ressources.md": [],
+    "Projects/Decode.md": [],
+    "Projects/Mind Map.md": [],
+    "Projects/Unichat.md": [],
+    "Prompts/Prompt.md": [],
+    "work/Branches.md": [],
+    "work/cape.md": []
+  },
   "retainedAssets": []
 }
