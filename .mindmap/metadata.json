@@ -9,6 +9,14 @@
       "createdAt": "2026-08-20T18:50:46.893Z",
       "updatedAt": "2026-08-24T14:12:35.082Z"
     },
+    "Personal/Game idea.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-25T08:24:49.228Z",
+      "updatedAt": "2026-08-25T08:26:44.206Z"
+    },
     "Personal/General tasks.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -91,7 +99,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-17T11:42:36.993Z"
+      "updatedAt": "2026-08-25T09:26:12.014Z"
     },
     "work/cape.md": {
       "isFavorite": true,
@@ -101,14 +109,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-21T08:27:00.515Z"
-    },
-    "Personal/Game idea.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-25T08:24:49.228Z",
-      "updatedAt": "2026-08-25T08:26:44.206Z"
     }
   },
   "folders": {
