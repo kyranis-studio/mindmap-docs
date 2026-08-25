@@ -23,5 +23,5 @@ http\://localhost/absences-v2?u=rudy.krolikowski
 
 <br />
 
-<br />
+![1.00](blob:tauri://localhost/8bce62b3-2868-4770-9e59-00045f127a5a)
 
