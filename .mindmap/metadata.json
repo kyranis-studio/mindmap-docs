@@ -82,7 +82,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-25T16:04:41.856Z"
+      "updatedAt": "2026-08-25T16:04:45.247Z"
     },
     "work/Branches.md": {
       "isFavorite": true,
@@ -149,10 +149,14 @@
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
     "Projects/Unichat.md": [],
-    "Prompts/Prompt.md": [],
+    "Prompts/Prompt.md": [
+      ".assets/Capture-36c92363.PNG"
+    ],
     "work/Branches.md": [],
     "work/cape.md": []
   },
   "retainedAssets": [],
-  "embeddedAssets": []
+  "embeddedAssets": [
+    ".assets/Capture-36c92363.PNG"
+  ]
 }
