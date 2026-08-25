@@ -19,5 +19,3 @@ http\://localhost/absences-v2?u=rudy.krolikowski
 
 <br />
 
-![1.00](.assets/Capture.PNG)
-
