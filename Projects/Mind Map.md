@@ -2,6 +2,8 @@
 
 * [ ] after sync new files don't show automatically
 
+* [ ] syn
+
 * [ ] none
 
 ###### Priority
