@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] use a d tech dictionary
+* [ ] use a developer tech dictionary
 
 * [ ] save the ignored word
 
