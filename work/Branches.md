@@ -3,7 +3,7 @@ hotfix/2.22/reset\_leave\_dialog\_after\_submit\
 hotfix/2.22/fix\_vue\_scrollbar\
 hotfix/2.22/add\_held\_post\_to\_capa\_table
 
-hotfix/2.22/fix\_capa\_
+hotfix/2.22/fix\_capa\_ui\_
 
 <br />
 
