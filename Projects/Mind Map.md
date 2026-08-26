@@ -24,7 +24,7 @@
 
 * [ ] create a custom markdown editor
 
-- [ ] **AI summarize grammar check**
+- [ ] <br />
 
 - [ ] **Undo/redo system**
 
