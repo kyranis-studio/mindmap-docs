@@ -5,6 +5,7 @@
 ###### Priority
 
 * [ ] make sure to use the grammar check for all app inputs
+* [ ] save the ignored word
 
 - [ ] add URL scrapping
 
@@ -15,8 +16,6 @@
 - [ ] none
 
 ###### Featues:
-
-* [ ] save the ignored word
 
 * [ ] add smart chunking strategy
 
