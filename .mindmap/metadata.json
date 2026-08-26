@@ -108,6 +108,14 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-21T08:27:00.515Z"
+    },
+    "Personal/Rafik.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-26T07:39:29.855Z",
+      "updatedAt": "2026-08-26T07:44:26.169Z"
     }
   },
   "folders": {
@@ -134,6 +142,10 @@
     "Personal/General tasks.md": {
       "sync": true,
       "index": false
+    },
+    "Personal/Rafik.md": {
+      "sync": true,
+      "index": false
     }
   },
   "docAssetRefs": {
@@ -149,6 +161,7 @@
     "work/Olafatco.emd": [
       ".assets/Capture-a6b37b59.PNG"
     ],
-    "Personal/Game idea.md": []
+    "Personal/Game idea.md": [],
+    "Personal/Rafik.md": []
   }
 }
