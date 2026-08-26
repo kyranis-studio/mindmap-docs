@@ -2,7 +2,7 @@
 
 * [ ] after sync new files don't show automatically
 
-* [ ] sync file stats sync/index
+* [ ] sync file states sync/index
 
 * [ ] none
 
