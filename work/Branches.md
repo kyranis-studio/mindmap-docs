@@ -9,8 +9,10 @@ hotfix/2.22/add\_held\_post\_to\_capa\_table
 
 release/2.23/update\_spomky-labs\_otphp\
 release/2.23/157957\_fix\_uncap\_browser\_history\
-release/2.23/capa\_page\_sticky\_table\_footer\
-release/2.23/vite\_build\
+release/2.23/capa\_page\_sticky\_table\_footer
+
+release/2.23/vite\_build
+
 release/2.23/add\_dark\_light\_mode\_switch
 
 release/2.23/devkit\_full\_rewrite
