@@ -4,17 +4,17 @@
 
 ###### Priority
 
-* [ ] add URL scrapping
+* [ ] make sure to use the grammar check for all app inputs
 
-* [ ] clean the git history for password protected files
+- [ ] add URL scrapping
 
-* [ ] add and update server
+- [ ] clean the git history for password protected files
 
-* [ ] none
+- [ ] add and update server
+
+- [ ] none
 
 ###### Featues:
-
-* [ ] make sure to use the grammar check for all app inputs
 
 * [ ] save the ignored word
 
