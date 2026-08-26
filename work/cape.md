@@ -10,7 +10,7 @@ http\://localhost/gerer-les-inscriptions-v2?u=valerie.roques
 
 http\://localhost/absences-v2?u=christophe.boillon
 
-api/v1/capa?qa=LFMM-W\&start=2026-04-10T12:00:00Z\&end=2026-04-12T12:00:00Z\&u=aurelien.desvergnes
+http\://localhost/api/v1/capa?qa=LFMM-W\&start=2026-04-10T12:00:00Z\&end=2026-04-12T12:00:00Z\&u=aurelien.desvergnes
 
 http\://localhost/gerer-la-licence-v2?u=daphne.pic
 
