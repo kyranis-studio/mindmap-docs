@@ -4,23 +4,19 @@
 
 ###### Priority
 
-* [ ] add URL scrapping
-
-* [ ] clean the git history for password protected files
-
-* [ ] add and update server
-
-* [ ] none
-
-###### Featues:
-
 * [ ] make sure to use the grammar check for all app inputs
 
 * [ ] save the ignored word
 
-* [ ] embedding images
+- [ ] add URL scrapping
 
-* [ ] add wiki link and integrated with the graph
+- [ ] clean the git history for password protected files
+
+- [ ] add and update server
+
+- [ ] none
+
+###### Featues:
 
 * [ ] add smart chunking strategy
 
@@ -28,7 +24,5 @@
 
 * [ ] create a custom markdown editor
 
-- [ ] **AI summarize grammar check**
-
-- [ ] **Undo/redo system**
+* [ ] **Undo/redo system**
 
