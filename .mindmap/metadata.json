@@ -7,15 +7,15 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-26T08:33:57.990Z"
+      "updatedAt": "2026-08-24T14:12:35.082Z"
     },
     "Personal/Game idea.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-08-26T06:08:45.255Z",
-      "updatedAt": "2026-08-26T06:08:45.255Z"
+      "createdAt": "2026-08-25T08:24:49.228Z",
+      "updatedAt": "2026-08-26T16:48:44.846Z"
     },
     "Personal/General tasks.md": {
       "isFavorite": false,
@@ -33,14 +33,6 @@
       "createdAt": "2026-08-20T20:13:23.029Z",
       "updatedAt": "2026-08-20T20:13:57.154Z"
     },
-    "Personal/Rafik.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-26T07:39:29.855Z",
-      "updatedAt": "2026-08-26T07:44:26.169Z"
-    },
     "Personal/Tags.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -55,25 +47,25 @@
       "tags": [],
       "position": 2,
       "createdAt": "2026-08-21T05:53:39.660Z",
-      "updatedAt": "2026-08-21T06:51:42.766Z"
+      "updatedAt": "2026-08-25T17:15:36.468Z"
     },
     "Projects/Decode.md": {
-      "isFavorite": true,
-      "favoritePosition": 2,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-18T11:37:43.073Z",
-      "updatedAt": "2026-08-26T13:47:23.731Z"
-    },
-    "Projects/Mind Map.md": {
       "isFavorite": true,
       "favoritePosition": 3,
       "aiSummary": "",
       "tags": [],
       "position": 0,
+      "createdAt": "2026-08-18T11:37:43.073Z",
+      "updatedAt": "2026-08-24T19:09:58.809Z"
+    },
+    "Projects/Mind Map.md": {
+      "isFavorite": true,
+      "favoritePosition": 2,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-26T12:37:39.817Z"
+      "updatedAt": "2026-08-24T06:16:37.510Z"
     },
     "Projects/Unichat.md": {
       "isFavorite": false,
@@ -84,12 +76,13 @@
       "updatedAt": "2026-08-24T06:09:00.178Z"
     },
     "Prompts/Prompt.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 4,
       "aiSummary": "",
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-24T15:20:34.688Z"
+      "updatedAt": "2026-08-25T18:12:07.524Z"
     },
     "work/Branches.md": {
       "isFavorite": true,
@@ -98,7 +91,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-17T11:41:55.452Z",
-      "updatedAt": "2026-08-26T09:40:56.369Z"
+      "updatedAt": "2026-08-25T18:12:33.087Z"
     },
     "work/Olafatco.emd": {
       "isFavorite": false,
@@ -106,7 +99,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-17T11:42:36.993Z"
+      "updatedAt": "2026-08-25T16:12:34.393Z"
     },
     "work/cape.md": {
       "isFavorite": true,
@@ -115,7 +108,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-26T09:38:30.553Z"
+      "updatedAt": "2026-08-25T16:21:18.641Z"
     }
   },
   "folders": {
@@ -143,12 +136,13 @@
       "sync": true,
       "index": false
     },
-    "Personal/Rafik.md": {
+    "Personal/Game idea.md": {
       "sync": true,
       "index": false
     }
   },
   "docAssetRefs": {
+    "Personal/Game idea.md": [],
     "Personal/General tasks.md": [],
     "Personal/Tags.md": [],
     "Personal/Web ressources.md": [],
@@ -160,9 +154,6 @@
     "work/cape.md": [],
     "work/Olafatco.emd": [
       ".assets/Capture-a6b37b59.PNG"
-    ],
-    "Personal/Game idea.md": [],
-    "Personal/Rafik.md": [],
-    "Personal/API Keys.emd": []
+    ]
   }
 }
