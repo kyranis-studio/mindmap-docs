@@ -24,7 +24,5 @@
 
 * [ ] create a custom markdown editor
 
-- [ ] <br />
-
-- [ ] **Undo/redo system**
+* [ ] **Undo/redo system**
 
