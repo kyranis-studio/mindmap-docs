@@ -147,6 +147,11 @@
     "Personal/Game idea.md": {
       "sync": true,
       "index": false
+    },
+    "Personal/Rafik.md": {
+      "sync": true,
+      "index": false,
+      "describe": false
     }
   },
   "docAssetRefs": {
