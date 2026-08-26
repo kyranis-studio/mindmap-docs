@@ -2,7 +2,7 @@
 
 * [ ] after sync new files don't show automatically
 
-* [ ] syn
+* [ ] sync file 
 
 * [ ] none
 
