@@ -4,25 +4,23 @@
 
 ###### Priority
 
-* [ ] add wiki link and integrated with the graph
+* [ ] use a developer tech dictionary
 
-- [ ] embedding images
+* [ ] save the ignored word
 
-- [ ] add inline AI edit feature
+- [ ] add URL scrapping
 
-* [ ] remove github history for deleted files and encrypted files ask for permission for deleted files
+- [ ] clean the git history for password protected files
 
-* [ ] MCP connection
-
-* [ ] add URL scrapping / learn skill
-
-* [ ] add and update server
-
-* [ ] none
+- [ ] none
 
 ###### Featues:
 
 * [ ] add smart chunking strategy
 
+* [ ] add inline AI edit feature
+
 * [ ] create a custom markdown editor
+
+* [ ] Undo/redo system
 
