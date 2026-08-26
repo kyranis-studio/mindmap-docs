@@ -18,8 +18,6 @@
 
 * [ ] save the ignored word
 
-* [ ] add wiki link and integrated with the graph
-
 * [ ] add smart chunking strategy
 
 * [ ] add inline AI edit feature
