@@ -22,5 +22,5 @@
 
 * [ ] create a custom markdown editor
 
-* [ ] **Undo/redo system**
+* [ ] Undo/redo system
 
