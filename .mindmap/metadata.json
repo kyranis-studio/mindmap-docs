@@ -50,7 +50,8 @@
       "updatedAt": "2026-08-21T06:51:42.766Z"
     },
     "Projects/Decode.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 2,
       "aiSummary": "",
       "tags": [],
       "position": 0,
