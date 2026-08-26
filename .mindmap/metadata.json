@@ -7,7 +7,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-24T14:12:35.082Z"
+      "updatedAt": "2026-08-26T08:33:43.141Z"
     },
     "Personal/Game idea.md": {
       "isFavorite": false,
@@ -32,6 +32,14 @@
       "position": 1,
       "createdAt": "2026-08-20T20:13:23.029Z",
       "updatedAt": "2026-08-20T20:13:57.154Z"
+    },
+    "Personal/Rafik.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-26T07:39:29.855Z",
+      "updatedAt": "2026-08-26T07:44:26.169Z"
     },
     "Personal/Tags.md": {
       "isFavorite": false,
@@ -108,14 +116,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-21T08:27:00.515Z"
-    },
-    "Personal/Rafik.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-26T07:39:29.855Z",
-      "updatedAt": "2026-08-26T07:44:26.169Z"
     }
   },
   "folders": {
@@ -162,6 +162,7 @@
       ".assets/Capture-a6b37b59.PNG"
     ],
     "Personal/Game idea.md": [],
-    "Personal/Rafik.md": []
+    "Personal/Rafik.md": [],
+    "Personal/API Keys.emd": []
   }
 }
