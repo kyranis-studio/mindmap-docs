@@ -1,5 +1,7 @@
 ###### Bugs
 
+* [ ] after sync new
+
 * [ ] none
 
 ###### Priority
