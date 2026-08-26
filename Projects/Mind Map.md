@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] use a devemelpt tech 
+* [ ] use a devemelpt tech dictionnary
 
 * [ ] save the ignored word
 
