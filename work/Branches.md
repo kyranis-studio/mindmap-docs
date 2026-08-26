@@ -1,6 +1,11 @@
-release/2.19/24941\_leave\_edit\
-hotfix/2.22/reset\_leave\_dialog\_after\_submit\
-hotfix/2.22/fix\_vue\_scrollbar\
+release/2.19/24941\_leave\_edit
+
+hotfix/2.22/reset\_leave\_dialog\_after\_submit
+
+hotfix/2.22/fix\_vue\_scrollbar
+
+<br />
+
 hotfix/2.22/add\_held\_post\_to\_capa\_table
 
 hotfix/2.22/fix\_capa\_ui\_bugs
