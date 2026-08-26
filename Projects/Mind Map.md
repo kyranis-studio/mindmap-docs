@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] make sure to use the grammar check for all app inputs
+* [ ] use a devemelpt tech 
 
 * [ ] save the ignored word
 
