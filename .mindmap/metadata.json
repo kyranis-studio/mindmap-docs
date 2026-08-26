@@ -9,6 +9,14 @@
       "createdAt": "2026-08-20T18:50:46.893Z",
       "updatedAt": "2026-08-24T14:12:35.082Z"
     },
+    "Personal/Game idea.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-26T06:08:45.255Z",
+      "updatedAt": "2026-08-26T06:08:45.255Z"
+    },
     "Personal/General tasks.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -138,7 +146,8 @@
     "work/cape.md": [],
     "work/Olafatco.emd": [
       ".assets/Capture-a6b37b59.PNG"
-    ]
+    ],
+    "Personal/Game idea.md": []
   },
   "retainedAssets": [],
   "embeddedAssets": [
