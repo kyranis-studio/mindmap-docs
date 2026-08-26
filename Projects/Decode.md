@@ -18,7 +18,7 @@
 
 ###### Features
 
-* [ ] node 
+* [ ] node graph timelaps
 
 * [ ] UI designer tab
 
