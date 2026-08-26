@@ -8,7 +8,8 @@ hotfix/2.22/add\_held\_post\_to\_capa\_table
 <br />
 
 release/2.23/update\_spomky-labs\_otphp\
-release/2.23/157957\_fix\_uncap\_browser\_history\
+release/2.23/157957\_fix\_uncap\_browser\_history
+
 release/2.23/capa\_page\_sticky\_table\_footer
 
 release/2.23/vite\_build
