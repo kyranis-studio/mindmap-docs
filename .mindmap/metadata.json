@@ -7,7 +7,15 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-20T20:14:31.454Z"
+      "updatedAt": "2026-08-24T14:12:35.082Z"
+    },
+    "Personal/Game idea.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-26T06:08:45.255Z",
+      "updatedAt": "2026-08-26T06:08:45.255Z"
     },
     "Personal/General tasks.md": {
       "isFavorite": false,
@@ -71,10 +79,11 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-20T20:16:35.464Z"
+      "updatedAt": "2026-08-24T15:20:34.688Z"
     },
     "work/Branches.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 0,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -90,7 +99,8 @@
       "updatedAt": "2026-08-17T11:42:36.993Z"
     },
     "work/cape.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 1,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -136,10 +146,7 @@
     "work/cape.md": [],
     "work/Olafatco.emd": [
       ".assets/Capture-a6b37b59.PNG"
-    ]
-  },
-  "retainedAssets": [],
-  "embeddedAssets": [
-    ".assets/Capture-a6b37b59.PNG"
-  ]
+    ],
+    "Personal/Game idea.md": []
+  }
 }
