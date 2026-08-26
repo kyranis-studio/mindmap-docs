@@ -115,7 +115,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-26T07:39:29.855Z",
-      "updatedAt": "2026-08-26T07:42:17.320Z"
+      "updatedAt": "2026-08-26T07:43:49.138Z"
     }
   },
   "folders": {
@@ -144,7 +144,7 @@
       "index": false
     },
     "Personal/Rafik.md": {
-      "sync": false,
+      "sync": true,
       "index": false
     }
   },
