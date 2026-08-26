@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] after sync new
+* [ ] after sync new files dont show autom
 
 * [ ] none
 
