@@ -1,4 +1,5 @@
-http\://localhost/olafatco/capa?u=estelle.meyer\
+http\://localhost/olafatco/capa?u=estelle.meyer
+
 http\://localhost/olafatco/capa?u=damien.granveaux
 
 http\://localhost/gerer-la-licence-v2?u=cyrille.vincent
