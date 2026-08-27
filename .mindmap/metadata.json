@@ -1,6 +1,14 @@
 {
   "version": 1,
   "documents": {
+    "Personal/AI models.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-27T06:12:08.374Z",
+      "updatedAt": "2026-08-27T06:12:22.041Z"
+    },
     "Personal/API Keys.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -116,14 +124,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-26T09:38:30.553Z"
-    },
-    "Personal/AI models.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-27T06:12:08.374Z",
-      "updatedAt": "2026-08-27T06:12:22.041Z"
     }
   },
   "folders": {
