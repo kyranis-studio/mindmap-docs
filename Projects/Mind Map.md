@@ -1,8 +1,8 @@
 ###### Bugs
 
-* [ ] after sync new files don't show automatically
+* [x] after sync new files don't show automatically
 
-* [ ] sync file states sync/index
+* [x] sync file states sync/index
 
 * [ ] none
 
