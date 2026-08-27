@@ -10,4 +10,4 @@ code graph <https://colbymchenry.github.io/codegraph/>
 
 faster inference: <https://github.com/syv-ai/qwen38-27b-rtx3090>
 
-pdlc smart film PDLC <https://glasspulse.com/tunis-tunisia/>
+pdlc  PDLC  <https://glasspulse.com/tunis-tunisia/>
