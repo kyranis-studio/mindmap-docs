@@ -1,6 +1,14 @@
 {
   "version": 1,
   "documents": {
+    "Personal/AI models.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-27T09:42:01.875Z",
+      "updatedAt": "2026-08-27T09:42:01.875Z"
+    },
     "Personal/API Keys.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -55,7 +63,7 @@
       "tags": [],
       "position": 2,
       "createdAt": "2026-08-21T05:53:39.660Z",
-      "updatedAt": "2026-08-21T06:51:42.766Z"
+      "updatedAt": "2026-08-27T10:29:56.635Z"
     },
     "Projects/Decode.md": {
       "isFavorite": true,
@@ -116,38 +124,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-26T09:38:30.553Z"
-    },
-    ".mindmap/metadata.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-27T09:42:01.800Z",
-      "updatedAt": "2026-08-27T09:42:01.800Z"
-    },
-    ".mindmap/vectors/hashes.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-27T09:42:01.830Z",
-      "updatedAt": "2026-08-27T09:42:01.830Z"
-    },
-    ".mindmap/vectors/index.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-27T09:42:01.853Z",
-      "updatedAt": "2026-08-27T09:42:01.853Z"
-    },
-    "Personal/AI models.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-27T09:42:01.875Z",
-      "updatedAt": "2026-08-27T09:42:01.875Z"
     }
   },
   "folders": {
@@ -162,12 +138,6 @@
     },
     "work": {
       "name": "work"
-    },
-    ".mindmap": {
-      "name": ".mindmap"
-    },
-    ".mindmap/vectors": {
-      "name": "vectors"
     }
   },
   "tags": [],
@@ -185,40 +155,21 @@
       "sync": true,
       "index": false
     },
-    ".mindmap/metadata.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
-    ".mindmap/vectors/hashes.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
-    ".mindmap/vectors/index.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
     "Personal/AI models.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Personal/Game idea.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Projects/Mind Map.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "work/Branches.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     }
   },
   "docAssetRefs": {
