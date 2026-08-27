@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] add documet prompot foe ai edition
+* [ ] add document prompt foe ai edition
 
 * [ ] use a developer tech dictionary
 
