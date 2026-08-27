@@ -10,6 +10,8 @@
 
 * [ ] add document prompt for AI edition
 
+* [ ] add inline AI edit feature
+
 * [ ] use a developer tech dictionary
 
 * [ ] save the ignored word
@@ -23,8 +25,6 @@
 ###### Featues:
 
 * [ ] add smart chunking strategy
-
-* [ ] add inline AI edit feature
 
 * [ ] create a custom markdown editor
 
