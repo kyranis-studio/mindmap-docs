@@ -31,3 +31,5 @@ release/2.23/local\_auth\_mode
 release/2.23/24941\_leave\_edit
 
 release/2.23/fix\_capa\_ui\_bugs
+
+release/2.23/88941\_fix\_english\_metrics
