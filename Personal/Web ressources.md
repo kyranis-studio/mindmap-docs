@@ -10,4 +10,4 @@ code graph <https://colbymchenry.github.io/codegraph/>
 
 faster inference: <https://github.com/syv-ai/qwen38-27b-rtx3090>
 
-OpenVi  <https://github.com/volcengine/OpenViking>
+OpenViking:  <https://github.com/volcengine/OpenViking>
