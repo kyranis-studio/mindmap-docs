@@ -12,7 +12,7 @@
 
 * [ ] add inline AI edit feature
 
-* [ ] revise the edition 
+* [ ] revise the edition sync /index fi
 
 * [ ] use a developer tech dictionary
 
