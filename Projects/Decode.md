@@ -18,6 +18,8 @@
 
 ###### Features
 
+* [ ] **node graph time laps**
+
 * [ ] UI designer tab
 
 * [ ] add llm routing (choose the best llm to use)

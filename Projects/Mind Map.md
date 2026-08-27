@@ -1,18 +1,20 @@
 ###### Bugs
 
+* [ ] after sync new files don't show automatically
+
+* [ ] sync file states sync/index
+
 * [ ] none
 
 ###### Priority
 
-* [ ] make sure to use the grammar check for all app inputs
+* [ ] use a developer tech dictionary
 
 * [ ] save the ignored word
 
 - [ ] add URL scrapping
 
 - [ ] clean the git history for password protected files
-
-- [ ] add and update server
 
 - [ ] none
 
@@ -24,5 +26,5 @@
 
 * [ ] create a custom markdown editor
 
-* [ ] **Undo/redo system**
+* [ ] Undo/redo system
 
