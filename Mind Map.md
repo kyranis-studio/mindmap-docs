@@ -1,5 +1,9 @@
 ###### Bugs
 
+* [ ] after sync new files don't show automatically
+
+* [ ] sync file states sync/index
+
 * [ ] none
 
 ###### Priority
