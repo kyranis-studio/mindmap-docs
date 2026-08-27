@@ -1,21 +1,13 @@
 {
   "version": 1,
   "documents": {
-    "Personal/AI models.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-27T06:12:08.374Z",
-      "updatedAt": "2026-08-27T06:12:22.041Z"
-    },
     "Personal/API Keys.emd": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-27T09:09:51.040Z"
+      "updatedAt": "2026-08-26T08:33:57.990Z"
     },
     "Personal/Game idea.md": {
       "isFavorite": false,
@@ -72,7 +64,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-18T11:37:43.073Z",
-      "updatedAt": "2026-08-21T09:48:45.434Z"
+      "updatedAt": "2026-08-26T13:47:23.731Z"
     },
     "Projects/Mind Map.md": {
       "isFavorite": true,
@@ -81,7 +73,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-27T09:04:19.143Z"
+      "updatedAt": "2026-08-26T12:37:39.817Z"
     },
     "Projects/Unichat.md": {
       "isFavorite": false,
@@ -106,7 +98,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-17T11:41:55.452Z",
-      "updatedAt": "2026-08-27T09:07:22.672Z"
+      "updatedAt": "2026-08-26T09:40:56.369Z"
     },
     "work/Olafatco.emd": {
       "isFavorite": false,
@@ -124,6 +116,38 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-26T09:38:30.553Z"
+    },
+    ".mindmap/metadata.json": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-27T09:42:01.800Z",
+      "updatedAt": "2026-08-27T09:42:01.800Z"
+    },
+    ".mindmap/vectors/hashes.json": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-27T09:42:01.830Z",
+      "updatedAt": "2026-08-27T09:42:01.830Z"
+    },
+    ".mindmap/vectors/index.json": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-27T09:42:01.853Z",
+      "updatedAt": "2026-08-27T09:42:01.853Z"
+    },
+    "Personal/AI models.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-27T09:42:01.875Z",
+      "updatedAt": "2026-08-27T09:42:01.875Z"
     }
   },
   "folders": {
@@ -138,6 +162,12 @@
     },
     "work": {
       "name": "work"
+    },
+    ".mindmap": {
+      "name": ".mindmap"
+    },
+    ".mindmap/vectors": {
+      "name": "vectors"
     }
   },
   "tags": [],
@@ -155,9 +185,40 @@
       "sync": true,
       "index": false
     },
+    ".mindmap/metadata.json": {
+      "sync": true,
+      "index": true,
+      "describe": false
+    },
+    ".mindmap/vectors/hashes.json": {
+      "sync": true,
+      "index": true,
+      "describe": false
+    },
+    ".mindmap/vectors/index.json": {
+      "sync": true,
+      "index": true,
+      "describe": false
+    },
     "Personal/AI models.md": {
       "sync": true,
-      "index": false
+      "index": true,
+      "describe": false
+    },
+    "Personal/Game idea.md": {
+      "sync": true,
+      "index": true,
+      "describe": false
+    },
+    "Projects/Mind Map.md": {
+      "sync": true,
+      "index": true,
+      "describe": false
+    },
+    "work/Branches.md": {
+      "sync": true,
+      "index": true,
+      "describe": false
     }
   },
   "docAssetRefs": {
@@ -176,6 +237,11 @@
     "Personal/Game idea.md": [],
     "Personal/Rafik.md": [],
     "Personal/API Keys.emd": [],
+    ".mindmap/metadata.json": [
+      ".assets/Capture-a6b37b59.PNG"
+    ],
+    ".mindmap/vectors/hashes.json": [],
+    ".mindmap/vectors/index.json": [],
     "Personal/AI models.md": []
   }
 }
