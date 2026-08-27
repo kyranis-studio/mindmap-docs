@@ -12,7 +12,7 @@
 
 * [ ] add inline AI edit feature
 
-* [ ] revise the edition sync /index fi
+* [ ] revise the edition sync /index firing strar
 
 * [ ] use a developer tech dictionary
 
