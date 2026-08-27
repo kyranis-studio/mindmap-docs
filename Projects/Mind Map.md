@@ -12,7 +12,7 @@
 
 * [ ] add inline AI edit feature
 
-* [ ] revise the edition
+* [ ] revise the edition 
 
 * [ ] use a developer tech dictionary
 
