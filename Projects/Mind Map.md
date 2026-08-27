@@ -8,6 +8,8 @@
 
 ###### Priority
 
+* [ ] add documet prompot foe ai edition
+
 * [ ] use a developer tech dictionary
 
 * [ ] save the ignored word
