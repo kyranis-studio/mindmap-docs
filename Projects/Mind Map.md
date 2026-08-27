@@ -14,7 +14,7 @@
 
 * [ ] use a developer tech dictionary
 
-* [ ] save the ignored word
+  <br />
 
 - [ ] add URL scrapping
 
