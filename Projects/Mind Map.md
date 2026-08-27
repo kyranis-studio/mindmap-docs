@@ -12,6 +12,8 @@
 
 * [ ] add inline AI edit feature
 
+* [ ] revi
+
 * [ ] use a developer tech dictionary
 
 - [ ] add URL scrapping
