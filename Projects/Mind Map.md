@@ -1,9 +1,5 @@
 ###### Bugs
 
-* [x] after sync new files don't show automatically
-
-  <br />
-
 * [ ] none
 
 ###### Priority
