@@ -6,8 +6,8 @@
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-08-27T06:12:08.374Z",
-      "updatedAt": "2026-08-27T06:12:22.041Z"
+      "createdAt": "2026-08-27T09:42:01.875Z",
+      "updatedAt": "2026-08-27T09:42:01.875Z"
     },
     "Personal/API Keys.emd": {
       "isFavorite": false,
@@ -15,7 +15,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-27T09:09:51.040Z"
+      "updatedAt": "2026-08-26T08:33:57.990Z"
     },
     "Personal/Game idea.md": {
       "isFavorite": false,
@@ -63,7 +63,7 @@
       "tags": [],
       "position": 2,
       "createdAt": "2026-08-21T05:53:39.660Z",
-      "updatedAt": "2026-08-21T06:51:42.766Z"
+      "updatedAt": "2026-08-27T10:30:20.234Z"
     },
     "Projects/Decode.md": {
       "isFavorite": true,
@@ -72,7 +72,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-18T11:37:43.073Z",
-      "updatedAt": "2026-08-21T09:48:45.434Z"
+      "updatedAt": "2026-08-26T13:47:23.731Z"
     },
     "Projects/Mind Map.md": {
       "isFavorite": true,
@@ -81,7 +81,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-27T09:04:19.143Z"
+      "updatedAt": "2026-08-26T12:37:39.817Z"
     },
     "Projects/Unichat.md": {
       "isFavorite": false,
@@ -106,7 +106,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-17T11:41:55.452Z",
-      "updatedAt": "2026-08-27T09:07:22.672Z"
+      "updatedAt": "2026-08-27T10:43:13.403Z"
     },
     "work/Olafatco.emd": {
       "isFavorite": false,
@@ -157,7 +157,19 @@
     },
     "Personal/AI models.md": {
       "sync": true,
-      "index": false
+      "index": true
+    },
+    "Personal/Game idea.md": {
+      "sync": true,
+      "index": true
+    },
+    "Projects/Mind Map.md": {
+      "sync": true,
+      "index": true
+    },
+    "work/Branches.md": {
+      "sync": true,
+      "index": true
     }
   },
   "docAssetRefs": {
@@ -176,6 +188,11 @@
     "Personal/Game idea.md": [],
     "Personal/Rafik.md": [],
     "Personal/API Keys.emd": [],
+    ".mindmap/metadata.json": [
+      ".assets/Capture-a6b37b59.PNG"
+    ],
+    ".mindmap/vectors/hashes.json": [],
+    ".mindmap/vectors/index.json": [],
     "Personal/AI models.md": []
   }
 }
