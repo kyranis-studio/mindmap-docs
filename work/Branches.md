@@ -1,5 +1,3 @@
-release/2.19/24941\_leave\_edit
-
 <br />
 
 hotfix/2.22/reset\_leave\_dialog\_after\_submit
