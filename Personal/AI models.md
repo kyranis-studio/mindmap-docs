@@ -2,4 +2,4 @@
 
 <https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF>
 
-<https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF>  Smalla and optimzed
+<https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF> Smalla and optimzed
