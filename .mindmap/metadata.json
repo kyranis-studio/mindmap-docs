@@ -49,7 +49,7 @@
       "createdAt": "2026-08-26T16:48:53.195Z",
       "updatedAt": "2026-08-26T16:48:53.195Z"
     },
-    "Personal/Tags.md": {
+    "Personal/Website Bookmark.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
@@ -201,7 +201,6 @@
   "docAssetRefs": {
     "Personal/Game idea.md": [],
     "Personal/General tasks.md": [],
-    "Personal/Tags.md": [],
     "Personal/Web ressources.md": [],
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
@@ -219,6 +218,7 @@
     ".mindmap/vectors/index.json": [],
     "Personal/AI models.md": [],
     "Personal/Web Resources.md": [],
-    "Projects/Olafatco.md": []
+    "Projects/Olafatco.md": [],
+    "Personal/Website Bookmark.md": []
   }
 }
