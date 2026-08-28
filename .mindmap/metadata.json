@@ -75,7 +75,7 @@
     },
     "Projects/Decode.md": {
       "isFavorite": true,
-      "favoritePosition": 2,
+      "favoritePosition": 3,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -84,7 +84,7 @@
     },
     "Projects/Mind Map.md": {
       "isFavorite": true,
-      "favoritePosition": 3,
+      "favoritePosition": 4,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -110,7 +110,7 @@
     },
     "work/Branches.md": {
       "isFavorite": true,
-      "favoritePosition": 0,
+      "favoritePosition": 1,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -127,7 +127,7 @@
     },
     "work/cape.md": {
       "isFavorite": true,
-      "favoritePosition": 1,
+      "favoritePosition": 2,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -136,7 +136,7 @@
     },
     "Projects/Olafatco.md": {
       "isFavorite": true,
-      "favoritePosition": 4,
+      "favoritePosition": 0,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -178,7 +178,7 @@
       "index": false
     },
     "Projects/Olafatco.md": {
-      "sync": false,
+      "sync": true,
       "index": false
     }
   },
