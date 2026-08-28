@@ -31,7 +31,7 @@
       "tags": [],
       "position": 3,
       "createdAt": "2026-08-21T08:08:37.616Z",
-      "updatedAt": "2026-08-28T11:15:49.952Z"
+      "updatedAt": "2026-08-28T15:20:01.061Z"
     },
     "Personal/Info.emd": {
       "isFavorite": false,
@@ -91,6 +91,15 @@
       "createdAt": "2026-07-07T19:35:10.235Z",
       "updatedAt": "2026-08-26T17:00:13.457Z"
     },
+    "Projects/Olafatco.md": {
+      "isFavorite": true,
+      "favoritePosition": 0,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-28T11:15:10.712Z",
+      "updatedAt": "2026-08-28T11:15:10.712Z"
+    },
     "Projects/Unichat.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -133,39 +142,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-25T16:21:18.641Z"
-    },
-    ".mindmap/metadata.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T11:15:10.663Z",
-      "updatedAt": "2026-08-28T11:15:10.663Z"
-    },
-    ".mindmap/vectors/hashes.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T11:15:10.675Z",
-      "updatedAt": "2026-08-28T11:15:10.675Z"
-    },
-    ".mindmap/vectors/index.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T11:15:10.698Z",
-      "updatedAt": "2026-08-28T11:15:10.698Z"
-    },
-    "Projects/Olafatco.md": {
-      "isFavorite": true,
-      "favoritePosition": 0,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T11:15:10.712Z",
-      "updatedAt": "2026-08-28T11:15:10.712Z"
     }
   },
   "folders": {
@@ -180,12 +156,6 @@
     },
     "work": {
       "name": "work"
-    },
-    ".mindmap": {
-      "name": ".mindmap"
-    },
-    ".mindmap/vectors": {
-      "name": "vectors"
     }
   },
   "tags": [],
@@ -223,25 +193,9 @@
       "sync": true,
       "index": true
     },
-    ".mindmap/metadata.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
-    ".mindmap/vectors/hashes.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
-    ".mindmap/vectors/index.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
     "Projects/Olafatco.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     }
   },
   "docAssetRefs": {
