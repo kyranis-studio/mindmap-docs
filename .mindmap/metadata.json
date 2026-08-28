@@ -179,7 +179,7 @@
     },
     "Projects/Olafatco.md": {
       "sync": true,
-      "index": false
+      "index": true
     }
   },
   "docAssetRefs": {
