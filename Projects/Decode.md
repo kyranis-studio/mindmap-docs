@@ -8,6 +8,8 @@
 
 * [ ] add an UI tool node
 
+* [ ] me
+
 * [ ] AI model control the IDE
 
 * [ ] add and update server
