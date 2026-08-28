@@ -1,1 +1,1 @@
-openrouter Alpha + OpenCode (100T Tokens/Day)
+<https://home.by.me/>
