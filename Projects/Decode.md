@@ -8,7 +8,7 @@
 
 * [ ] add an UI tool node
 
-* [ ] me
+* [ ] memery compression for l
 
 * [ ] AI model control the IDE
 
