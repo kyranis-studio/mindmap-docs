@@ -3,3 +3,5 @@
 <https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF>
 
 <https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF> small and optimized
+
+<https://huggingface.co/AtomicChat/Ling-3.0-flash-GGUF>
