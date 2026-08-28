@@ -10,4 +10,4 @@ code graph <https://colbymchenry.github.io/codegraph/>
 
 faster inference: <https://github.com/syv-ai/qwen38-27b-rtx3090>
 
-Open Viking (AI memory):  <https://github.com/volcengine/OpenViking>
+PDLC smart film <https://glasspulse.com/tunis-tunisia/>

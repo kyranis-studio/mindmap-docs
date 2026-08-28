@@ -8,11 +8,15 @@ hotfix/2.22/fix\_vue\_scrollbar
 
 hotfix/2.22/add\_held\_post\_to\_capa\_table
 
+hotfix/2.22/88941\_fix\_english\_metrics
+
 <br />
 
 release/2.23/update\_spomky-labs\_otphp
 
 release/2.23/157957\_fix\_uncap\_browser\_history
+
+<br />
 
 release/2.23/capa\_page\_sticky\_table\_footer
 
@@ -27,3 +31,5 @@ release/2.23/local\_auth\_mode
 release/2.23/24941\_leave\_edit
 
 release/2.23/fix\_capa\_ui\_bugs
+
+release/2.23/88941\_fix\_english\_metrics

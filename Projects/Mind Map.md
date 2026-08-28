@@ -1,16 +1,16 @@
 ###### Bugs
 
-* [ ] after sync new files don't show automatically
-
-* [ ] sync file states sync/index
-
 * [ ] none
 
 ###### Priority
 
-* [ ] use a developer tech dictionary
+* [ ] add document prompt for AI edition
 
-* [ ] save the ignored word
+* [ ] add inline AI edit feature
+
+* [ ] revise the edition sync / index firing strategy
+
+* [ ] use a developer tech dictionary
 
 - [ ] add URL scrapping
 
@@ -21,8 +21,6 @@
 ###### Featues:
 
 * [ ] add smart chunking strategy
-
-* [ ] add inline AI edit feature
 
 * [ ] create a custom markdown editor
 
