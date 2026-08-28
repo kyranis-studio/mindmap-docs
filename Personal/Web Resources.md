@@ -12,4 +12,4 @@ faster inference: <https://github.com/syv-ai/qwen38-27b-rtx3090>
 
 PDLC smart film <https://glasspulse.com/tunis-tunisia/>
 
-  <https://github.com/superlinked/sie>
+SIE vllm alternative wit  <https://github.com/superlinked/sie>
