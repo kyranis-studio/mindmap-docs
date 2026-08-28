@@ -135,7 +135,8 @@
       "updatedAt": "2026-08-26T09:38:30.553Z"
     },
     "Projects/Olafatco.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 4,
       "aiSummary": "",
       "tags": [],
       "position": 0,
