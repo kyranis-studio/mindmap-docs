@@ -1,5 +1,3 @@
-<br />
-
 hotfix/2.22/reset\_leave\_dialog\_after\_submit
 
 hotfix/2.22/fix\_vue\_scrollbar
