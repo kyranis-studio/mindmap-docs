@@ -8,7 +8,7 @@
 
 * [ ] add an UI tool node
 
-* [ ] memory compression for local
+* [ ] memory compression for local 
 
 * [ ] AI model control the IDE
 
