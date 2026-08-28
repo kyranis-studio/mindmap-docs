@@ -1,6 +1,14 @@
 {
   "version": 1,
   "documents": {
+    "Personal/AI models.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-28T05:33:57.354Z",
+      "updatedAt": "2026-08-28T06:00:57.189Z"
+    },
     "Personal/API Keys.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -48,6 +56,14 @@
       "position": 0,
       "createdAt": "2026-08-24T06:09:00.177Z",
       "updatedAt": "2026-08-24T06:09:00.177Z"
+    },
+    "Personal/Web Resources.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-28T05:33:57.371Z",
+      "updatedAt": "2026-08-28T05:33:57.371Z"
     },
     "Personal/Web ressources.md": {
       "isFavorite": false,
@@ -117,46 +133,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-25T16:21:18.641Z"
-    },
-    ".mindmap/metadata.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T05:33:57.304Z",
-      "updatedAt": "2026-08-28T05:33:57.304Z"
-    },
-    ".mindmap/vectors/hashes.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T05:33:57.316Z",
-      "updatedAt": "2026-08-28T05:33:57.316Z"
-    },
-    ".mindmap/vectors/index.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T05:33:57.332Z",
-      "updatedAt": "2026-08-28T05:33:57.332Z"
-    },
-    "Personal/AI models.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T05:33:57.354Z",
-      "updatedAt": "2026-08-28T05:33:57.354Z"
-    },
-    "Personal/Web Resources.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T05:33:57.371Z",
-      "updatedAt": "2026-08-28T05:33:57.371Z"
     }
   },
   "folders": {
@@ -171,12 +147,6 @@
     },
     "work": {
       "name": "work"
-    },
-    ".mindmap": {
-      "name": ".mindmap"
-    },
-    ".mindmap/vectors": {
-      "name": "vectors"
     }
   },
   "tags": [],
@@ -198,40 +168,21 @@
       "sync": true,
       "index": false
     },
-    ".mindmap/metadata.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
-    ".mindmap/vectors/hashes.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
-    ".mindmap/vectors/index.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
     "Personal/AI models.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Personal/Web Resources.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Projects/Mind Map.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "work/Branches.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     }
   },
   "docAssetRefs": {
