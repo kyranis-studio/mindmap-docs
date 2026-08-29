@@ -16,7 +16,7 @@
 
 - [ ] clean the git history for password protected files
 
-- [ ] MCP server/cleint
+- [ ] MCP server/client
 
 - [ ] none
 
