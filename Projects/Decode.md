@@ -14,7 +14,7 @@
 
 * [ ] add and update server
 
-* [ ] MCP 
+* [ ] MCP server/client
 
 * [ ] none
 
