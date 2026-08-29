@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] add document prompt for AI edition
+* [ ] add custom prom
 
 * [ ] add inline AI edit feature
 
