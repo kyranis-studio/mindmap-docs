@@ -81,7 +81,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-29T07:34:20.156Z"
+      "updatedAt": "2026-08-29T07:44:34.815Z"
     },
     "Projects/Olafatco.md": {
       "isFavorite": true,
@@ -162,10 +162,6 @@
       "index": false
     },
     "Personal/Game idea.md": {
-      "sync": true,
-      "index": false
-    },
-    "Personal/Rafik.md": {
       "sync": true,
       "index": false
     },
