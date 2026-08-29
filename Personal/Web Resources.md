@@ -14,4 +14,4 @@ PDLC smart film <https://glasspulse.com/tunis-tunisia/>
 
 SIE vllm alternative with the ability to serve multiple models  <https://github.com/superlinked/sie>
 
-grammar spelling dic <https://github.com/streetsidesoftware/vscode-spell-checker>
+grammar spelling dictionary <https://github.com/streetsidesoftware/vscode-spell-checker>
