@@ -12,7 +12,7 @@ faster inference: <https://github.com/syv-ai/qwen38-27b-rtx3090>
 
 PDLC smart film: h[ttps://glasspulse.com/tunis-tunisia/](https://glasspulse.com/tunis-tunisia/)
 
-SIE vllm alternative with the ability to serve multiple models  <https://github.com/superlinked/sie>
+SIE vllm alternative with the ability to serve multiple models: h[ttps://github.com/superlinked/sie](https://github.com/superlinked/sie)
 
 grammar spelling dictionary: <https://github.com/streetsidesoftware/vscode-spell-checker>
 
