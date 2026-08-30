@@ -16,4 +16,4 @@ SIE vllm alternative with the ability to serve multiple models  <https://github.
 
 grammar spelling dictionary <https://github.com/streetsidesoftware/vscode-spell-checker>
 
-Colibri  <https://github.com/JustVugg/colibri>
+Colibri:  <https://github.com/JustVugg/colibri>
