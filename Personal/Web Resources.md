@@ -4,9 +4,9 @@
 
 **Prime agent**: <https://github.com/PrimeIntellect-ai/prime-agent>
 
-FreeToken <https://github.com/FlashML-org/FreeToken/tree/main>
+FreeToken: <https://github.com/FlashML-org/FreeToken/tree/main>
 
-code graph <https://colbymchenry.github.io/codegraph/>
+code graph: <https://colbymchenry.github.io/codegraph/>
 
 faster inference: <https://github.com/syv-ai/qwen38-27b-rtx3090>
 
