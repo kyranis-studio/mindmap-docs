@@ -18,4 +18,4 @@ grammar spelling dictionary: <https://github.com/streetsidesoftware/vscode-spell
 
 Colibri: h[ttps://github.com/JustVugg/colibri](https://github.com/JustVugg/colibri)
 
-AI provider : <https://xkiro.com>
+AI provider: <https://xkiro.com>
