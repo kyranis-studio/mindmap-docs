@@ -31,3 +31,5 @@ release/2.23/fix\_capa\_ui\_bugs
 release/2.23/88941\_fix\_english\_metrics
 
 release/2.23/89162\_licences\_manager\_display\_list\_if\_no\_licence\_found
+
+release2.23
