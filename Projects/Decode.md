@@ -8,7 +8,7 @@
 
 * [ ] add an UI tool node
 
-* [ ] memory startegy node 
+* [ ] memory startegy node /full
 
 * [ ] memory compression for local AI
 
