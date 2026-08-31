@@ -8,7 +8,7 @@
 
 * [ ] add an UI tool node
 
-* [ ] memory startegy node /full context/summirize
+* [ ] memory strategy node /full context/summirize
 
 * [ ] memory compression for local AI
 
