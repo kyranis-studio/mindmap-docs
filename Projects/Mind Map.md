@@ -4,7 +4,7 @@
 
 ###### Priority
 
-* [ ] add document prompt for AI edition
+* [ ] add custom prompt input for skills
 
 * [ ] add inline AI edit feature
 
@@ -15,6 +15,8 @@
 - [ ] add URL scrapping
 
 - [ ] clean the git history for password protected files
+
+- [ ] MCP server/client
 
 - [ ] none
 

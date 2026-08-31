@@ -6,8 +6,8 @@
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-08-27T06:12:08.374Z",
-      "updatedAt": "2026-08-27T06:12:22.041Z"
+      "createdAt": "2026-08-28T05:33:57.354Z",
+      "updatedAt": "2026-08-28T17:55:56.708Z"
     },
     "Personal/API Keys.emd": {
       "isFavorite": false,
@@ -15,15 +15,15 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-27T09:09:51.040Z"
+      "updatedAt": "2026-08-24T14:12:35.082Z"
     },
     "Personal/Game idea.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-08-26T06:08:45.255Z",
-      "updatedAt": "2026-08-26T06:08:45.255Z"
+      "createdAt": "2026-08-25T08:24:49.228Z",
+      "updatedAt": "2026-08-26T16:48:44.846Z"
     },
     "Personal/General tasks.md": {
       "isFavorite": false,
@@ -31,7 +31,7 @@
       "tags": [],
       "position": 3,
       "createdAt": "2026-08-21T08:08:37.616Z",
-      "updatedAt": "2026-08-21T08:09:24.054Z"
+      "updatedAt": "2026-08-28T19:37:26.383Z"
     },
     "Personal/Info.emd": {
       "isFavorite": false,
@@ -41,29 +41,13 @@
       "createdAt": "2026-08-20T20:13:23.029Z",
       "updatedAt": "2026-08-20T20:13:57.154Z"
     },
-    "Personal/Rafik.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-26T07:39:29.855Z",
-      "updatedAt": "2026-08-26T07:44:26.169Z"
-    },
-    "Personal/Tags.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-24T06:09:00.177Z",
-      "updatedAt": "2026-08-24T06:09:00.177Z"
-    },
     "Personal/Web Resources.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-08-27T13:52:18.831Z",
-      "updatedAt": "2026-08-27T13:52:18.831Z"
+      "createdAt": "2026-08-28T05:33:57.371Z",
+      "updatedAt": "2026-08-30T09:35:11.308Z"
     },
     "Personal/Web ressources.md": {
       "isFavorite": false,
@@ -71,29 +55,45 @@
       "tags": [],
       "position": 2,
       "createdAt": "2026-08-21T05:53:39.660Z",
-      "updatedAt": "2026-08-27T13:16:09.709Z"
+      "updatedAt": "2026-08-25T17:15:36.468Z"
+    },
+    "Personal/Website Bookmark.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-24T06:09:00.177Z",
+      "updatedAt": "2026-08-30T06:57:56.195Z"
     },
     "Projects/Decode.md": {
+      "isFavorite": true,
+      "favoritePosition": 4,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-18T11:37:43.073Z",
+      "updatedAt": "2026-08-29T07:50:07.343Z"
+    },
+    "Projects/Mind Map.md": {
       "isFavorite": true,
       "favoritePosition": 3,
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-08-18T11:37:43.073Z",
-      "updatedAt": "2026-08-21T09:48:45.434Z"
+      "createdAt": "2026-07-07T19:35:10.235Z",
+      "updatedAt": "2026-08-29T07:44:44.413Z"
     },
-    "Projects/Mind Map.md": {
+    "Projects/Olafatco.md": {
       "isFavorite": true,
-      "favoritePosition": 4,
+      "favoritePosition": 0,
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-27T14:05:14.097Z"
+      "createdAt": "2026-08-28T11:15:10.712Z",
+      "updatedAt": "2026-08-28T11:15:10.712Z"
     },
     "Projects/Unichat.md": {
       "isFavorite": false,
-      "favoritePosition": 4,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -101,12 +101,13 @@
       "updatedAt": "2026-08-24T06:09:00.178Z"
     },
     "Prompts/Prompt.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 5,
       "aiSummary": "",
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-24T15:20:34.688Z"
+      "updatedAt": "2026-08-25T18:12:07.524Z"
     },
     "work/Branches.md": {
       "isFavorite": true,
@@ -115,7 +116,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-17T11:41:55.452Z",
-      "updatedAt": "2026-08-28T10:09:24.325Z"
+      "updatedAt": "2026-08-25T18:12:33.087Z"
     },
     "work/Olafatco.emd": {
       "isFavorite": false,
@@ -123,7 +124,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-17T11:42:36.993Z"
+      "updatedAt": "2026-08-25T16:12:34.393Z"
     },
     "work/cape.md": {
       "isFavorite": true,
@@ -132,16 +133,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-08-26T09:38:30.553Z"
-    },
-    "Projects/Olafatco.md": {
-      "isFavorite": true,
-      "favoritePosition": 0,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-28T09:50:04.430Z",
-      "updatedAt": "2026-08-28T09:51:16.875Z"
+      "updatedAt": "2026-08-25T16:21:18.641Z"
     }
   },
   "folders": {
@@ -169,13 +161,25 @@
       "sync": true,
       "index": false
     },
-    "Personal/Rafik.md": {
+    "Personal/Game idea.md": {
       "sync": true,
       "index": false
     },
     "Personal/AI models.md": {
       "sync": true,
-      "index": false
+      "index": true
+    },
+    "Personal/Web Resources.md": {
+      "sync": true,
+      "index": true
+    },
+    "Projects/Mind Map.md": {
+      "sync": true,
+      "index": true
+    },
+    "work/Branches.md": {
+      "sync": true,
+      "index": true
     },
     "Projects/Olafatco.md": {
       "sync": true,
@@ -183,8 +187,8 @@
     }
   },
   "docAssetRefs": {
+    "Personal/Game idea.md": [],
     "Personal/General tasks.md": [],
-    "Personal/Tags.md": [],
     "Personal/Web ressources.md": [],
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
@@ -195,10 +199,15 @@
     "work/Olafatco.emd": [
       ".assets/Capture-a6b37b59.PNG"
     ],
-    "Personal/Game idea.md": [],
-    "Personal/Rafik.md": [],
-    "Personal/API Keys.emd": [],
+    ".mindmap/metadata.json": [
+      ".assets/Capture-a6b37b59.PNG"
+    ],
+    ".mindmap/vectors/hashes.json": [],
+    ".mindmap/vectors/index.json": [],
     "Personal/AI models.md": [],
-    "Projects/Olafatco.md": []
+    "Personal/Web Resources.md": [],
+    "Projects/Olafatco.md": [],
+    "Personal/Website Bookmark.md": [],
+    "Personal/API Keys.emd": []
   }
 }
