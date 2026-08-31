@@ -15,7 +15,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-27T09:09:51.040Z"
+      "updatedAt": "2026-08-31T07:52:18.188Z"
     },
     "Personal/Game idea.md": {
       "isFavorite": false,
@@ -41,14 +41,6 @@
       "createdAt": "2026-08-20T20:13:23.029Z",
       "updatedAt": "2026-08-20T20:13:57.154Z"
     },
-    "Personal/Rafik.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-26T07:39:29.855Z",
-      "updatedAt": "2026-08-26T07:44:26.169Z"
-    },
     "Personal/Tags.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -72,6 +64,14 @@
       "position": 2,
       "createdAt": "2026-08-21T05:53:39.660Z",
       "updatedAt": "2026-08-27T13:16:09.709Z"
+    },
+    "Personal/Website Bookmark.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-08-31T07:52:06.326Z",
+      "updatedAt": "2026-08-31T07:52:06.326Z"
     },
     "Projects/Decode.md": {
       "isFavorite": true,
@@ -166,10 +166,6 @@
       "index": true
     },
     "Personal/General tasks.md": {
-      "sync": true,
-      "index": false
-    },
-    "Personal/Rafik.md": {
       "sync": true,
       "index": false
     },
