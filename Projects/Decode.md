@@ -8,7 +8,7 @@
 
 * [ ] add an UI tool node
 
-* [ ] memory strategy node (full context/summarize
+* [ ] memory strategy node (full context/summarize)
 
 * [ ] memory compression for local AI
 
