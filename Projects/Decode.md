@@ -8,7 +8,7 @@
 
 * [ ] add an UI tool node
 
-* [ ] mem
+* [ ] memory
 
 * [ ] memory compression for local AI
 
