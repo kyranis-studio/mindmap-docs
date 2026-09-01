@@ -6,5 +6,5 @@
 
 * [ ] optimize vue chunking
 
-* [ ] rebase the project using
+* [ ] rebase the project using laravel
 
