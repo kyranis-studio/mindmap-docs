@@ -12,7 +12,7 @@ faster inference: <https://github.com/syv-ai/qwen38-27b-rtx3090>
 
 Open Viking (AI memory):  <https://github.com/volcengine/OpenViking>
 
-JetSpec 9 <https://github.com/hao-ai-lab/JetSpec> 
+JetSpec 9X fas <https://github.com/hao-ai-lab/JetSpec> 
 
 <br />
 
