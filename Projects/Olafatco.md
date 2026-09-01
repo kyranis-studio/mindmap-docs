@@ -6,3 +6,5 @@
 
 * [ ] optimize vue chunking
 
+* [ ] rebase the project using
+
