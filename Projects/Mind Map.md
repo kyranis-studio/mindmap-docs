@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] ide
+* [ ] idexing get st
 
 * [ ] none
 
