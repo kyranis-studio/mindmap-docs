@@ -4,7 +4,7 @@
 
 * [x] devkit smart build using git
 
-* [ ] HMR rebuild only modi file
+* [ ] HMR rebuild only modified file
 
 * [ ] optimize vue chunking
 
