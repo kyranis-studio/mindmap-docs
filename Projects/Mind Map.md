@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] idexing get stuck
+* [ ] indexing get stuck
 
 * [ ] none
 
