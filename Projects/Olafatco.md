@@ -4,3 +4,5 @@
 
 * [x] devkit smart build using git
 
+* [x] optimize vue chunking
+
