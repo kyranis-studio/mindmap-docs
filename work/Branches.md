@@ -34,4 +34,4 @@ release/2.23/89162\_licences\_manager\_display\_list\_if\_no\_licence\_found
 
 release2.23/add\_hot\_relaod\_module\_server\_for\_development
 
-elease2.23/legacy\_build\_copy\_font\_driectory&#x20;
+release2.23/legacy\_build\_copy\_font\_driectory&#x20;
