@@ -4,7 +4,9 @@
 
 * [x] devkit smart build using git
 
-* [ ] optimize vue chunking
+* [x] optimize vue chunking
+
+* [ ] HMR rebuild only modified file
 
 * [ ] rebase the project using laravel
 
