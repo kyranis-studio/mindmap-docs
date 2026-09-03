@@ -32,7 +32,7 @@ release2.23/legacy\_build\_copy\_font\_driectory&#x20;
 
 **Not merged branches:**
 
-###### Not merged bran
+###### Not merged branches
 
 release2.23/add\_hot\_relaod\_module\_server\_for\_development
 
