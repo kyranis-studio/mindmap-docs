@@ -10,5 +10,5 @@
 
 * [ ] rebase the project using laravel
 
-* [ ] fix build wa
+* [ ] fix build warning
 
