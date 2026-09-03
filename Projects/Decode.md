@@ -8,11 +8,15 @@
 
 * [ ] add an UI tool node
 
+* [ ] memory strategy node (full context/summarize)
+
+* [ ] memory compression for local AI
+
 * [ ] AI model control the IDE
 
 * [ ] add and update server
 
-* [ ] MCP connection
+* [ ] MCP server/client
 
 * [ ] none
 

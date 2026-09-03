@@ -1,14 +1,14 @@
 ###### Bugs
 
-* [x] after sync new files don't show automatically
+* [ ] indexing get stuck
 
-* [x] sync file states sync/index
+* [ ] fix fallback model use after error
 
 * [ ] none
 
 ###### Priority
 
-* [ ] add document prompt for AI edition
+* [ ] add custom prompt input for skills
 
 * [ ] add inline AI edit feature
 
@@ -19,6 +19,8 @@
 - [ ] add URL scrapping
 
 - [ ] clean the git history for password protected files
+
+- [ ] MCP server/client
 
 - [ ] none
 

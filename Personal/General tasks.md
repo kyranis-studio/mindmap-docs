@@ -1,1 +1,1 @@
-openrouter Alpha + OpenCode (100T Tokens/Day)
+ollama pull hf.co/empero-ai/Qwen3.8-27B-Ridge-GGUF:BF16
