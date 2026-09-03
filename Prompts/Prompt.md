@@ -37,3 +37,5 @@ You are tasked with updating a configuration system for leave types within an ab
 
 **Desired Output:**
 Provide the updated configuration details as specified, ensuring all logical steps and error handling are accurately implemented without any additional explanatory text.
+
+For individual centers (this characteristic can also be applied to the absence type for individual centers (CAPE GOBET for LFOB)), days off must be able to be requested individually, with a list of selected dates displayed at the bottom, and the ability to delete each date individually or all dates at once. A parameter must also be added to \`leavetype\`: \`SMALL INT(2) UNSIGNED NULL\` by default, named "multiple". Set this to 2 for the leave types for individual centers. Individual centers are found in the \`centerdetail\` table with \`organisationtype=individual\`. If \`multiple\` is set to 2, only an even number of dates should be accepted. The third point is that we have introduced the concept of a 28 or 30-day cycle for Individual Centers (CI).
