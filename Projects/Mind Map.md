@@ -2,7 +2,7 @@
 
 * [ ] indexing get stuck
 
-* [ ] fix fallback mode use after error
+* [ ] fix fallback model use after error
 
 * [ ] none
 
