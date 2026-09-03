@@ -57,6 +57,22 @@
       "createdAt": "2026-09-03T10:01:24.091Z",
       "updatedAt": "2026-09-03T10:01:24.091Z"
     },
+    "Personal/Web ressources.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-09-03T10:01:30.575Z",
+      "updatedAt": "2026-09-03T10:01:30.575Z"
+    },
+    "Personal/Website Bookmark.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-09-03T10:01:30.586Z",
+      "updatedAt": "2026-09-03T10:01:30.586Z"
+    },
     "Projects/Decode.md": {
       "isFavorite": true,
       "favoritePosition": 2,
@@ -75,6 +91,14 @@
       "createdAt": "2026-07-07T19:35:10.235Z",
       "updatedAt": "2026-08-26T12:37:39.817Z"
     },
+    "Projects/Olafatco.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-09-03T10:01:30.607Z",
+      "updatedAt": "2026-09-03T10:01:30.607Z"
+    },
     "Projects/Unichat.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -89,7 +113,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-08-24T15:20:34.688Z"
+      "updatedAt": "2026-09-03T10:08:14.530Z"
     },
     "work/Branches.md": {
       "isFavorite": true,
@@ -116,54 +140,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-26T09:38:30.553Z"
-    },
-    ".mindmap/metadata.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-09-03T10:01:30.481Z",
-      "updatedAt": "2026-09-03T10:01:30.481Z"
-    },
-    ".mindmap/vectors/hashes.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-09-03T10:01:30.513Z",
-      "updatedAt": "2026-09-03T10:01:30.513Z"
-    },
-    ".mindmap/vectors/index.json": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-09-03T10:01:30.530Z",
-      "updatedAt": "2026-09-03T10:01:30.530Z"
-    },
-    "Personal/Web ressources.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-09-03T10:01:30.575Z",
-      "updatedAt": "2026-09-03T10:01:30.575Z"
-    },
-    "Personal/Website Bookmark.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-09-03T10:01:30.586Z",
-      "updatedAt": "2026-09-03T10:01:30.586Z"
-    },
-    "Projects/Olafatco.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-09-03T10:01:30.607Z",
-      "updatedAt": "2026-09-03T10:01:30.607Z"
     }
   },
   "folders": {
@@ -178,22 +154,12 @@
     },
     "work": {
       "name": "work"
-    },
-    ".mindmap": {
-      "name": ".mindmap"
-    },
-    ".mindmap/vectors": {
-      "name": "vectors"
     }
   },
   "tags": [],
   "nextTagId": 0,
   "files": {
     "Personal/General tasks.md": {
-      "sync": true,
-      "index": false
-    },
-    "Personal/Rafik.md": {
       "sync": true,
       "index": false
     },
@@ -213,50 +179,29 @@
       "sync": true,
       "index": true
     },
-    ".mindmap/metadata.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
-    ".mindmap/vectors/hashes.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
-    ".mindmap/vectors/index.json": {
-      "sync": true,
-      "index": true,
-      "describe": false
-    },
     "Personal/Web Resources.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Personal/Web ressources.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Personal/Website Bookmark.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Projects/Decode.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Projects/Olafatco.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Prompts/Prompt.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     }
   },
   "docAssetRefs": {
