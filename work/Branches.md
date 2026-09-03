@@ -20,8 +20,6 @@ release/2.23/add\_dark\_light\_mode\_switch
 
 release/2.23/devkit\_full\_rewrite
 
-release/2.23/local\_auth\_mode
-
 release/2.23/24941\_leave\_edit
 
 release/2.23/fix\_capa\_ui\_bugs
@@ -33,3 +31,5 @@ release/2.23/89162\_licences\_manager\_display\_list\_if\_no\_licence\_found
 release2.23/add\_hot\_relaod\_module\_server\_for\_development
 
 release2.23/legacy\_build\_copy\_font\_driectory&#x20;
+
+release/2.23/local\_auth\_mode
