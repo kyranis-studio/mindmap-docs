@@ -2,7 +2,7 @@
 
 * [ ] indexing get stuck
 
-* [ ] fix fallback mode
+* [ ] fix fallback mode use aft
 
 * [ ] none
 
