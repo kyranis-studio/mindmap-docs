@@ -100,6 +100,14 @@
       "createdAt": "2026-08-28T09:50:04.430Z",
       "updatedAt": "2026-09-03T10:30:29.344Z"
     },
+    "Projects/Stemcell.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-09-05T16:49:26.538Z",
+      "updatedAt": "2026-09-05T17:00:14.555Z"
+    },
     "Projects/Unichat.md": {
       "isFavorite": false,
       "favoritePosition": 4,
@@ -142,14 +150,6 @@
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-03T10:25:24.719Z"
-    },
-    "Projects/Stemcell.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-09-05T16:49:26.538Z",
-      "updatedAt": "2026-09-05T17:00:14.555Z"
     }
   },
   "folders": {
@@ -184,10 +184,6 @@
     "Projects/Olafatco.md": {
       "sync": true,
       "index": true
-    },
-    "Projects/Stemcell.md": {
-      "sync": false,
-      "index": false
     }
   },
   "docAssetRefs": {
@@ -209,6 +205,7 @@
     "Personal/AI models.md": [],
     "Projects/Olafatco.md": [],
     "Personal/Web Resources.md": [],
-    "Projects/Stemcell.emd": []
+    "Projects/Stemcell.emd": [],
+    "Personal/Info.emd": []
   }
 }
