@@ -5,7 +5,8 @@
 * [x] devkit smart build using git
 
 * [x] optimize vue chunking
-  * [ ] integrate `iscyclerestricted`
+
+* [ ] integrate `iscyclerestricted `
 
 * [ ] HMR rebuild only modified file
 
