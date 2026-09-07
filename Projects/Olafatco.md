@@ -8,7 +8,7 @@
 
 * [ ] integrate `iscyclerestricted `into the leave periods
 
-* [ ] after submi
+* [ ] after submit 
 
 * [ ] HMR rebuild only modified file
 
