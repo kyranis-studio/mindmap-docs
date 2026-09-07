@@ -6,7 +6,7 @@
 
 * [x] optimize vue chunking
 
-* [ ] integrate `iscyclerestricted `into the leave priods
+* [ ] integrate `iscyclerestricted `into the leave periods
 
 * [ ] HMR rebuild only modified file
 
