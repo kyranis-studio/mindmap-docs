@@ -6,7 +6,7 @@
 
 * [x] optimize vue chunking
 
-* [ ] <br />
+* [ ] integarte `iscyclerestricted`
 
 * [ ] HMR rebuild only modified file
 
