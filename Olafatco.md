@@ -6,7 +6,9 @@
 
 * [x] optimize vue chunking
 
-* [ ] <br />
+* [ ] integrate `iscyclerestricted `into the leave periods
+
+* [ ] after submit dates range reset the form
 
 * [ ] HMR rebuild only modified file
 
