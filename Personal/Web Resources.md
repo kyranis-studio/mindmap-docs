@@ -21,3 +21,4 @@ Colibri: h[ttps://github.com/JustVugg/colibri](https://github.com/JustVugg/colib
 AI provider: <https://xkiro.com>
 
 ZG semantic search: <https://github.com/zvec-ai/zvec-grep>
+
