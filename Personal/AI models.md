@@ -9,3 +9,4 @@
 <https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF>
 
 <https://huggingface.co/nex-agi/Nex-N2.5-mini>
+
