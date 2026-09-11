@@ -7,3 +7,5 @@
 <https://huggingface.co/AtomicChat/Ling-3.0-flash-GGUF>
 
 <https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF>
+
+<https://huggingface.co/nex-agi/Nex-N2.5-mini>
