@@ -18,7 +18,7 @@
 
 * [ ] MCP server/client
 
-* [ ] in the knowlege code structure show no
+* [ ] in the knowlege code structure show non treated files
 
 * [ ] none
 
