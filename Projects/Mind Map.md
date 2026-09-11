@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] safly save the git creditial
+* [ ] safely save the git credential
 
 * [ ] add custom prompt input for skills
 
