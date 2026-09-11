@@ -16,5 +16,5 @@
 
 * [ ] fix build warning
 
-* [ ] add startup documentation for local
+* [ ] add startup documentation for local project insta
 
