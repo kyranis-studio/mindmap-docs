@@ -16,5 +16,5 @@
 
 * [ ] fix build warning
 
-* [ ] add startup
+* [ ] add startup docu
 
