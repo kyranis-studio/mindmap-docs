@@ -20,7 +20,7 @@
 
 * [ ] in the knowledge code structure show non-treated files with tree sitter
 
-* [ ] use Ai for non traited files to generte graph knowlge
+* [ ] Use AI for non-processed files to generate graph Knowle
 
 * [ ] none
 
