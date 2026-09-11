@@ -6,7 +6,7 @@
 
 * [x] optimize vue chunking
 
-* [x] leave multiple CA odd condition for multiple 
+* [x] leave multiple CA odd condition for multiple periods
 
 * [ ] HMR rebuild only modified file
 
