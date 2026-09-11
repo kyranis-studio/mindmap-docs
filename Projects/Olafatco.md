@@ -6,8 +6,6 @@
 
 * [x] optimize vue chunking
 
-* [x] integrate `iscyclerestricted `into the leave periods
-
 * [ ] HMR rebuild only modified file
 
 * [ ] rebase the project using laravel
