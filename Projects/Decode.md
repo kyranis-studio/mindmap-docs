@@ -18,7 +18,7 @@
 
 * [ ] MCP server/client
 
-* [ ] in the know
+* [ ] in the knowlege code structure show no
 
 * [ ] none
 
