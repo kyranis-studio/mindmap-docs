@@ -25,3 +25,5 @@ ZG semantic search: <https://github.com/zvec-ai/zvec-grep>
 Obscura + Ollama \*\*Web Scraping: \*\*<https://github.com/h4ckf0r0day/obscura>
 
 Crawl4AI **Crawler & Scraper**: <https://github.com/unclecode/crawl4ai>
+
+<https://github.com/feyninc/chonkie>
