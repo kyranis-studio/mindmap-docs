@@ -12,8 +12,6 @@
 
 <https://huggingface.co/nex-agi/Nex-N2.5-mini>
 
-<br />
-
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
