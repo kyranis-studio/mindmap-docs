@@ -6,7 +6,7 @@
 
 * [x] optimize vue chunking
 
-* [x] <br />
+* [x] leave multiple C
 
 * [ ] HMR rebuild only modified file
 
