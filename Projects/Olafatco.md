@@ -8,8 +8,6 @@
 
 * [x] integrate `iscyclerestricted `into the leave periods
 
-* [x] <br />
-
 * [ ] HMR rebuild only modified file
 
 * [ ] rebase the project using laravel
