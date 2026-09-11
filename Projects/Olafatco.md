@@ -6,7 +6,7 @@
 
 * [x] optimize vue chunking
 
-* [ ] integrate `iscyclerestricted `into the leave periods
+* [x] integrate `iscyclerestricted `into the leave periods
 
 * [ ] after submit dates range reset the form
 
