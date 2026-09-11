@@ -22,4 +22,4 @@ AI provider: <https://xkiro.com>
 
 ZG semantic search: <https://github.com/zvec-ai/zvec-grep>
 
-Obscura + Ollama **Web Scraping **
+Obscura + Ollama **Web Scraping **<https://github.com/h4ckf0r0day/obscura>
