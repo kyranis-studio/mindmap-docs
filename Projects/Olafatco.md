@@ -6,7 +6,7 @@
 
 * [x] optimize vue chunking
 
-* [x] leave multiple CA paier
+* [x] leave multiple CA odd
 
 * [ ] HMR rebuild only modified file
 
