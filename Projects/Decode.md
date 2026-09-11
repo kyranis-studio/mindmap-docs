@@ -18,7 +18,9 @@
 
 * [ ] MCP server/client
 
-* [ ] in the knowlege code structure show non treated files with tree si
+* [ ] in the knowlege code structure show non treated files with tree sitter
+
+* [ ] use 
 
 * [ ] none
 
