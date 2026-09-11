@@ -22,3 +22,5 @@ AI provider: <https://xkiro.com>
 
 ZG semantic search: <https://github.com/zvec-ai/zvec-grep>
 
+\
+**Obscura + Ollama**
