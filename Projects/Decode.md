@@ -18,7 +18,7 @@
 
 * [ ] MCP server/client
 
-* [ ] in the
+* [ ] in the know
 
 * [ ] none
 
