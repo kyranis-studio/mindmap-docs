@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] safly save te
+* [ ] safly save the gi
 
 * [ ] add custom prompt input for skills
 
