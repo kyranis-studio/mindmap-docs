@@ -8,6 +8,8 @@
 
 ###### Priority
 
+* [ ] sa
+
 * [ ] add custom prompt input for skills
 
 * [ ] add inline AI edit feature
