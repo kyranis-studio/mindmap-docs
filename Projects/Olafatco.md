@@ -6,6 +6,8 @@
 
 * [x] optimize vue chunking
 
+* [x] <br />
+
 * [ ] HMR rebuild only modified file
 
 * [ ] rebase the project using laravel
