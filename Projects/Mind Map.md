@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] sa
+* [ ] safyli s
 
 * [ ] add custom prompt input for skills
 
