@@ -20,7 +20,7 @@
 
 * [ ] in the knowlege code structure show non treated files with tree sitter
 
-* [ ] use 
+* [ ] use Ai for non tra
 
 * [ ] none
 
