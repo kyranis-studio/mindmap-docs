@@ -26,6 +26,6 @@ Obscura + Ollama \*\*Web Scraping: \*\*<https://github.com/h4ckf0r0day/obscura>
 
 Crawl4AI **Crawler & Scraper**: <https://github.com/unclecode/crawl4ai>
 
-run quen 
+run quen  <https://github.com/Edge0-AI/edge0>
 
 <https://github.com/feyninc/chonkie>
