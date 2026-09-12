@@ -1,3 +1,5 @@
+###### Chat models
+
 <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>
 
 <https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF>
@@ -9,3 +11,7 @@
 <https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF>
 
 <https://huggingface.co/nex-agi/Nex-N2.5-mini>
+
+###### TTS models
+
+Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
