@@ -6,11 +6,11 @@
 
 * [x] optimize vue chunking
 
+* [ ] fix build warning
+
 * [ ] HMR rebuild only modified file
 
 * [ ] rebase the project using laravel
-
-* [ ] fix build warning
 
 * [ ] add startup documentation for local project install
 
