@@ -32,6 +32,8 @@ release/2.23/89308\_dark\_mode\_fix
 
 release/2.23/89271\_multiple\_CA\_leaves
 
+release/2.23/fix\_capa\_multiple\_ajax\_load
+
 ###### Not merged branches
 
 release/2.23/add\_hot\_relaod\_module\_server\_for\_development
@@ -39,5 +41,3 @@ release/2.23/add\_hot\_relaod\_module\_server\_for\_development
 release/2.23/local\_auth\_mode
 
 release/2.23/24941\_leave\_edit
-
-release/2.23/fix\_capa\_multiple\_ajax\_load
