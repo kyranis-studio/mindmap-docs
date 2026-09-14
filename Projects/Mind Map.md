@@ -8,6 +8,8 @@
 
 ###### Priority
 
+* [ ] safely save the git credential
+
 * [ ] add custom prompt input for skills
 
 * [ ] add inline AI edit feature

@@ -18,6 +18,10 @@
 
 * [ ] MCP server/client
 
+* [ ] in the knowledge code structure show non-treated files with tree sitter
+
+* [ ] Use AI for non-processed files to generate graph knowledge
+
 * [ ] none
 
 ###### Features

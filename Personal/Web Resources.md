@@ -19,3 +19,13 @@ grammar spelling dictionary: <https://github.com/streetsidesoftware/vscode-spell
 Colibri: h[ttps://github.com/JustVugg/colibri](https://github.com/JustVugg/colibri)
 
 AI provider: <https://xkiro.com>
+
+ZG semantic search: <https://github.com/zvec-ai/zvec-grep>
+
+Obscura + Ollama \*\*Web Scraping: \*\*<https://github.com/h4ckf0r0day/obscura>
+
+Crawl4AI **Crawler & Scraper**: <https://github.com/unclecode/crawl4ai>
+
+Run 35B Model Under 3GB <https://github.com/Edge0-AI/edge0>
+
+<https://github.com/feyninc/chonkie>
