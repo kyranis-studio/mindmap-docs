@@ -42,4 +42,4 @@ release/2.23/local\_auth\_mode
 
 release/2.23/24941\_leave\_edit
 
-release/2.23/capa\_job\_holding\_chronolo
+release/2.23/capa\_job\_holding\_chronological
