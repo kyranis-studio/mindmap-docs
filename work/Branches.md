@@ -6,7 +6,7 @@ hotfix/2.22/add\_held\_post\_to\_capa\_table
 
 hotfix/2.22/88941\_fix\_english\_metrics
 
-hotfix/2.22/fix\_cache\_and\_gitig
+hotfix/2.22/fix\_cache\_and\_gitignore
 
 <br />
 
