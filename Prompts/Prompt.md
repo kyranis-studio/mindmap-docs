@@ -1,7 +1,3 @@
-In the capa page in simulation mode the user could shrink/expand the periods I want to refractor the code and change the behavior
+@src/js/vue3/src/views/CapaView.vue  
 
-when the period is shrink/expand don't show the text inside the bar
-
-I see some visual bug the bar don't stay connected when resized fix this
-
-make sure the resize feel fluid
+For the CAPA page, find how the data is collected.The CAPA page has 2 modes normal mode that groups agents in bars and simulation mode. The simulation mode duplicates the bars in normal mode using the agent count In simulation mode the user could modify the periods by agent. I need to add a save button to save the simulated mode back to the database. Take into consideration that if the user changes an agent period, it must be displayed as a separate bar in normal mode. What data needs to be passed to the page to be able to save it back into the database? Write a plan to do that.
