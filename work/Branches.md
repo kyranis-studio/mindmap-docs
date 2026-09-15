@@ -34,6 +34,8 @@ release/2.23/89271\_multiple\_CA\_leaves
 
 release/2.23/fix\_capa\_multiple\_ajax\_load
 
+release/2.23/capa\_simulat
+
 ###### Not merged branches
 
 release/2.23/add\_hot\_relaod\_module\_server\_for\_development
