@@ -4,4 +4,6 @@ For the CAPA page, find how the data is collected.The CAPA page has 2 modes norm
 
 The simulation mode duplicates the bars in normal mode using the agent count In simulation mode the user could modify the periods by agent. 
 
-I need to add a save button to save the simulated mode back to the database. Take into consideration that if the user changes an agent period, it must be displayed as a separate bar in normal mode. What data needs to be passed to the page to be able to save it back into the database? Write a plan to do that.
+I need to add a save button to save the simulated mode back to the database. 
+
+Take into consideration that if the user changes an agent period, it must be displayed as a separate bar in normal mode. What data needs to be passed to the page to be able to save it back into the database? Write a plan to do that.
