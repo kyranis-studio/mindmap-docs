@@ -6,4 +6,8 @@ The simulation mode duplicates the bars in normal mode using the agent count In 
 
 I need to add a save button to save the simulated mode back to the database. 
 
-Take into consideration that if the user changes an agent period, it must be displayed as a separate bar in normal mode. What data needs to be passed to the page to be able to save it back into the database? Write a plan to do that.
+Take into consideration that if the user changes an agent period, it must be displayed as a separate bar in normal mode. 
+
+What data needs to be passed to the page to be able to save it back into the database? 
+
+Write a plan to do that.
