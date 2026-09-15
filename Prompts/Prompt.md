@@ -1,5 +1,7 @@
-In the capa page in simulation mode the user could shrink/expand the periods i want to set a limit for this operations
+In the capa page in simulation mode the user could shrink/expand the periods I want to refractor the code and change the behavior
 
-the periods are working periods and pause periods
+when the period is shrink/expand don't show the text inside the bar
 
-the working periods must not exceed 2H30
+I see some visual bug the bar don't stay connected when resized fix this
+
+make sure the resize feel fluid
