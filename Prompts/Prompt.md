@@ -8,7 +8,7 @@ I need to add a save button to save the simulated mode back to the database.
 
 Take into consideration that if the user changes an agent period, it must be displayed as a separate bar in normal mode. 
 
-Explain to me how the agent is grouped into one
+Explain to me how the agent is grouped into the te
 
 What data needs to be passed to the page to be able to save it back into the database? 
 
