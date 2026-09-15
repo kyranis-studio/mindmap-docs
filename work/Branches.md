@@ -34,6 +34,8 @@ release/2.23/89271\_multiple\_CA\_leaves
 
 release/2.23/fix\_capa\_multiple\_ajax\_load
 
+release/2.23/capa\_job\_holding\_chronological\_order\_display
+
 ###### Not merged branches
 
 release/2.23/capa\_simulation\_mode\_restriction
@@ -43,5 +45,3 @@ release/2.23/add\_hot\_relaod\_module\_server\_for\_development
 release/2.23/local\_auth\_mode
 
 release/2.23/24941\_leave\_edit
-
-release/2.23/capa\_job\_holding\_chronological\_order\_display
