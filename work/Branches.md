@@ -34,7 +34,7 @@ release/2.23/89271\_multiple\_CA\_leaves
 
 release/2.23/fix\_capa\_multiple\_ajax\_load
 
-release/2.23/capa\_simulat
+release/2.23/capa\_simulation\_mode
 
 ###### Not merged branches
 
