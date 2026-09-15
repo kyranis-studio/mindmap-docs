@@ -12,3 +12,5 @@
 
 * [ ] rebase the project using laravel
 
+* [ ] dark mode fix 
+
