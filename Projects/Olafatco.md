@@ -12,5 +12,5 @@
 
 * [ ] rebase the project using laravel
 
-* [ ] dark mode fix cell 
+* [ ] dark mode fix TDcell table
 
