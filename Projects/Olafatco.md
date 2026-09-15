@@ -12,5 +12,5 @@
 
 * [ ] rebase the project using laravel
 
-* [ ] dark mode fix 
+* [ ] dark mode fix cell 
 
