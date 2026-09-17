@@ -152,7 +152,8 @@
       "updatedAt": "2026-09-14T07:54:36.155Z"
     },
     "Personal/Draft.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 5,
       "aiSummary": "",
       "tags": [],
       "position": 0,
