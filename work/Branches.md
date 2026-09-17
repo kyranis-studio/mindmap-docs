@@ -50,4 +50,4 @@ release/2.23/add\_hot\_relaod\_module\_server\_for\_development
 
 release/2.23/24941\_leave\_edit
 
-release/2.23/linktwiki\_documentation
+release/2.23/link\_twiki\_documentation
