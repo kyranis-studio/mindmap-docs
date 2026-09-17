@@ -42,6 +42,8 @@ release/2.23/capa\_simulation\_mode\_restriction
 
 release/2.23/local\_auth\_mode
 
+release/2.23/documentation
+
 ###### Not merged branches
 
 release/2.23/add\_hot\_relaod\_module\_server\_for\_development
