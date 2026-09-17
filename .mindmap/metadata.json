@@ -13,7 +13,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 1,
       "createdAt": "2026-08-20T18:50:46.893Z",
       "updatedAt": "2026-08-31T07:52:42.025Z"
     },
@@ -21,7 +21,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 2,
       "createdAt": "2026-08-26T06:08:45.255Z",
       "updatedAt": "2026-08-26T06:08:45.255Z"
     },
@@ -29,7 +29,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 3,
+      "position": 8,
       "createdAt": "2026-08-21T08:08:37.616Z",
       "updatedAt": "2026-08-21T08:09:24.054Z"
     },
@@ -37,7 +37,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 1,
+      "position": 6,
       "createdAt": "2026-08-20T20:13:23.029Z",
       "updatedAt": "2026-09-14T19:20:53.888Z"
     },
@@ -45,7 +45,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 3,
       "createdAt": "2026-08-24T06:09:00.177Z",
       "updatedAt": "2026-08-24T06:09:00.177Z"
     },
@@ -53,7 +53,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 4,
       "createdAt": "2026-08-27T13:52:18.831Z",
       "updatedAt": "2026-09-12T16:04:47.492Z"
     },
@@ -61,7 +61,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 2,
+      "position": 7,
       "createdAt": "2026-08-21T05:53:39.660Z",
       "updatedAt": "2026-09-01T07:13:37.101Z"
     },
@@ -69,7 +69,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 5,
       "createdAt": "2026-08-31T07:52:06.326Z",
       "updatedAt": "2026-08-31T07:52:06.326Z"
     },
@@ -138,7 +138,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 2,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-08-17T11:42:36.993Z"
     },
@@ -147,16 +147,16 @@
       "favoritePosition": 3,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-14T07:54:36.155Z"
     },
-    "Personal/Draft.md": {
+    "work/Draft.md": {
       "isFavorite": true,
       "favoritePosition": 0,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 1,
       "createdAt": "2026-09-17T13:35:37.947Z",
       "updatedAt": "2026-09-17T13:56:02.607Z"
     }
@@ -199,7 +199,7 @@
       "index": false,
       "describe": false
     },
-    "Personal/Draft.md": {
+    "work/Draft.md": {
       "sync": false,
       "index": false
     }
@@ -225,6 +225,6 @@
     "Personal/Web Resources.md": [],
     "Projects/Stemcell.emd": [],
     "Personal/Info.emd": [],
-    "Personal/Draft.md": []
+    "work/Draft.md": []
   }
 }
