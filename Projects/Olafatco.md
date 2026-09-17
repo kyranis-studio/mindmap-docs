@@ -1,6 +1,6 @@
 <br />
 
-* [ ] lin the w
+* [ ] lin the wiki to the local
 
 * [ ] devkit smart build using git
 
