@@ -38,9 +38,9 @@ release/2.23/fix\_capa\_multiple\_ajax\_load
 
 release/2.23/capa\_job\_holding\_chronological\_order\_display
 
-###### Not merged branches
-
 release/2.23/capa\_simulation\_mode\_restriction
+
+###### Not merged branches
 
 release/2.23/add\_hot\_relaod\_module\_server\_for\_development
 
