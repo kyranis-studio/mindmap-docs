@@ -98,7 +98,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-28T09:50:04.430Z",
-      "updatedAt": "2026-09-15T11:40:49.089Z"
+      "updatedAt": "2026-09-17T13:55:11.814Z"
     },
     "Projects/Stemcell.emd": {
       "isFavorite": false,
@@ -151,13 +151,13 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-14T07:54:36.155Z"
     },
-    "Personal/Untitled.md": {
+    "Personal/Draft.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
       "createdAt": "2026-09-17T13:35:37.947Z",
-      "updatedAt": "2026-09-17T13:35:37.947Z"
+      "updatedAt": "2026-09-17T13:36:21.855Z"
     }
   },
   "folders": {
@@ -198,7 +198,7 @@
       "index": false,
       "describe": false
     },
-    "Personal/Untitled.md": {
+    "Personal/Draft.md": {
       "sync": false,
       "index": false
     }
