@@ -184,6 +184,11 @@
     "Projects/Olafatco.md": {
       "sync": true,
       "index": true
+    },
+    "Prompts/Prompt.md": {
+      "sync": true,
+      "index": false,
+      "describe": false
     }
   },
   "docAssetRefs": {
