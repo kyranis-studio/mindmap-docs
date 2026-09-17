@@ -200,7 +200,7 @@
       "describe": false
     },
     "work/Draft.md": {
-      "sync": false,
+      "sync": true,
       "index": false
     }
   },
