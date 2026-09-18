@@ -28,4 +28,6 @@ Crawl4AI **Crawler & Scraper**: <https://github.com/unclecode/crawl4ai>
 
 Run 35B Model Under 3GB <https://github.com/Edge0-AI/edge0>
 
+LLM like automation <https://cactuscompute.com/needle>
+
 <https://github.com/feyninc/chonkie>
