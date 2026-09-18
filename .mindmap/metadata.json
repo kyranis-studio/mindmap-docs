@@ -7,7 +7,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-27T06:12:08.374Z",
-      "updatedAt": "2026-09-15T07:51:14.626Z"
+      "updatedAt": "2026-09-18T09:18:53.502Z"
     },
     "Personal/API Keys.emd": {
       "isFavorite": false,
@@ -134,6 +134,15 @@
       "createdAt": "2026-08-17T11:41:55.452Z",
       "updatedAt": "2026-09-17T14:18:56.586Z"
     },
+    "work/Draft.md": {
+      "isFavorite": true,
+      "favoritePosition": 0,
+      "aiSummary": "",
+      "tags": [],
+      "position": 1,
+      "createdAt": "2026-09-17T13:35:37.947Z",
+      "updatedAt": "2026-09-17T13:56:02.607Z"
+    },
     "work/Olafatco.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -150,15 +159,6 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-14T07:54:36.155Z"
-    },
-    "work/Draft.md": {
-      "isFavorite": true,
-      "favoritePosition": 0,
-      "aiSummary": "",
-      "tags": [],
-      "position": 1,
-      "createdAt": "2026-09-17T13:35:37.947Z",
-      "updatedAt": "2026-09-17T13:56:02.607Z"
     }
   },
   "folders": {
@@ -196,8 +196,7 @@
     },
     "Prompts/Prompt.md": {
       "sync": true,
-      "index": false,
-      "describe": false
+      "index": false
     },
     "work/Draft.md": {
       "sync": true,

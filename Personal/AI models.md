@@ -14,6 +14,8 @@
 
 <https://huggingface.co/pfeifferj/GLM-5.3-Flash-GSQ-RCO-GGUF>
 
+<https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
