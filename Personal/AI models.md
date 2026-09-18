@@ -16,6 +16,8 @@
 
 <https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf>
 
+<https://huggingface.co/ukisai/Swift-Qwen3.8-27b>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
