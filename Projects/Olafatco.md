@@ -2,7 +2,7 @@
 
 * [ ] link the wiki to the local documentation
 
-* [ ] devkit add github
+* [ ] devkit add github feature with llm 
 
 * [ ] devkit smart build using git
 
