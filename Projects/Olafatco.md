@@ -2,6 +2,8 @@
 
 * [ ] link the wiki to the local documentation
 
+* [ ] de
+
 * [ ] devkit smart build using git
 
 * [x] optimize vue chunking
