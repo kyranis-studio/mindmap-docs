@@ -4,7 +4,7 @@
 
 ###### Priority
 
-*  [ ] TypeSafe AI for 
+* [ ] &#x20;TypeSafe AI for decsion
 
 * [ ] ask for command run in tools nodes
 
