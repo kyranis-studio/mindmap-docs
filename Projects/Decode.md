@@ -4,6 +4,8 @@
 
 ###### Priority
 
+*  [ ] TypeSafe AI for 
+
 * [ ] ask for command run in tools nodes
 
 * [ ] add an UI tool node
