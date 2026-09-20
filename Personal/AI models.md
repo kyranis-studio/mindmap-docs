@@ -18,6 +18,8 @@
 
 <https://huggingface.co/ukisai/Swift-Qwen3.8-27b>
 
+<https://huggingface.co/XHToken/Spark-X2.5-4B-GGUF>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
