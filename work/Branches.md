@@ -52,4 +52,4 @@ release/2.23/24941\_leave\_edit
 
 release/2.23/link\_to\_wiki\_documentation
 
-release/2.23/capa\_page\_fix\_bugs
+release/2.23/capa\_page\_fix\_data\_bugs
