@@ -30,4 +30,6 @@ Run 35B Model Under 3GB <https://github.com/Edge0-AI/edge0>
 
 Needle LLM like automation <https://cactuscompute.com/needle>
 
+  Open Jev <https://github.com/SiliconLabAI/OpenJev>
+
 <https://github.com/feyninc/chonkie>
