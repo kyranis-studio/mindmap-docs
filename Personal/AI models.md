@@ -20,6 +20,8 @@
 
 <https://huggingface.co/XHToken/Spark-X2.5-4B-GGUF>
 
+<br />
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
