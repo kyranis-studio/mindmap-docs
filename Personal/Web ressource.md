@@ -1,6 +1,6 @@
 <br />
 
-faster inference: <https://github.com/syv-ai/qwen38-27b-rtx3090>
+<br />
 
 Open Viking (AI memory):  <https://github.com/volcengine/OpenViking>
 
