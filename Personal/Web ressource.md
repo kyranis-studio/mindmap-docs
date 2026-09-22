@@ -1,4 +1,4 @@
-**Free AI API router**: <https://github.com/tashfeenahmed/freellmapi>
+<br />
 
 **Godot Hub**: <https://github.com/RykoTheDev/GodotHub>
 
