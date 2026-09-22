@@ -28,7 +28,7 @@ Crawl4AI **Crawler & Scraper**: <https://github.com/unclecode/crawl4ai>
 
 Run 35B Model Under 3GB <https://github.com/Edge0-AI/edge0>
 
-Needle LLM like automation <https://cactuscompute.com/needle>
+Needle LLM like automation 
 
 Open Jev <https://github.com/SiliconLabAI/OpenJev>
 
