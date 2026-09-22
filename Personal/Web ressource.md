@@ -1,6 +1,6 @@
 <br />
 
-**Godot Hub**: <https://github.com/RykoTheDev/GodotHub>
+<br />
 
 **Prime agent**: <https://github.com/PrimeIntellect-ai/prime-agent>
 
