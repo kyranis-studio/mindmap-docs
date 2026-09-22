@@ -32,4 +32,6 @@ Needle LLM like automation <https://cactuscompute.com/needle>
 
 Open Jev <https://github.com/SiliconLabAI/OpenJev>
 
+classifier.dev <https://classifier.dev/>
+
 <https://github.com/feyninc/chonkie>
