@@ -24,6 +24,8 @@
 
 <https://huggingface.co/convaiinnovations/laya>
 
+<https://cactuscompute.com/needle>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
