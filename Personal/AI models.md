@@ -20,7 +20,9 @@
 
 <https://huggingface.co/XHToken/Spark-X2.5-4B-GGUF>
 
-<br />
+###### Safe type AI models
+
+<https://huggingface.co/convaiinnovations/laya>
 
 ###### TTS models
 
