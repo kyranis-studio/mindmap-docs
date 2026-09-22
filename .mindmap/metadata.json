@@ -57,13 +57,13 @@
       "createdAt": "2026-08-27T13:52:18.831Z",
       "updatedAt": "2026-09-21T16:50:19.903Z"
     },
-    "Personal/Web ressources.md": {
+    "Personal/Web ressource.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 7,
       "createdAt": "2026-08-21T05:53:39.660Z",
-      "updatedAt": "2026-09-22T07:48:25.471Z"
+      "updatedAt": "2026-09-22T07:50:27.752Z"
     },
     "Personal/Website Bookmark.md": {
       "isFavorite": false,
@@ -178,10 +178,6 @@
   "tags": [],
   "nextTagId": 0,
   "files": {
-    "Personal/Web ressources.md": {
-      "sync": true,
-      "index": true
-    },
     "Personal/General tasks.md": {
       "sync": true,
       "index": false
@@ -201,12 +197,15 @@
     "work/Draft.md": {
       "sync": true,
       "index": false
+    },
+    "Personal/Web ressource.md": {
+      "sync": true,
+      "index": true
     }
   },
   "docAssetRefs": {
     "Personal/General tasks.md": [],
     "Personal/Tags.md": [],
-    "Personal/Web ressources.md": [],
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
     "Projects/Unichat.md": [],
@@ -225,6 +224,7 @@
     "Projects/Stemcell.emd": [],
     "Personal/Info.emd": [],
     "work/Draft.md": [],
-    "Personal/Website Bookmark.md": []
+    "Personal/Website Bookmark.md": [],
+    "Personal/Web ressource.md": []
   }
 }
