@@ -158,7 +158,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-09-23T09:26:29.547Z",
-      "updatedAt": "2026-09-23T09:26:29.547Z"
+      "updatedAt": "2026-09-23T09:29:02.345Z"
     }
   },
   "folders": {
@@ -224,6 +224,7 @@
     "Projects/Stemcell.emd": [],
     "Personal/Info.emd": [],
     "work/Draft.md": [],
-    "Personal/Website Bookmark.md": []
+    "Personal/Website Bookmark.md": [],
+    "work/Devkit rewrite.md": []
   }
 }
