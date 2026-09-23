@@ -187,7 +187,7 @@
       "index": false
     },
     "work/Draft.md": {
-      "sync": true,
+      "sync": false,
       "index": false
     }
   },
