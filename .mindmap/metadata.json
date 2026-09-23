@@ -151,6 +151,14 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-14T07:54:36.155Z"
+    },
+    "work/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-09-23T09:26:29.547Z",
+      "updatedAt": "2026-09-23T09:26:29.547Z"
     }
   },
   "folders": {
@@ -187,6 +195,10 @@
       "index": false
     },
     "work/Draft.md": {
+      "sync": false,
+      "index": false
+    },
+    "work/Untitled.md": {
       "sync": false,
       "index": false
     }
