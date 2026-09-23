@@ -54,4 +54,4 @@ release/2.23/link\_to\_wiki\_documentation
 
 release/2.23/89731\_capa\_page\_fix\_data\_bugs
 
-release/2.23/fix\_missing\_documentation\_f
+release/2.23/fix\_missing\_documentation\_folder
