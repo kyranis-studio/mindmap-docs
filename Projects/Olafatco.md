@@ -1,6 +1,6 @@
 <br />
 
-* [ ] link the wiki to the local documentation
+* [ ] add documenetation for menu creatio
 
 * [ ] devkit add github feature with llm integration
 
