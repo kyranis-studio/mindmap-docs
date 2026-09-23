@@ -153,7 +153,8 @@
       "updatedAt": "2026-09-14T07:54:36.155Z"
     },
     "work/Devkit rewrite.md": {
-      "isFavorite": false,
+      "isFavorite": true,
+      "favoritePosition": 6,
       "aiSummary": "",
       "tags": [],
       "position": 0,
@@ -200,7 +201,7 @@
     },
     "work/Devkit rewrite.md": {
       "sync": true,
-      "index": false
+      "index": true
     }
   },
   "docAssetRefs": {
