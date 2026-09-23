@@ -1,6 +1,6 @@
 <br />
 
-* [ ] add docu for menu creation
+* [ ] add documentation for menu creation
 
 * [ ] devkit add github feature with llm integration
 
