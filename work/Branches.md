@@ -56,4 +56,4 @@ release/2.23/89731\_capa\_page\_fix\_data\_bugs
 
 release/2.23/fix\_missing\_documentation\_folder
 
-release/2.23/add\_
+release/2.23/add\_manage\_qualification\_
