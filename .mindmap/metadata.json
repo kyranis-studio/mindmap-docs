@@ -7,7 +7,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-27T06:12:08.374Z",
-      "updatedAt": "2026-09-22T13:20:00.354Z"
+      "updatedAt": "2026-09-23T16:11:01.797Z"
     },
     "Personal/API Keys.emd": {
       "isFavorite": false,
@@ -126,6 +126,15 @@
       "createdAt": "2026-08-17T11:41:55.452Z",
       "updatedAt": "2026-09-23T13:21:48.781Z"
     },
+    "work/Devkit rewrite.md": {
+      "isFavorite": true,
+      "favoritePosition": 6,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-09-23T09:26:29.547Z",
+      "updatedAt": "2026-09-23T09:29:02.345Z"
+    },
     "work/Draft.md": {
       "isFavorite": true,
       "favoritePosition": 0,
@@ -151,15 +160,6 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-23T13:52:42.359Z"
-    },
-    "work/Devkit rewrite.md": {
-      "isFavorite": true,
-      "favoritePosition": 6,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-09-23T09:26:29.547Z",
-      "updatedAt": "2026-09-23T09:29:02.345Z"
     }
   },
   "folders": {

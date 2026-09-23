@@ -20,6 +20,8 @@
 
 <https://huggingface.co/XHToken/Spark-X2.5-4B-GGUF>
 
+<https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF>
+
 ###### Safe type AI models
 
 <https://huggingface.co/convaiinnovations/laya>
