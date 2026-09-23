@@ -199,7 +199,7 @@
       "index": false
     },
     "work/Devkit rewrite.md": {
-      "sync": false,
+      "sync": true,
       "index": false
     }
   },
