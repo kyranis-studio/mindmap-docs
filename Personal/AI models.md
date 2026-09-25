@@ -28,6 +28,8 @@
 
 <https://cactuscompute.com/needle>
 
+<https://huggingface.co/Contrastive-LM/CLM-v0.1-8B>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
