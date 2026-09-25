@@ -63,3 +63,5 @@ release/2.23/fix\_leave\_start\_end\_cycle\_days
 release/2.23/devkit\_UI
 
 release/2.23/capa\_page\_fix\_team\_day\_affectation
+
+release/2.23/89271\_multiple\_CA\_leaves
