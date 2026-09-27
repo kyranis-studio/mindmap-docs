@@ -30,6 +30,8 @@
 
 <https://huggingface.co/Contrastive-LM/CLM-v0.1-8B>
 
+<https://huggingface.co/togethercomputer/Tev1-0.8B-experimental>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
