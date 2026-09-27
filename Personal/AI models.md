@@ -22,6 +22,8 @@
 
 <https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF>
 
+<br />
+
 ###### Safe type AI models
 
 <https://huggingface.co/convaiinnovations/laya>
