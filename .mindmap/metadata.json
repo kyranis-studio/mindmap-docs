@@ -135,15 +135,6 @@
       "createdAt": "2026-09-23T09:26:29.547Z",
       "updatedAt": "2026-09-23T18:02:21.272Z"
     },
-    "work/Draft.md": {
-      "isFavorite": true,
-      "favoritePosition": 0,
-      "aiSummary": "",
-      "tags": [],
-      "position": 1,
-      "createdAt": "2026-09-17T13:35:37.947Z",
-      "updatedAt": "2026-09-23T08:37:41.739Z"
-    },
     "work/Olafatco.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -193,10 +184,6 @@
     },
     "Prompts/Prompt.md": {
       "sync": true,
-      "index": false
-    },
-    "work/Draft.md": {
-      "sync": false,
       "index": false
     },
     "work/Devkit rewrite.md": {

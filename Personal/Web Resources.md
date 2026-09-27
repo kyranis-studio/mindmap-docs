@@ -32,4 +32,6 @@ Open Jev <https://github.com/SiliconLabAI/OpenJev>
 
 classifier.dev <https://classifier.dev/>
 
+Qwen N-gram <https://github.com/47thtechcorner/RayCodes_Qwengram-0.8B>
+
 <https://github.com/feyninc/chonkie>
