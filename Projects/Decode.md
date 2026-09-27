@@ -26,8 +26,6 @@
 
 * [ ] none
 
-* [ ] <br />
-
 ###### Features
 
 * [ ] **node graph time laps**
