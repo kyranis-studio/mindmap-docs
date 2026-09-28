@@ -1,6 +1,6 @@
 ###### Chat models
 
-<br />
+Graihybrid mamba-2
 
 <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>
 
