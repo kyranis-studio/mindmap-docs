@@ -1,6 +1,6 @@
 ###### Chat models
 
-Graihybrid mamba-2
+granite4 hybrid mamba-2 in ollama
 
 <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>
 
