@@ -32,6 +32,8 @@
 
 <https://huggingface.co/togethercomputer/Tev1-0.8B-experimental>
 
+<https://huggingface.co/SupersonicLabs/Julia-1>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
