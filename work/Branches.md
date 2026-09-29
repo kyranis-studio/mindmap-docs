@@ -68,4 +68,4 @@ release/2.23/24941\_leave\_edit
 
 release/2.23/update\_documentation
 
-release/2.23/update
+release/2.23/leave
