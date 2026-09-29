@@ -58,12 +58,12 @@ release/2.23/capa\_page\_fix\_team\_day\_affectation
 
 release/2.23/multiple\_CA\_leaves\_fix\_multiple\_check\_condition
 
+release/2.23/multiple\_CA\_leaves\_fix\_submit\_leaves
+
 ###### Not merged branches
 
 release/2.23/add\_hot\_relaod\_module\_server\_for\_development
 
 release/2.23/24941\_leave\_edit
-
-release/2.23/multiple\_CA\_leaves\_fix\_submit\_leaves
 
 release/2.23/update\_documentation
