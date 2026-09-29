@@ -66,4 +66,4 @@ release/2.23/24941\_leave\_edit
 
 release/2.23/multiple\_CA\_leaves\_fix\_submit\_leaves
 
-release/2.23/documentation
+release/2.23/update\_documentation
