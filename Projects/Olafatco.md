@@ -6,7 +6,7 @@
 
 * [ ] devkit smart build using git
 
-* [x] update the vite build vue chunking
+* [x] update the vite build with  chunking
 
 * [ ] fix build warning
 
