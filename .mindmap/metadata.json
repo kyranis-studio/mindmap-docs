@@ -25,14 +25,6 @@
       "createdAt": "2026-08-25T08:24:49.228Z",
       "updatedAt": "2026-08-26T16:48:44.846Z"
     },
-    "Personal/General tasks.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 3,
-      "createdAt": "2026-08-21T08:08:37.616Z",
-      "updatedAt": "2026-10-01T17:33:16.547Z"
-    },
     "Personal/Info.emd": {
       "isFavorite": false,
       "aiSummary": "",
@@ -279,7 +271,6 @@
   },
   "docAssetRefs": {
     "Personal/Game idea.md": [],
-    "Personal/General tasks.md": [],
     "Personal/Web ressources.md": [],
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
