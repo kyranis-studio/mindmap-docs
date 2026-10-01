@@ -1,6 +1,6 @@
 <br />
 
-* [ ] add the Voter in the
+* [ ] add the Voter in the leave
 
 * [ ] devkit add documentation pull in the devkit build environment
 
