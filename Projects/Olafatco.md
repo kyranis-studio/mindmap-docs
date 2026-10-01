@@ -1,6 +1,6 @@
 <br />
 
-* [ ] devkit add documa
+* [ ] devkit add documaentation p
 
 * [ ] devkit add github feature with llm integration
 
