@@ -1,7 +1,3 @@
-<https://925.tn/produit/bague-marquise/platine>
-
-<https://925.tn/produit/collier-swan/rose>
+<https://mouchka.tn/>
 
 <https://home.by.me/>
-
-<https://baity.tn/88-bureau>

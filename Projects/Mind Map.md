@@ -1,8 +1,14 @@
 ###### Bugs
 
+* [ ] indexing get stuck
+
+* [ ] fix fallback model use after error
+
 * [ ] none
 
 ###### Priority
+
+* [ ] safely save the git credential
 
 * [ ] add custom prompt input for skills
 

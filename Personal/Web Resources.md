@@ -17,3 +17,21 @@ SIE vllm alternative with the ability to serve multiple models: h[ttps://github.
 grammar spelling dictionary: <https://github.com/streetsidesoftware/vscode-spell-checker>
 
 Colibri: h[ttps://github.com/JustVugg/colibri](https://github.com/JustVugg/colibri)
+
+AI provider: <https://xkiro.com>
+
+ZG semantic search: <https://github.com/zvec-ai/zvec-grep>
+
+Obscura + Ollama \*\*Web Scraping: \*\*<https://github.com/h4ckf0r0day/obscura>
+
+Crawl4AI **Crawler & Scraper**: <https://github.com/unclecode/crawl4ai>
+
+Run 35B Model Under 3GB <https://github.com/Edge0-AI/edge0>
+
+Open Jev <https://github.com/SiliconLabAI/OpenJev>
+
+classifier.dev <https://classifier.dev/>
+
+Qwen N-gram <https://github.com/47thtechcorner/RayCodes_Qwengram-0.8B>
+
+<https://github.com/feyninc/chonkie>

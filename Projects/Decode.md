@@ -4,9 +4,13 @@
 
 ###### Priority
 
+* [ ] &#x20;TypeSafe AI for decision
+
 * [ ] ask for command run in tools nodes
 
 * [ ] add an UI tool node
+
+* [ ] memory strategy node (full context/summarize)
 
 * [ ] memory compression for local AI
 
@@ -15,6 +19,10 @@
 * [ ] add and update server
 
 * [ ] MCP server/client
+
+* [ ] in the knowledge code structure show non-treated files with tree sitter
+
+* [ ] Use AI for non-processed files to generate graph knowledge
 
 * [ ] none
 
