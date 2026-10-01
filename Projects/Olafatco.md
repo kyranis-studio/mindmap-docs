@@ -1,6 +1,6 @@
 <br />
 
-* [ ] devkit add documaentation pull in the devkit build envirnoment
+* [ ] devkit add documentation pull in the devkit build environment
 
 * [ ] devkit add github feature with llm integration
 
