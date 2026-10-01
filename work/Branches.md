@@ -66,8 +66,6 @@ release/2.23/update\_documentation
 
 release/2.23/add\_hot\_relaod\_module\_server\_for\_development
 
-release/2.23/24941\_leave\_edit
-
 release/2.23/leave\_V3
 
 release/2.23/dark\_mode\_ui\_fix
