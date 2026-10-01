@@ -6,7 +6,7 @@
 
 * [ ] devkit smart build using git
 
-* [x] update the vite build with chunking stretegie
+* [ ] update the vite build with chunking strategies.
 
 * [ ] fix build warning
 
