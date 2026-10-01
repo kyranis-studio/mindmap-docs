@@ -24,6 +24,8 @@ granite4 hybrid mamba-2 in ollama
 
 <https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF>
 
+<https://huggingface.co/orcarouter/OrcaSAQ-2-27B>
+
 ###### Safe type AI models
 
 <https://huggingface.co/convaiinnovations/laya>
