@@ -1,4 +1,4 @@
-30 simen :405 
+30 simen :405
 
 om rmal:140
 
