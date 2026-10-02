@@ -150,7 +150,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-10-02T22:13:11.233Z",
-      "updatedAt": "2026-10-02T22:13:39.268Z"
+      "updatedAt": "2026-10-02T22:15:49.859Z"
     }
   },
   "folders": {
@@ -213,6 +213,7 @@
     "Personal/Info.emd": [],
     "work/Draft.md": [],
     "Personal/Website Bookmark.md": [],
-    "work/Devkit rewrite.md": []
+    "work/Devkit rewrite.md": [],
+    "Projects/Kiosk OS.md": []
   }
 }
