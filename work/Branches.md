@@ -62,12 +62,12 @@ release/2.23/multiple\_CA\_leaves\_fix\_submit\_leaves
 
 release/2.23/update\_documentation
 
+release/2.23/devkit\_add\_database\_snapshot
+
 ###### Not merged branches
 
 release/2.23/leave\_V3
 
 release/2.23/dark\_mode\_ui\_fix
-
-release/2.23/devkit\_add\_database\_snapshot
 
 release/2.23\_fix\_leave\_duration\_check\_multiple\_periods
