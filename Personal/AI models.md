@@ -42,6 +42,8 @@ granite4 hybrid mamba-2 in ollama
 
 <https://huggingface.co/Cloudflare/clef>
 
+<https://huggingface.co/mohit67890/imajev-4b>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
