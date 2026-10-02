@@ -144,13 +144,13 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-30T11:40:01.581Z"
     },
-    "Projects/Untitled.md": {
+    "Projects/Kiosk OS.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
       "createdAt": "2026-10-02T22:13:11.233Z",
-      "updatedAt": "2026-10-02T22:13:11.233Z"
+      "updatedAt": "2026-10-02T22:13:39.268Z"
     }
   },
   "folders": {
@@ -186,7 +186,7 @@
       "sync": true,
       "index": true
     },
-    "Projects/Untitled.md": {
+    "Projects/Kiosk OS.md": {
       "sync": false,
       "index": false
     }
