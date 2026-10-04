@@ -30,7 +30,7 @@ Qwen3-235B-A22B-GGUF
 
 <https://huggingface.co/NANI-Nithin/K2-Horizon-MoVA-36B-A4B-GGUF>
 
-###### Safe type AI models
+###### **Decision models**
 
 <https://huggingface.co/convaiinnovations/laya>
 
@@ -47,6 +47,8 @@ Qwen3-235B-A22B-GGUF
 <https://huggingface.co/mohit67890/imajev-4b>
 
 <https://huggingface.co/EldanRing/Winnow-12B>
+
+<https://huggingface.co/vllm-sr/Decision-2.0-Nox-4B>
 
 ###### TTS models
 
