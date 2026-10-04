@@ -152,13 +152,13 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-30T11:40:01.581Z"
     },
-    "Projects/Untitled.md": {
+    "Projects/Graph Mind harness.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
       "createdAt": "2026-10-04T10:45:35.150Z",
-      "updatedAt": "2026-10-04T10:45:35.150Z"
+      "updatedAt": "2026-10-04T10:45:58.588Z"
     }
   },
   "folders": {
@@ -198,7 +198,7 @@
       "sync": true,
       "index": false
     },
-    "Projects/Untitled.md": {
+    "Projects/Graph Mind harness.md": {
       "sync": false,
       "index": false
     }
@@ -226,6 +226,7 @@
     "work/Draft.md": [],
     "Personal/Website Bookmark.md": [],
     "work/Devkit rewrite.md": [],
-    "Projects/Kiosk OS.md": []
+    "Projects/Kiosk OS.md": [],
+    "Projects/Graph Mind harness.md": []
   }
 }
