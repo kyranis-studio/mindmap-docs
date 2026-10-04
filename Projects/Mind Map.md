@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] indexing get stuck
+* [ ] indexing get stuck (need to be fixed)
 
 * [ ] fix fallback model use after error
 
