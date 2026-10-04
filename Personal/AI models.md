@@ -44,6 +44,8 @@ granite4 hybrid mamba-2 in ollama
 
 <https://huggingface.co/mohit67890/imajev-4b>
 
+<https://huggingface.co/EldanRing/Winnow-12B>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
