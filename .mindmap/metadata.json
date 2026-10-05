@@ -7,7 +7,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-27T06:12:08.374Z",
-      "updatedAt": "2026-10-01T15:03:48.588Z"
+      "updatedAt": "2026-10-04T19:52:49.890Z"
     },
     "Personal/API Keys.emd": {
       "isFavorite": false,
@@ -66,6 +66,22 @@
       "createdAt": "2026-08-18T11:37:43.073Z",
       "updatedAt": "2026-09-27T15:47:54.920Z"
     },
+    "Projects/Graph Mind harness.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-04T10:45:35.150Z",
+      "updatedAt": "2026-10-04T10:47:01.888Z"
+    },
+    "Projects/Kiosk OS.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-03T19:38:03.863Z",
+      "updatedAt": "2026-10-03T19:39:40.874Z"
+    },
     "Projects/Mind Map.md": {
       "isFavorite": true,
       "favoritePosition": 5,
@@ -73,7 +89,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-09-11T10:14:58.352Z"
+      "updatedAt": "2026-10-04T19:54:47.463Z"
     },
     "Projects/Olafatco.md": {
       "isFavorite": true,
@@ -90,7 +106,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-09-05T16:49:26.538Z",
-      "updatedAt": "2026-09-27T15:34:37.173Z"
+      "updatedAt": "2026-10-04T18:48:15.574Z"
     },
     "Projects/Unichat.md": {
       "isFavorite": false,
@@ -162,10 +178,6 @@
   "tags": [],
   "nextTagId": 0,
   "files": {
-    "Personal/General tasks.md": {
-      "sync": true,
-      "index": false
-    },
     "Personal/AI models.md": {
       "sync": true,
       "index": false
@@ -181,6 +193,14 @@
     "work/Devkit rewrite.md": {
       "sync": true,
       "index": true
+    },
+    "Projects/Kiosk OS.md": {
+      "sync": true,
+      "index": false
+    },
+    "Projects/Graph Mind harness.md": {
+      "sync": true,
+      "index": false
     }
   },
   "docAssetRefs": {
@@ -205,6 +225,8 @@
     "Personal/Info.emd": [],
     "work/Draft.md": [],
     "Personal/Website Bookmark.md": [],
-    "work/Devkit rewrite.md": []
+    "work/Devkit rewrite.md": [],
+    "Projects/Kiosk OS.md": [],
+    "Projects/Graph Mind harness.md": []
   }
 }

@@ -2,6 +2,8 @@
 
 granite4 hybrid mamba-2 in ollama
 
+Qwen3-235B-A22B-GGUF
+
 <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>
 
 <https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF>
@@ -28,7 +30,7 @@ granite4 hybrid mamba-2 in ollama
 
 <https://huggingface.co/NANI-Nithin/K2-Horizon-MoVA-36B-A4B-GGUF>
 
-###### Safe type AI models
+###### **Decision models**
 
 <https://huggingface.co/convaiinnovations/laya>
 
@@ -39,6 +41,14 @@ granite4 hybrid mamba-2 in ollama
 <https://huggingface.co/togethercomputer/Tev1-0.8B-experimental>
 
 <https://huggingface.co/SupersonicLabs/Julia-1>
+
+<https://huggingface.co/Cloudflare/clef>
+
+<https://huggingface.co/mohit67890/imajev-4b>
+
+<https://huggingface.co/EldanRing/Winnow-12B>
+
+<https://huggingface.co/vllm-sr/Decision-2.0-Nox-4B>
 
 ###### TTS models
 
