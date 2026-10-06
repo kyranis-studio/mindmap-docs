@@ -10,7 +10,7 @@ hotfix/2.22/fix\_cache\_and\_gitignore
 
 <br />
 
-release/2.23/update\_spomky-labs\_otphp
+release/2.23/update\_spooky-labs\_otphp
 
 release/2.23/157957\_fix\_uncap\_browser\_history
 
