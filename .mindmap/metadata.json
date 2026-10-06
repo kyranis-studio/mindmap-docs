@@ -158,6 +158,14 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-10-05T11:24:42.974Z"
+    },
+    "Personal/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-06T14:59:12.140Z",
+      "updatedAt": "2026-10-06T14:59:12.140Z"
     }
   },
   "folders": {
@@ -203,6 +211,10 @@
     },
     "Projects/Chat Forge.md": {
       "sync": true,
+      "index": false
+    },
+    "Personal/Untitled.md": {
+      "sync": false,
       "index": false
     }
   },
