@@ -57,6 +57,14 @@
       "createdAt": "2026-08-31T07:52:06.326Z",
       "updatedAt": "2026-09-21T16:49:59.649Z"
     },
+    "Projects/Chat Forge.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-06T12:58:58.187Z",
+      "updatedAt": "2026-10-06T13:37:16.027Z"
+    },
     "Projects/Decode.md": {
       "isFavorite": true,
       "favoritePosition": 4,
@@ -150,14 +158,6 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-10-05T11:24:42.974Z"
-    },
-    "Projects/Chat Forge.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-10-06T12:58:58.187Z",
-      "updatedAt": "2026-10-06T13:37:16.027Z"
     }
   },
   "folders": {
