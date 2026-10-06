@@ -57,14 +57,6 @@
       "createdAt": "2026-08-31T07:52:06.326Z",
       "updatedAt": "2026-09-21T16:49:59.649Z"
     },
-    "Projects/Chat Forge.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-10-06T12:58:58.187Z",
-      "updatedAt": "2026-10-06T13:37:16.027Z"
-    },
     "Projects/Decode.md": {
       "isFavorite": true,
       "favoritePosition": 4,
@@ -131,7 +123,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-17T11:41:55.452Z",
-      "updatedAt": "2026-10-06T10:33:39.258Z"
+      "updatedAt": "2026-10-02T08:42:17.854Z"
     },
     "work/Devkit rewrite.md": {
       "isFavorite": true,
@@ -157,15 +149,23 @@
       "tags": [],
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-10-05T11:24:42.974Z"
+      "updatedAt": "2026-09-30T11:40:01.581Z"
     },
     "Personal/deepseek-v4.1-flash.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-10-06T14:59:12.140Z",
-      "updatedAt": "2026-10-06T14:59:23.954Z"
+      "createdAt": "2026-10-06T18:35:50.166Z",
+      "updatedAt": "2026-10-06T18:35:50.166Z"
+    },
+    "Projects/Chat Forge.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-06T18:35:50.186Z",
+      "updatedAt": "2026-10-06T18:35:50.186Z"
     }
   },
   "folders": {
@@ -209,13 +209,25 @@
       "sync": true,
       "index": false
     },
-    "Projects/Chat Forge.md": {
-      "sync": true,
-      "index": false
-    },
     "Personal/deepseek-v4.1-flash.md": {
       "sync": true,
-      "index": false
+      "index": true,
+      "describe": false
+    },
+    "Projects/Chat Forge.md": {
+      "sync": true,
+      "index": true,
+      "describe": false
+    },
+    "work/Branches.md": {
+      "sync": true,
+      "index": true,
+      "describe": false
+    },
+    "work/cape.md": {
+      "sync": true,
+      "index": true,
+      "describe": false
     }
   },
   "docAssetRefs": {
@@ -223,6 +235,7 @@
     "Personal/Tags.md": [],
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
+    "Projects/Unichat.md": [],
     "Prompts/Prompt.md": [],
     "work/Branches.md": [],
     "work/cape.md": [],
@@ -242,7 +255,7 @@
     "work/Devkit rewrite.md": [],
     "Projects/Kiosk OS.md": [],
     "Projects/Graph Mind harness.md": [],
-    "Projects/Chat Forge.md": [],
-    "Personal/deepseek-v4.1-flash.md": []
+    "Personal/deepseek-v4.1-flash.md": [],
+    "Projects/Chat Forge.md": []
   }
 }
