@@ -214,7 +214,7 @@
       "index": false
     },
     "Personal/deepseek-v4.1-flash.md": {
-      "sync": false,
+      "sync": true,
       "index": false
     }
   },
