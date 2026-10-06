@@ -159,7 +159,7 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-10-05T11:24:42.974Z"
     },
-    "Personal/Deepseek-flash.md": {
+    "Personal/deepseek-v4.1-flash.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
@@ -213,7 +213,7 @@
       "sync": true,
       "index": false
     },
-    "Personal/Deepseek-flash.md": {
+    "Personal/deepseek-v4.1-flash.md": {
       "sync": false,
       "index": false
     }
@@ -243,6 +243,6 @@
     "Projects/Kiosk OS.md": [],
     "Projects/Graph Mind harness.md": [],
     "Projects/Chat Forge.md": [],
-    "Personal/Deepseek-flash.md": []
+    "Personal/deepseek-v4.1-flash.md": []
   }
 }
