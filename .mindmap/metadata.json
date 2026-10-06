@@ -57,6 +57,14 @@
       "createdAt": "2026-08-31T07:52:06.326Z",
       "updatedAt": "2026-09-21T16:49:59.649Z"
     },
+    "Projects/Chat Forge.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-06T12:58:58.187Z",
+      "updatedAt": "2026-10-06T13:37:16.027Z"
+    },
     "Projects/Decode.md": {
       "isFavorite": true,
       "favoritePosition": 4,
@@ -108,15 +116,6 @@
       "createdAt": "2026-09-05T16:49:26.538Z",
       "updatedAt": "2026-10-04T18:48:15.574Z"
     },
-    "Projects/Unichat.md": {
-      "isFavorite": false,
-      "favoritePosition": 4,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-08-24T06:09:00.178Z",
-      "updatedAt": "2026-08-24T06:09:00.178Z"
-    },
     "Prompts/Prompt.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -132,7 +131,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-17T11:41:55.452Z",
-      "updatedAt": "2026-10-02T08:42:17.854Z"
+      "updatedAt": "2026-10-06T10:33:39.258Z"
     },
     "work/Devkit rewrite.md": {
       "isFavorite": true,
@@ -158,7 +157,15 @@
       "tags": [],
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-09-30T11:40:01.581Z"
+      "updatedAt": "2026-10-05T11:24:42.974Z"
+    },
+    "Personal/deepseek-v4.1-flash.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-06T14:59:12.140Z",
+      "updatedAt": "2026-10-06T14:59:23.954Z"
     }
   },
   "folders": {
@@ -201,6 +208,14 @@
     "Projects/Graph Mind harness.md": {
       "sync": true,
       "index": false
+    },
+    "Projects/Chat Forge.md": {
+      "sync": true,
+      "index": false
+    },
+    "Personal/deepseek-v4.1-flash.md": {
+      "sync": true,
+      "index": false
     }
   },
   "docAssetRefs": {
@@ -208,7 +223,6 @@
     "Personal/Tags.md": [],
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
-    "Projects/Unichat.md": [],
     "Prompts/Prompt.md": [],
     "work/Branches.md": [],
     "work/cape.md": [],
@@ -227,6 +241,8 @@
     "Personal/Website Bookmark.md": [],
     "work/Devkit rewrite.md": [],
     "Projects/Kiosk OS.md": [],
-    "Projects/Graph Mind harness.md": []
+    "Projects/Graph Mind harness.md": [],
+    "Projects/Chat Forge.md": [],
+    "Personal/deepseek-v4.1-flash.md": []
   }
 }

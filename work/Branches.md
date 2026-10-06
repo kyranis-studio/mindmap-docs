@@ -10,7 +10,7 @@ hotfix/2.22/fix\_cache\_and\_gitignore
 
 <br />
 
-release/2.23/update\_spomky-labs\_otphp
+release/2.23/update\_spooky-labs\_otphp
 
 release/2.23/157957\_fix\_uncap\_browser\_history
 
@@ -68,8 +68,20 @@ release/2.23/dark\_mode\_ui\_fix
 
 release/2.23\_fix\_leave\_duration\_check\_multiple\_periods
 
+release/2.23/leave\_replacement\_fix\_missign\_agent\_name
+
+release/2.23/89271\_multiple\_CA\_leaves\_disply\_cycle\_date\_range
+
+release/2.23/vite\_vue\_chunking
+
+release/2.23/devkit\_fixes
+
+release/2.23/fix\_vue\_mount\_error\_message
+
 ###### Not merged branches
 
 release/2.23/leave\_V3
 
-release/2.23/leave\_replacement\_fix\_missign\_agent\_name
+release/2.23/exclude\_CDT/CDS\_from\_NB\_PC\_metrics
+
+release/2.23/fix\_leave\_duration\_check\_multiple\_periods
