@@ -151,13 +151,13 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-10-05T11:24:42.974Z"
     },
-    "Projects/Untitled.md": {
+    "Projects/Chat Forge.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
       "createdAt": "2026-10-06T12:58:58.187Z",
-      "updatedAt": "2026-10-06T12:58:58.187Z"
+      "updatedAt": "2026-10-06T13:37:16.027Z"
     }
   },
   "folders": {
@@ -201,8 +201,8 @@
       "sync": true,
       "index": false
     },
-    "Projects/Untitled.md": {
-      "sync": false,
+    "Projects/Chat Forge.md": {
+      "sync": true,
       "index": false
     }
   },
