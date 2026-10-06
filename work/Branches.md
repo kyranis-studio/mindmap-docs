@@ -78,6 +78,8 @@ release/2.23/vite\_vue\_chunking
 
 release/2.23/leave\_V3
 
-release/2.23\_devkit\_fixes
+release/2.23/devkit\_fixes
 
-release/2.23\_fix\_vue\_mount\_error\_message
+release/2.23/fix\_vue\_mount\_error\_message
+
+release/2.23/exclude\_CDT/CDS\_from\_NB\_PC\_metrics
