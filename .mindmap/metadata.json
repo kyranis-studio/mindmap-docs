@@ -159,6 +159,14 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-10-05T11:24:42.974Z"
+    },
+    "Projects/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-06T12:58:58.187Z",
+      "updatedAt": "2026-10-06T12:58:58.187Z"
     }
   },
   "folders": {
@@ -200,6 +208,10 @@
     },
     "Projects/Graph Mind harness.md": {
       "sync": true,
+      "index": false
+    },
+    "Projects/Untitled.md": {
+      "sync": false,
       "index": false
     }
   },
