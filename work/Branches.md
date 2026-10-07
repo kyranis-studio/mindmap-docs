@@ -82,8 +82,10 @@ release/2.23/exclude\_CDT/CDS\_from\_NB\_PC\_metrics
 
 release/2.23/fix\_leave\_duration\_check\_multiple\_periods
 
+release/2.23/fix\_capa\_simulation\_mode\_metrics
+
 ###### Not merged branches
 
 release/2.23/leave\_V3
 
-release/2.23/fix\_capa\_simulation\_mode\_metrics
+release/2.23/fix\_vue\_page\_loading
