@@ -47,7 +47,7 @@
       "tags": [],
       "position": 4,
       "createdAt": "2026-08-27T13:52:18.831Z",
-      "updatedAt": "2026-09-22T13:19:54.374Z"
+      "updatedAt": "2026-10-07T07:12:23.396Z"
     },
     "Personal/Website Bookmark.md": {
       "isFavorite": false,
@@ -56,6 +56,22 @@
       "position": 5,
       "createdAt": "2026-08-31T07:52:06.326Z",
       "updatedAt": "2026-09-21T16:49:59.649Z"
+    },
+    "Personal/deepseek-v4.1-flash.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-06T18:35:50.166Z",
+      "updatedAt": "2026-10-06T18:35:50.166Z"
+    },
+    "Projects/Chat Forge.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-06T18:35:50.186Z",
+      "updatedAt": "2026-10-06T18:35:50.186Z"
     },
     "Projects/Decode.md": {
       "isFavorite": true,
@@ -150,22 +166,6 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-30T11:40:01.581Z"
-    },
-    "Personal/deepseek-v4.1-flash.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-10-06T18:35:50.166Z",
-      "updatedAt": "2026-10-06T18:35:50.166Z"
-    },
-    "Projects/Chat Forge.md": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-10-06T18:35:50.186Z",
-      "updatedAt": "2026-10-06T18:35:50.186Z"
     }
   },
   "folders": {
@@ -211,23 +211,19 @@
     },
     "Personal/deepseek-v4.1-flash.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "Projects/Chat Forge.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "work/Branches.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     },
     "work/cape.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     }
   },
   "docAssetRefs": {
