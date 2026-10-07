@@ -84,8 +84,10 @@ release/2.23/fix\_leave\_duration\_check\_multiple\_periods
 
 release/2.23/fix\_capa\_simulation\_mode\_metrics
 
+release/2.23/fix\_vue\_page\_loading
+
 ###### Not merged branches
 
 release/2.23/leave\_V3
 
-release/2.23/fix\_vue\_page\_loading
+release/2.23/90174\_fix\_replacment\_leave\_agent\_select\_bug
