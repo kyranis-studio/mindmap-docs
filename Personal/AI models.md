@@ -30,6 +30,10 @@ Qwen3-235B-A22B-GGUF
 
 <https://huggingface.co/NANI-Nithin/K2-Horizon-MoVA-36B-A4B-GGUF>
 
+<https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF>
+
+<https://huggingface.co/bartowski/Qwen3.8-27B-GGUF>
+
 ###### **Decision models**
 
 <https://huggingface.co/convaiinnovations/laya>
