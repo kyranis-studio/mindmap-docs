@@ -78,10 +78,18 @@ release/2.23/devkit\_fixes
 
 release/2.23/fix\_vue\_mount\_error\_message
 
-###### Not merged branches
-
-release/2.23/leave\_V3
-
 release/2.23/exclude\_CDT/CDS\_from\_NB\_PC\_metrics
 
 release/2.23/fix\_leave\_duration\_check\_multiple\_periods
+
+release/2.23/fix\_capa\_simulation\_mode\_metrics
+
+release/2.23/fix\_vue\_page\_loading
+
+release/2.23/90174\_fix\_replacment\_leave\_agent\_select\_bug
+
+release/2.23/capa\_cdt\_cds\_label
+
+###### Not merged branches
+
+release/2.23/leave\_V3
