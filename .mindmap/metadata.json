@@ -7,7 +7,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-27T06:12:08.374Z",
-      "updatedAt": "2026-10-07T17:39:26.540Z"
+      "updatedAt": "2026-10-08T11:03:22.696Z"
     },
     "Personal/API Keys.emd": {
       "isFavorite": false,
@@ -47,7 +47,7 @@
       "tags": [],
       "position": 4,
       "createdAt": "2026-08-27T13:52:18.831Z",
-      "updatedAt": "2026-10-07T07:12:23.396Z"
+      "updatedAt": "2026-09-22T13:19:54.374Z"
     },
     "Personal/Website Bookmark.md": {
       "isFavorite": false,
@@ -62,16 +62,16 @@
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-10-06T18:35:50.166Z",
-      "updatedAt": "2026-10-06T18:35:50.166Z"
+      "createdAt": "2026-10-06T14:59:12.140Z",
+      "updatedAt": "2026-10-06T14:59:23.954Z"
     },
     "Projects/Chat Forge.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
       "position": 0,
-      "createdAt": "2026-10-06T18:35:50.186Z",
-      "updatedAt": "2026-10-06T18:35:50.186Z"
+      "createdAt": "2026-10-06T12:58:58.187Z",
+      "updatedAt": "2026-10-07T09:37:01.270Z"
     },
     "Projects/Decode.md": {
       "isFavorite": true,
@@ -122,7 +122,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-09-05T16:49:26.538Z",
-      "updatedAt": "2026-10-07T19:34:18.143Z"
+      "updatedAt": "2026-10-04T18:48:15.574Z"
     },
     "Prompts/Prompt.md": {
       "isFavorite": false,
@@ -130,7 +130,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-07-07T19:35:10.235Z",
-      "updatedAt": "2026-09-17T11:23:44.130Z"
+      "updatedAt": "2026-10-08T10:43:06.745Z"
     },
     "work/Branches.md": {
       "isFavorite": true,
@@ -139,7 +139,7 @@
       "tags": [],
       "position": 0,
       "createdAt": "2026-08-17T11:41:55.452Z",
-      "updatedAt": "2026-10-02T08:42:17.854Z"
+      "updatedAt": "2026-10-08T11:01:48.464Z"
     },
     "work/Devkit rewrite.md": {
       "isFavorite": true,
@@ -165,7 +165,7 @@
       "tags": [],
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
-      "updatedAt": "2026-09-30T11:40:01.581Z"
+      "updatedAt": "2026-10-05T11:24:42.974Z"
     }
   },
   "folders": {
@@ -209,19 +209,15 @@
       "sync": true,
       "index": false
     },
-    "Personal/deepseek-v4.1-flash.md": {
-      "sync": true,
-      "index": true
-    },
     "Projects/Chat Forge.md": {
       "sync": true,
-      "index": true
+      "index": false
     },
-    "work/Branches.md": {
+    "Personal/deepseek-v4.1-flash.md": {
       "sync": true,
-      "index": true
+      "index": false
     },
-    "work/cape.md": {
+    "Personal/Web Resources.md": {
       "sync": true,
       "index": true
     }
@@ -231,7 +227,6 @@
     "Personal/Tags.md": [],
     "Projects/Decode.md": [],
     "Projects/Mind Map.md": [],
-    "Projects/Unichat.md": [],
     "Prompts/Prompt.md": [],
     "work/Branches.md": [],
     "work/cape.md": [],
@@ -251,7 +246,7 @@
     "work/Devkit rewrite.md": [],
     "Projects/Kiosk OS.md": [],
     "Projects/Graph Mind harness.md": [],
-    "Personal/deepseek-v4.1-flash.md": [],
-    "Projects/Chat Forge.md": []
+    "Projects/Chat Forge.md": [],
+    "Personal/deepseek-v4.1-flash.md": []
   }
 }
