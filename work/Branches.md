@@ -93,3 +93,5 @@ release/2.23/capa\_cdt\_cds\_label
 ###### Not merged branches
 
 release/2.23/leave\_V3
+
+release/2.23/fix\_vue\_loading\_blocking\_overlay
