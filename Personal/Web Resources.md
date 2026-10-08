@@ -34,6 +34,8 @@ classifier.dev <https://classifier.dev/>
 
 Qwen N-gram <https://github.com/47thtechcorner/RayCodes_Qwengram-0.8B>
 
- Edge0 <https://github.com/Edge0-AI/Edge0>
+Edge0 <https://github.com/Edge0-AI/Edge0>
+
+<https://getartcraft.com/apps/photocraft>
 
 <https://github.com/feyninc/chonkie>
