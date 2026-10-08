@@ -38,6 +38,8 @@ Edge0 <https://github.com/Edge0-AI/Edge0>
 
 <https://getartcraft.com/apps/photocraft>
 
+<https://github.com/storytold/photocraft>
+
 <https://github.com/storytold/filmcraft>
 
 <https://github.com/storytold/lightcraft>
