@@ -54,6 +54,10 @@ Qwen3-235B-A22B-GGUF
 
 <https://huggingface.co/vllm-sr/Decision-2.0-Nox-4B>
 
+<https://huggingface.co/LiquidAI/d1-3B>
+
+<https://huggingface.co/LiquidAI/d1-omni-600M>
+
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
