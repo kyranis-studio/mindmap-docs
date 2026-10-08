@@ -90,8 +90,10 @@ release/2.23/90174\_fix\_replacment\_leave\_agent\_select\_bug
 
 release/2.23/capa\_cdt\_cds\_label
 
+release/2.23/fix\_vue\_loading\_blocking\_overlay
+
 ###### Not merged branches
 
 release/2.23/leave\_V3
 
-release/2.23/fix\_vue\_loading\_blocking\_overlay
+release/2.23/change\_dark\_mode\_colors
