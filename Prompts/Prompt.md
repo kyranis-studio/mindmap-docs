@@ -1,3 +1,5 @@
-in the filter move the input text into the top of the list
-add a dropdown button to open the filter list
-use an icon to clear the filters
+env \
+LD\_LIBRARY\_PATH="/usr/local/lib/ollama/cuda\_v12:\$LD\_LIBRARY\_PATH" \
+BONSAI\_CTX=4096 \
+BONSAI\_NGL=10 \
+./scripts/start\_llama\_server.sh
