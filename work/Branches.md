@@ -100,4 +100,6 @@ release/2.23/fix\_planing\_day
 
 release/2.23/leave\_V3
 
+release/2.23/fix\_vue\_css\_contamination
+
 release/2.23/branch\_name
