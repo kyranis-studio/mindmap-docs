@@ -1,9 +1,24 @@
-env \
-LD\_LIBRARY\_PATH="/usr/local/lib/ollama/cuda\_v12:\$LD\_LIBRARY\_PATH" \
-BONSAI\_CTX=4096 \
-BONSAI\_NGL=10 \
-./scripts/start\_llama\_server.sh
+Make sure to process the text datasets like the next
+Using the rust library <https://docs.rs/sentencize/latest/sentencize/> split every paragraph into a full sentence, then process the like Q/A. 
 
-<br />
+Every sentence is the prompt of the next sentence.
+If you have odd 
 
-add a progress bar for the download and the extraction with time estimation
+sentence
+sentence 1 sentence 2 sentence 3
+The Q/A will be
+
+sentence 1 sentence 2
+
+sentence 2 sentence 3
+
+If you have pair sentence
+sentence 1 sentence 2 sentence 3 sentence 4
+
+The Q/A will be
+
+sentence 1 sentence 2
+
+sentence 2 sentence 3
+
+sentence 3 sentence 4
