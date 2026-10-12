@@ -4,6 +4,8 @@
 
 * [ ] fix fallback model use after error
 
+* [ ] remove the status from the git menu
+
 * [ ] none
 
 ###### Priority
