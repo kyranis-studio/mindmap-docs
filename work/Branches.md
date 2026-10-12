@@ -96,12 +96,12 @@ release/2.23/change\_dark\_mode\_colors
 
 release/2.23/fix\_planing\_day
 
+release/2.23/fix\_vue\_css\_contamination
+
 ###### Not merged branches
+
+release/2.23/fix\_manage\_inscriptions\_bugs
 
 release/2.23/leave\_V3
 
-release/2.23/fix\_vue\_css\_contamination
-
 release/2.23/branch\_name
-
-release/2.23/fix\_manage\_inscriptions\_bugs
