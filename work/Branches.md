@@ -100,7 +100,7 @@ release/2.23/fix\_vue\_css\_contamination
 
 ###### Not merged branches
 
-release/2.23/fix\_manage\_inscriptions\_bugs
+release/2.23/90326\_fix\_manage\_inscriptions\_bugs
 
 release/2.23/leave\_V3
 
