@@ -167,7 +167,7 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-09-30T11:40:01.581Z"
     },
-    "Projects/Flodserve.md": {
+    "Projects/Flodserve.emd": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
@@ -270,6 +270,7 @@
     "Projects/Graph Mind harness.md": [],
     "Personal/deepseek-v4.1-flash.md": [],
     "Projects/Chat Forge.md": [],
-    "Projects/Flodserve.md": []
+    "Projects/Flodserve.md": [],
+    "Projects/Flodserve.emd": []
   }
 }
