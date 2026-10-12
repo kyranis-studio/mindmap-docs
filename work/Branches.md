@@ -103,3 +103,5 @@ release/2.23/leave\_V3
 release/2.23/fix\_vue\_css\_contamination
 
 release/2.23/branch\_name
+
+release/2.23/fix\_manage\_inscriptions\_bugs
