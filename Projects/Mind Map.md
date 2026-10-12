@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] indexing get stuck (need to be fixed)
+* [ ] fix multiple tray icons
 
 * [ ] fix fallback model use after error
 
