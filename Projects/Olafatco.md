@@ -1,5 +1,7 @@
 <br />
 
+* [ ] update to vite 8 => 87% faster
+
 * [ ] add the Voter in the leave V3 page
 
 * [ ] devkit add documentation pull in the devkit build environment

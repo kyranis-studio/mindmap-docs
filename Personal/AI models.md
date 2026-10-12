@@ -34,6 +34,8 @@ Qwen3-235B-A22B-GGUF
 
 <https://huggingface.co/bartowski/Qwen3.8-27B-GGUF>
 
+<https://huggingface.co/abenzerps/Nex-N2.5-mini-GGUF>
+
 ###### **Decision models**
 
 <https://huggingface.co/convaiinnovations/laya>
