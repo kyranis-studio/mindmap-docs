@@ -19,3 +19,5 @@ http\://localhost/gerer-la-licence-v2?u=maryline.faure-vinay
 http\://localhost/absences-v2?u=rudy.krolikowski
 
 http\://localhost/absences-v2?u=margaux.lakiere
+
+<http://localhost/gerer-les-inscriptions-v2?u=fabrice.cayrac>
