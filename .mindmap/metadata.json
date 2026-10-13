@@ -31,7 +31,7 @@
       "tags": [],
       "position": 6,
       "createdAt": "2026-08-20T20:13:23.029Z",
-      "updatedAt": "2026-09-14T19:20:53.888Z"
+      "updatedAt": "2026-10-13T07:48:37.759Z"
     },
     "Personal/Tags.md": {
       "isFavorite": false,
@@ -81,6 +81,14 @@
       "position": 0,
       "createdAt": "2026-08-18T11:37:43.073Z",
       "updatedAt": "2026-09-27T15:47:54.920Z"
+    },
+    "Projects/Flodserve.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-13T06:36:19.444Z",
+      "updatedAt": "2026-10-13T06:36:19.444Z"
     },
     "Projects/Graph Mind harness.md": {
       "isFavorite": false,
@@ -166,14 +174,6 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-10-05T11:24:42.974Z"
-    },
-    "Projects/Flodserve.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-10-13T06:36:19.444Z",
-      "updatedAt": "2026-10-13T06:36:19.444Z"
     }
   },
   "folders": {
@@ -235,8 +235,7 @@
     },
     "Projects/Flodserve.emd": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     }
   },
   "docAssetRefs": {
