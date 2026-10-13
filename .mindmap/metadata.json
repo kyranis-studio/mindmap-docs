@@ -175,7 +175,7 @@
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-10-05T11:24:42.974Z"
     },
-    "Personal/protonmail.md": {
+    "Personal/protonmail.emd": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
@@ -276,6 +276,7 @@
     "Projects/Graph Mind harness.md": [],
     "Projects/Chat Forge.md": [],
     "Personal/deepseek-v4.1-flash.md": [],
-    "Personal/protonmail.md": []
+    "Personal/protonmail.md": [],
+    "Personal/protonmail.emd": []
   }
 }
