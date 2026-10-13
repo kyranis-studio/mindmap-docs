@@ -254,7 +254,7 @@
       "index": true
     },
     "Personal/GLM-flash.md": {
-      "sync": false,
+      "sync": true,
       "index": false
     }
   },
