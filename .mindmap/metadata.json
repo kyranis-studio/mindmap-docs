@@ -17,6 +17,14 @@
       "createdAt": "2026-08-20T18:50:46.893Z",
       "updatedAt": "2026-08-31T07:52:42.025Z"
     },
+    "Personal/GLM-flash.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-13T11:14:39.370Z",
+      "updatedAt": "2026-10-13T11:14:56.531Z"
+    },
     "Personal/Game idea.md": {
       "isFavorite": false,
       "aiSummary": "",
@@ -64,6 +72,14 @@
       "position": 0,
       "createdAt": "2026-10-06T14:59:12.140Z",
       "updatedAt": "2026-10-06T14:59:23.954Z"
+    },
+    "Personal/protonmail.emd": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-13T07:52:27.680Z",
+      "updatedAt": "2026-10-13T07:54:05.206Z"
     },
     "Projects/Chat Forge.md": {
       "isFavorite": false,
@@ -174,14 +190,6 @@
       "position": 3,
       "createdAt": "2026-07-07T19:35:10.236Z",
       "updatedAt": "2026-10-05T11:24:42.974Z"
-    },
-    "Personal/protonmail.emd": {
-      "isFavorite": false,
-      "aiSummary": "",
-      "tags": [],
-      "position": 0,
-      "createdAt": "2026-10-13T07:52:27.680Z",
-      "updatedAt": "2026-10-13T07:54:05.206Z"
     }
   },
   "folders": {
@@ -245,10 +253,6 @@
       "sync": true,
       "index": true
     },
-    "Personal/protonmail.md": {
-      "sync": false,
-      "index": false
-    },
     "Personal/GLM-flash.md": {
       "sync": false,
       "index": false
@@ -281,6 +285,7 @@
     "Projects/Chat Forge.md": [],
     "Personal/deepseek-v4.1-flash.md": [],
     "Personal/protonmail.md": [],
-    "Personal/protonmail.emd": []
+    "Personal/protonmail.emd": [],
+    "Personal/GLM-flash.md": []
   }
 }
