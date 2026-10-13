@@ -98,9 +98,13 @@ release/2.23/fix\_planing\_day
 
 release/2.23/fix\_vue\_css\_contamination
 
-###### Not merged branches
-
 release/2.23/90326\_fix\_manage\_inscriptions\_bugs
+
+release/2.23/manage\_inscriptions\_fix\_by\_date\_list\_confirmation
+
+release/2.23/fix\_leave\_collision\_popup\_and\_end\_date
+
+###### Not merged branches
 
 release/2.23/leave\_V3
 
