@@ -182,6 +182,14 @@
       "position": 0,
       "createdAt": "2026-10-13T07:52:27.680Z",
       "updatedAt": "2026-10-13T07:54:05.206Z"
+    },
+    "Personal/Untitled.md": {
+      "isFavorite": false,
+      "aiSummary": "",
+      "tags": [],
+      "position": 0,
+      "createdAt": "2026-10-13T11:14:09.353Z",
+      "updatedAt": "2026-10-13T11:14:09.353Z"
     }
   },
   "folders": {
@@ -246,6 +254,10 @@
       "index": true
     },
     "Personal/protonmail.md": {
+      "sync": false,
+      "index": false
+    },
+    "Personal/Untitled.md": {
       "sync": false,
       "index": false
     }
