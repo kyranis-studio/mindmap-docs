@@ -100,10 +100,12 @@ release/2.23/fix\_vue\_css\_contamination
 
 release/2.23/90326\_fix\_manage\_inscriptions\_bugs
 
+release/2.23/manage\_inscriptions\_fix\_by\_date\_list\_confirmation
+
 ###### Not merged branches
 
 release/2.23/leave\_V3
 
-release/2.23/manage\_inscriptions\_fix\_by\_date\_list\_confirmation
-
 release/2.23/branch\_name
+
+release/2.23/fix\_leave\_bugs
