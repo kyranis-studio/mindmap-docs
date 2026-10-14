@@ -6,8 +6,6 @@
 
 * [ ] &#x20;TypeSafe AI for decision
 
-* [ ] ask for command run in tools nodes
-
 * [ ] add an UI tool node
 
 * [ ] memory strategy node (full context/summarize)
