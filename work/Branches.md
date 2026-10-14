@@ -104,6 +104,8 @@ release/2.23/manage\_inscriptions\_fix\_by\_date\_list\_confirmation
 
 release/2.23/fix\_leave\_collision\_popup\_and\_end\_date
 
+hotfix/2.23/fix\_leave\_collision\_popup\_and\_end\_date
+
 ###### Not merged branches
 
 release/2.23/leave\_V3
