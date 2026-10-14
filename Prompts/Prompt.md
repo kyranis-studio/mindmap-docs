@@ -5,6 +5,6 @@ Update the agents.md with all the modifications
 <br />
 
 ```
-env GDK_BACKEND=x11 deno task tauri dev
+env GDK_BACKEND=x11 deno task tauri dev 
 ```
 
