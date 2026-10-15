@@ -1,7 +1,5 @@
 ###### Chat models
 
-granite4 hybrid mamba-2 in ollama
-
 Qwen3-235B-A22B-GGUF
 
 <https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF>
@@ -63,3 +61,24 @@ Qwen3-235B-A22B-GGUF
 ###### TTS models
 
 Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
+
+<br />
+
+<br />
+
+• MiniCPM5-1B 
+
+• MiniCPM5-2B 
+
+• K2 Horizon (0.9B / 3.7B / 7B / MoVA-36B / 375B)
+
+• Nemotron 3 Super
+
+• GLM-5.3 Flash
+
+• GLM-5.3
+
+• DeepSeek V4.1 Flash
+
+• MiMo-V2.6 Pro 
+
