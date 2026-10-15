@@ -4,25 +4,21 @@
 
 ###### Priority
 
-* [ ] memory compression for local AI
+* [ ] add an UI tool node
 
-- [ ] &#x20;TypeSafe AI for decision
+* [ ] memory strategy node (full context/summarize)
 
-- [ ] add an UI tool node
+* [ ] AI model control the IDE
 
-- [ ] memory strategy node (full context/summarize)
+* [ ] add and update server
 
-- [ ] AI model control the IDE
+* [ ] MCP server/client
 
-- [ ] add and update server
+* [ ] in the knowledge code structure show non-treated files with tree sitter
 
-- [ ] MCP server/client
+* [ ] Use AI for non-processed files to generate graph knowledge
 
-- [ ] in the knowledge code structure show non-treated files with tree sitter
-
-- [ ] Use AI for non-processed files to generate graph knowledge
-
-- [ ] none
+* [ ] none
 
 ###### Features
 
