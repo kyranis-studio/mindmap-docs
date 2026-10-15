@@ -15,7 +15,7 @@
       "tags": [],
       "position": 1,
       "createdAt": "2026-08-20T18:50:46.893Z",
-      "updatedAt": "2026-08-31T07:52:42.025Z"
+      "updatedAt": "2026-10-15T13:35:03.796Z"
     },
     "Personal/GLM-flash.md": {
       "isFavorite": false,
@@ -259,8 +259,7 @@
     },
     "Projects/Decode.md": {
       "sync": true,
-      "index": true,
-      "describe": false
+      "index": true
     }
   },
   "docAssetRefs": {
