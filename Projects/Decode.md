@@ -14,6 +14,8 @@
 
 - [ ] add an UI tool node
 
+- [ ] qeues message
+
 - [ ] add a browser tab for agent to debug
 
 - [ ] memory strategy node (full context/summarize)
