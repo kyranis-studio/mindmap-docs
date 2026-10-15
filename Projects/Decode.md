@@ -2,6 +2,8 @@
 
 * [ ] show the generation as stack
 
+* [ ] when the terminal is collapsed the left panel no longer resizable
+
 * [ ] none
 
 ###### Priority
