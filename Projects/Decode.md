@@ -8,7 +8,7 @@
 
 ###### Priority
 
-* [ ] add diff collapceble
+* [ ] Add diff collapseable
 
 * [ ] add an UI tool node
 
