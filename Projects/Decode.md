@@ -6,6 +6,8 @@
 
 * [ ] add an UI tool node
 
+* [ ] update the tool for local llm 
+
 * [ ] memory strategy node (full context/summarize)
 
 * [ ] AI model control the IDE
