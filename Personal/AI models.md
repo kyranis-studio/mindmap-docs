@@ -74,8 +74,6 @@ Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
 
 • K2 Horizon (0.9B / 3.7B / 7B / MoVA-36B / 375B)
 
-• Gemma 4 12B 
-
 • Nemotron 3 Super
 
 • GLM-5.3 Flash
