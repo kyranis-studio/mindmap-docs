@@ -1,12 +1,14 @@
 ###### bug fix
 
+* [ ] show the generation as stack
+
 * [ ] none
 
 ###### Priority
 
 * [ ] add an UI tool node
 
-* [ ] update the tool for local llm 
+* [ ] update the tool for local llm
 
 * [ ] memory strategy node (full context/summarize)
 
