@@ -14,7 +14,7 @@
 
 - [ ] add an UI tool node
 
-- [ ] qeues message
+- [ ] Queue message
 
 - [ ] add a browser tab for agent to debug
 
