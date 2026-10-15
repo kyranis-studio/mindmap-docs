@@ -8,6 +8,8 @@
 
 ###### Priority
 
+* [ ] add diff collapceble
+
 * [ ] add an UI tool node
 
 * [ ] update the tool for local llm
