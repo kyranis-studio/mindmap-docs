@@ -8,6 +8,8 @@
 
 ###### Priority
 
+* [ ] add memory management
+
 * [ ] update the tool for local llm
 
 - [ ] Add diff collapseable
