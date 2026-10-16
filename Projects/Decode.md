@@ -54,6 +54,8 @@
 
 ###### Prompts
 
-<br />
+I have a major bug; the message doesn't persist between generations. The LLM seems to forget precedent messages.
+
+The chat interface doesn't keep the generated messages; it keeps overriding the same collapsible.
 
 When the terminal is collapsed, the left panel is no longer resizable; fix it
