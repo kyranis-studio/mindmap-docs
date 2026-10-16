@@ -54,4 +54,6 @@
 
 ###### Prompts
 
-when the termina is collpaced
+<br />
+
+When the terminal is collapsed, the left panel is no longer resizable; fix it
