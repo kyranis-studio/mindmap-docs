@@ -57,7 +57,7 @@
 I have a major bug; the message doesn't persist between generations. The LLM seems to forget precedent messages.
 The generation is driven by the graph. Finds a way to keep the conversation history in all the generations.
 Make sure the compression strategy works.
-Don't forget to add control to when the compression must trigger. Add a tab under the setting after the LLM provider puts the settings there.
+Don't forget to add control to when the compression must trigger. Add a tab under the setting after the LLM provider puts the settings there move the compression startegy too.
 
 The chat interface doesn't keep the generated messages; it keeps overriding the same collapsible.
 
