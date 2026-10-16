@@ -52,3 +52,6 @@
 
 * [ ] add memory for actions
 
+###### Prompts
+
+when the termina is collpaced
