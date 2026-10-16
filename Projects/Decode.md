@@ -1,14 +1,24 @@
 ###### bug fix
 
+* [ ] show the generation as stack
+
+* [ ] when the terminal is collapsed the left panel no longer resizable
+
 * [ ] none
 
 ###### Priority
 
-* [ ] memory compression for local AI
+* [ ] add memory management
 
-- [ ] &#x20;TypeSafe AI for decision
+* [ ] update the tool for local llm
+
+- [ ] Add diff collapseable
 
 - [ ] add an UI tool node
+
+- [ ] Queue message
+
+- [ ] add a browser tab for agent to debug
 
 - [ ] memory strategy node (full context/summarize)
 
