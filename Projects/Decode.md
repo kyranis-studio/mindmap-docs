@@ -56,6 +56,7 @@
 
 I have a major bug; the message doesn't persist between generations. The LLM seems to forget precedent messages.
 The generation is driven by the graph and finds a way to keep the conversation history in all the generations.
+Make sure to add a compression strategy for the context. Add 2 modes of auto compression or agent mode, or agent mode gives the memory to the agent, and it will write it.
 
 The chat interface doesn't keep the generated messages; it keeps overriding the same collapsible.
 
