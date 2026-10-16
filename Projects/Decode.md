@@ -61,6 +61,10 @@ Don't forget to add control to when the compression must trigger. Add a tab unde
 
 The chat interface doesn't keep the generated messages; it keeps overriding the same collapsible.
 
-When the terminal is collapsed, the left panel is no longer resizable; fix it
+When the terminal is collapsed, the left panel is no longer resizable; fix it, move the caret to collapse the terminal on the right.
 
 The select in the app doesn't have the same style.create Create a component so all selects have the same style.
+
+update the write tool to update only the necessary code(add/remove/edit) don't reedit all the document then show the diffs of the modification in the chat
+
+check all the tools and implement the best strategy of execution optimize for local LLM
