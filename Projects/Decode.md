@@ -62,3 +62,5 @@ Don't forget to add control to when the compression must trigger. Add a tab unde
 The chat interface doesn't keep the generated messages; it keeps overriding the same collapsible.
 
 When the terminal is collapsed, the left panel is no longer resizable; fix it
+
+the select in the app don't have the same sytle
