@@ -63,4 +63,4 @@ The chat interface doesn't keep the generated messages; it keeps overriding the 
 
 When the terminal is collapsed, the left panel is no longer resizable; fix it
 
-the select in the app don't have the same sytle
+The select in the app doesn't have the same style.create Create a component so all selects have the same style.
