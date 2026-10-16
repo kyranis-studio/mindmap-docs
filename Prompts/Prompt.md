@@ -8,5 +8,5 @@ env GDK_BACKEND=x11 deno task tauri dev
 
 fix the graph documentation and make sure it is up to date
 
-I see the many children are repeated nodes. Could the algorithm create only one node and reference it to save more data?
+In the graph.lg the tree has multiple nodes (letters); this is a redundancy. Is it possible to use one node for every letter to reduce the size more.
 
