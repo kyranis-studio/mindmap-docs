@@ -58,6 +58,12 @@
 
 The status bar keeps resetting the context usage metrics for every step of generation. Fix it and make sure it is related to the setting of the context compression.
 
+Improve the chat interface to show and hide details. For the generation steps, don't use one collapsible one by step
+
+Implement lazy load for the chat message to handle long chat sessions.
+
+<br />
+
 I have a major bug; the message doesn't persist between generations. The LLM seems to forget precedent messages.\
 The generation is driven by the graph. Finds a way to keep the conversation history in all the generations.\
 Make sure the compression strategy works.
