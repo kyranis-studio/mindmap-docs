@@ -56,6 +56,8 @@
 
 ###### Prompts
 
+<br />
+
 The status bar keeps resetting the context usage metrics for every step of generation. Fix it and make sure it is related to the setting of the context compression.
 
 Improve the chat interface to show and hide details. For the generation steps use one collapsible one by step
