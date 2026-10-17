@@ -56,13 +56,13 @@
 
 ###### Prompts
 
+The status bar keeps resetting the context usage metrics for every step of generation. Fix it and make sure it is related to the setting of the context compression.
+
 I have a major bug; the message doesn't persist between generations. The LLM seems to forget precedent messages.\
 The generation is driven by the graph. Finds a way to keep the conversation history in all the generations.\
 Make sure the compression strategy works.
 
 The chat interface doesn't keep the generated messages; it keeps overriding the same collapsible. Improve the chat interface to show and hide details.
-
-When the terminal is collapsed, the left panel is no longer resizable; fix it, move the caret to collapse the terminal on the right.
 
 The select in the app doesn't have the same style.create Create a component so all selects have the same style.
 
