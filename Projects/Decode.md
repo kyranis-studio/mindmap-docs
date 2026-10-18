@@ -53,3 +53,5 @@
 ###### Prompts
 
 check all the tools and implement the best strategy of execution optimize for local LLM
+
+the badge live in the collapsible is in every collapsible; make sure it is only in the current generation just the last collapsible must have live when there is a generation 
