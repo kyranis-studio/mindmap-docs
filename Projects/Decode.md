@@ -58,20 +58,6 @@
 
 <br />
 
-The status bar keeps resetting the context usage metrics for every step of generation. Fix it and make sure it is related to the setting of the context compression.
-
-Improve the chat interface to show and hide details. For the generation steps use one collapsible one by step
-
-Implement lazy load for the chat message to handle long chat sessions.
-
-<br />
-
-I have a major bug; the message doesn't persist between generations. The LLM seems to forget precedent messages.\
-The generation is driven by the graph. Finds a way to keep the conversation history in all the generations.\
-Make sure the compression strategy works.
-
-The chat interface doesn't keep the generated messages; it keeps overriding the same collapsible. Improve the chat interface to show and hide details.
-
 The select in the app doesn't have the same style.create Create a component so all selects have the same style.
 
 update the write tool to update only the necessary code(add/remove/edit) don't reedit all the document then show the diffs of the modification in the chat
