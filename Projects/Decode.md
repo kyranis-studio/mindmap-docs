@@ -1,5 +1,7 @@
 ###### bug fix
 
+* [ ] fix the context metrics the chat gey the right context but the context % don't update correctly
+
 * [ ] none
 
 ###### Priority
