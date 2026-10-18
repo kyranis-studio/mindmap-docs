@@ -56,8 +56,6 @@
 
 ###### Prompts
 
-<br />
-
 The select in the app doesn't have the same style.create Create a component so all selects have the same style.
 
 update the write tool to update only the necessary code(add/remove/edit) don't reedit all the document then show the diffs of the modification in the chat
