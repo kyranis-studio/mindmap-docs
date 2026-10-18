@@ -52,6 +52,6 @@
 
 ###### Prompts
 
-The select in the app doesn't have the same style.create Create a component so all selects have the same style.
+The select in the app doesn't have the same style.create Create a component so all selects have the same style.use the fizzy select as default but don't activate the filer only if needed
 
 check all the tools and implement the best strategy of execution optimize for local LLM
