@@ -4,8 +4,6 @@
 
 ###### Priority
 
-* [ ] add terminal split
-
 * [ ] add memory management
 
 * [ ] update the tool for local llm
