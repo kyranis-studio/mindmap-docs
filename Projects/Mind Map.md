@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] fix multiple tray icons
+* [ ] [embeddinggemma-2](https://ollama.com/library/embeddinggemma-2 "embeddinggemma-2")
 
 * [ ] fix fallback model use after error
 
@@ -36,3 +36,8 @@
 
 * [ ] Undo/redo system
 
+  <br />
+
+###### Prompts
+
+When changing page the height between changes don't update and this make appear the page empty
