@@ -1,5 +1,7 @@
 ###### bug fix
 
+* [ ] add [embeddinggemma-2](https://ollama.com/library/embeddinggemma-2 "embeddinggemma-2")
+
 * [ ] fix the context metrics the chat gey the right context but the context % don't update correctly
 
 * [ ] none

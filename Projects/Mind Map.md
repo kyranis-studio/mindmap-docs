@@ -1,6 +1,6 @@
 ###### Bugs
 
-* [ ] fix multiple tray icons
+* [ ] [embeddinggemma-2](https://ollama.com/library/embeddinggemma-2 "embeddinggemma-2")
 
 * [ ] fix fallback model use after error
 
