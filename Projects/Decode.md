@@ -54,4 +54,6 @@
 
 in the git tab files changes hide the selected diff make sure diff view save its state
 
-Make sure the terminal format the link, and it is possible to open with control click
+use the diff to show file modifications
+
+Update the minimal display mode in the chat interface so it shows just if it is thinking using tools show only the response
