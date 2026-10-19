@@ -112,7 +112,7 @@ hotfix/2.23/fix\_leave\_collision\_popup\_fix\_css\_style
 
 hotfix/2.23/leave\_cycles\_only\_if\_restricted
 
-hotfix/2.23/leave\_cycles\_only\_if\_restricted
+hotfix/2.23/fix\_planning\_day\_vue\_record\_panel
 
 ###### Not merged branches
 
