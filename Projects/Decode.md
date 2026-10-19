@@ -53,3 +53,5 @@
 ###### Prompts
 
 in the git tab files changes hide the selected diff make sure diff view save its state
+
+the terminal don't sychronze whe the branche chage
