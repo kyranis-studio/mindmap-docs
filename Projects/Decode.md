@@ -51,4 +51,3 @@
 ###### Prompts
 
 in the git tab files changes hide the selected diff make sure diff view save its state
-
