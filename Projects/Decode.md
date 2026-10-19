@@ -56,6 +56,3 @@
 
 in the git tab files changes hide the selected diff make sure diff view save its state
 
-use the diff to show file modifications
-
-Update the minimal display mode in the chat interface so it displays only actions like "thinking" "tools call" only the response must be streamed
