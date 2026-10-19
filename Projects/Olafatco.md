@@ -30,7 +30,9 @@
 Verification:
 
 * **`git ls-files "AI migration"`** on the feature branch → **empty** (not tracked).
+
 * The docs commit **`9796a3d8e6`** is **not an ancestor** of **`release/2.23/leave_V3`** → merging the feature branch into **`develop`**/**`master`** **can never bring the docs along**.
+
 * **`git worktree list`** shows both checkouts; your code working tree is untouched (still at **`a5458303b4`**).
 
 On the notes branch I also removed the **`/AI migration/`** line from its **`.gitignore`** (the code branch keeps it), so the folder is a normal tracked folder there. The 7 docs are committed as one commit.
@@ -61,4 +63,3 @@ Pushing **`docs/ai-migration`** to origin is fine (it's a normal branch) and s
 Your main checkout still has the earlier **untracked, ignored** copy at **`/home/devfactory/Projects/olafatco/AI migration/`**. It can't be committed on the feature branch, but it's now a **stale duplicate** — if you keep editing that one, your changes won't be versioned. Recommended: edit the worktree copy from now on.
 
 Want me to delete the stale copy in the main checkout so there's a single source of truth? I can also, going forward, apply any doc edits I make directly in the worktree (**`/home/devfactory/Projects/olafatco-notes/AI migration/`**).
-

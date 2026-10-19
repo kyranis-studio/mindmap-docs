@@ -2,7 +2,11 @@
 env GDK_BACKEND=x11 deno task tauri dev 
 ```
 
-update the write tool to update only the necessary code(add/remove/edit) don't reedit all the document then show the diffs of the modification in the chat
+<br />
 
-check all the tools and implement the best strategy of execution optimize for local LLM
+<br />
+
+fix the graph documentation and make sure it is up to date
+
+In the graph.lg the tree has multiple nodes (letters); this is a redundancy. Is it possible to use one node for every letter to reduce the size more.
 
