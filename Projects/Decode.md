@@ -52,18 +52,4 @@
 
 ###### Prompts
 
-In the status bar, I have multiple metrics: chat token/second context % "assisting generating."
-
-Remove the "assisting generating."
-
-The chat holds how much token is generated
-
-The context must hold the token of all the sessions. But it keeps resetting after a new message
-
-Remove the chat; use only the context. Show the full context of the context used and its %
-
-The context must be used to trigger the context compression. Make sure to wire the value to the feature
-
-check all the tools and implement the best strategy of execution optimize for local LLM
-
-the badge live in the collapsible is in every collapsible; make sure it is only in the current generation just the last collapsible must have live when there is a generation
+in the git tab files changes hide the selected diff make sure diff view save its state
