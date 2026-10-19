@@ -40,4 +40,4 @@
 
 ###### Prompts
 
-when changing page the hight betwenn chabges don't update and this 
+When changing page the height between changes don't update and this make appear the page empty
