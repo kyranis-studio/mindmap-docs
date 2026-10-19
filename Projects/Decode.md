@@ -54,6 +54,4 @@
 
 in the git tab files changes hide the selected diff make sure diff view save its state
 
-The split terminal doesn't synchronize when the branch change
-
 Make sure the terminal format the link, and it is possible to open with control click
