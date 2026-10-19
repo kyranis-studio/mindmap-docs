@@ -52,8 +52,6 @@
 
 ###### Prompts
 
-i did appy some modification (using opengl to aclerate the terminal) but this make the terminal less responsve find why
-
 in the git tab files changes hide the selected diff make sure diff view save its state
 
 The split terminal doesn't synchronize when the branch change
