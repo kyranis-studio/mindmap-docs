@@ -106,6 +106,6 @@ hotfix/2.23/fix\_planning\_day\_vue\_record\_panel
 
 ###### Not merged branches
 
-release/2.23/leave\_V3
+release/2.24/leave\_V3
 
 release/2.23/branch\_name
