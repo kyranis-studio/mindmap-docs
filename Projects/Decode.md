@@ -58,7 +58,7 @@ add confirmation mode ask or not
 
 When I ask the LLM in auto mode, and it writes the plan make sure it uses the UI to display the plan with button to proceed or cancel
 
-add a stere option for th chqt queue
+add a steer option for the chat queue to help to guide the LLM while it is generating
 
 Give the LLM IDE control open files change tabs update setting visually
 
