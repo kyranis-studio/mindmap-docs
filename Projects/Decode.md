@@ -59,3 +59,5 @@ add a plan panel
 add a file picker for context
 
 add authentication UI
+
+add minimap for code
