@@ -52,7 +52,7 @@
 
 in the git tab files changes hide the selected diff make sure diff view save its state
 
-give the llm acess to the terminl so it writes commande to execute with permission the agent will resure after execution
+Give the LLM access to the terminal so it writes command to execute with permission the agent will resume after execution
 
 add a file filter search / AI assisted search
 
