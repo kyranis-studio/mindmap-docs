@@ -57,3 +57,5 @@ add a file filter search / AI assisted search
 add a plan panel
 
 add a file picker for context
+
+add authentication UI
