@@ -50,6 +50,8 @@
 
 ###### Prompts
 
+add smart response
+
 add confirmation mode ask or not
 
 When I ask the LLM in auto mode, and it writes the plan make sure it uses the UI to display the plan with button to proceed or cancel
