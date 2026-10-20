@@ -50,8 +50,6 @@
 
 ###### Prompts
 
-in the git tab files changes hide the selected diff make sure diff view save its state
-
 add confirmation mode ask or not
 
 When I ask the LLM in auto mode, and it writes the plan make sure it uses the UI to display the plan with button to proceed or cancel
