@@ -56,6 +56,8 @@ When I ask the LLM in auto mode, and it writes the plan make sure it uses the UI
 
 Give the LLM access to the terminal so it writes command to execute with permission the agent will resume after execution
 
+give the llm IDE control open files change tabs update setting visualally
+
 add a file filter search / AI assisted search
 
 add a plan panel
