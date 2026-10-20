@@ -51,3 +51,9 @@
 ###### Prompts
 
 in the git tab files changes hide the selected diff make sure diff view save its state
+
+add a file filter search / AI assisted search
+
+add a plan panel
+
+add a file picker for context
