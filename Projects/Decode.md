@@ -8,6 +8,8 @@
 
 ###### Priority
 
+* [ ] the permission must be asked using the ui
+
 * [ ] add memory management
 
 * [ ] update the tool for local llm
