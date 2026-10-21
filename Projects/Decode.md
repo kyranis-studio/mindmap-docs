@@ -50,4 +50,20 @@
 
 ###### Prompts
 
-in the git tab files changes hide the selected diff make sure diff view save its state
+add smart response
+
+add confirmation mode ask or not
+
+When I ask the LLM in auto mode, and it writes the plan make sure it uses the UI to display the plan with button to proceed or cancel
+
+add a steer option for the chat queue to help to guide the LLM while it is generating
+
+Give the LLM IDE control open files change tabs update setting visually
+
+add a file filter search / AI assisted search
+
+add a plan panel
+
+add a file picker for context
+
+add minimap for code

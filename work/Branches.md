@@ -1,13 +1,3 @@
-hotfix/2.22/reset\_leave\_dialog\_after\_submit
-
-hotfix/2.22/fix\_vue\_scrollbar
-
-hotfix/2.22/add\_held\_post\_to\_capa\_table
-
-hotfix/2.22/88941\_fix\_english\_metrics
-
-hotfix/2.22/fix\_cache\_and\_gitignore
-
 <br />
 
 release/2.23/update\_spooky-labs\_otphp
@@ -116,6 +106,6 @@ hotfix/2.23/fix\_planning\_day\_vue\_record\_panel
 
 ###### Not merged branches
 
-release/2.23/leave\_V3
+release/2.24/leave\_V3
 
 release/2.23/branch\_name
