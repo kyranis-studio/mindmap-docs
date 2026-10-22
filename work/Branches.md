@@ -108,4 +108,8 @@ hotfix/2.23/fix\_planning\_day\_vue\_record\_panel
 
 release/2.24/leave\_V3
 
+release/2.24/build\_migration
+
+release/2.24/build\_optimization
+
 release/2.23/branch\_name
