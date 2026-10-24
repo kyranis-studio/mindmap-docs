@@ -6,4 +6,4 @@ env GDK_BACKEND=x11 deno task tauri dev
 
 <br />
 
-i did implment multiple features revise the code and find if everthink work
+i cannot create nested document and files in the note app fix this.implement drag and drop to rearrange the files and folder.
