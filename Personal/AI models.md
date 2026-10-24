@@ -66,9 +66,9 @@ Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
 
 <br />
 
-• MiniCPM5-1B 
+• MiniCPM5-1B
 
-• MiniCPM5-2B 
+• MiniCPM5-2B
 
 • K2 Horizon (0.9B / 3.7B / 7B / MoVA-36B / 375B)
 
@@ -80,5 +80,4 @@ Describe the voice <https://huggingface.co/BreezeBlue/Breeze-TTS-2>
 
 • DeepSeek V4.1 Flash
 
-• MiMo-V2.6 Pro 
-
+• MiMo-V2.6 Pro
