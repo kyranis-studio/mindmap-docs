@@ -6,4 +6,4 @@ env GDK_BACKEND=x11 deno task tauri dev
 
 <br />
 
-i cannot create nested document and files in the note app fix this.implement drag and drop to rearrange the files and folder.
+in note app when the user pastes text, make sure to parse it immediately.
