@@ -1,0 +1,71 @@
+###### bug fix
+
+* [ ] use needle for vocal actions
+
+* [ ] add [embeddinggemma-2](https://ollama.com/library/embeddinggemma-2 "embeddinggemma-2")
+
+* [ ] fix the context metrics the chat gey the right context but the context % don't update correctly
+
+* [ ] none
+
+###### Priority
+
+* [ ] add memory management
+
+* [ ] update the tool for local llm
+
+* [ ] add an UI tool node
+
+* [ ] add a browser tab for agent to debug
+
+* [ ] memory strategy node (full context/summarize)
+
+* [ ] AI model control the IDE
+
+* [ ] add and update server
+
+* [ ] MCP server/client
+
+* [ ] in the knowledge code structure show non-treated files with tree sitter
+
+* [ ] Use AI for non-processed files to generate graph knowledge
+
+* [ ] none
+
+###### Features
+
+* [ ] **node graph time laps**
+
+* [ ] UI designer tab
+
+* [ ] add llm routing (choose the best llm to use)
+
+- [ ] add git tab
+
+* [ ] add tools permission
+
+* [ ] add database in knowledge tab
+
+* [ ] add a browser tab
+
+* [ ] add memory for actions
+
+###### Prompts
+
+add smart response
+
+add confirmation mode ask or not
+
+When I ask the LLM in auto mode, and it writes the plan make sure it uses the UI to display the plan with button to proceed or cancel
+
+add a steer option for the chat queue to help to guide the LLM while it is generating
+
+Give the LLM IDE control open files change tabs update setting visually
+
+add a file filter search / AI assisted search
+
+add a plan panel
+
+add a file picker for context
+
+add minimap for code
