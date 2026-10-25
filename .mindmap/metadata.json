@@ -13,7 +13,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 1,
+      "position": 4,
       "createdAt": "2026-08-20T18:50:46.893Z",
       "updatedAt": "2026-10-25T10:46:04.604Z"
     },
@@ -21,7 +21,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 1,
       "createdAt": "2026-10-13T11:14:39.370Z",
       "updatedAt": "2026-10-13T11:14:56.531Z"
     },
@@ -29,7 +29,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 2,
+      "position": 5,
       "createdAt": "2026-08-26T06:08:45.255Z",
       "updatedAt": "2026-08-26T06:08:45.255Z"
     },
@@ -37,15 +37,15 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 6,
+      "position": 8,
       "createdAt": "2026-08-20T20:13:23.029Z",
-      "updatedAt": "2026-10-13T07:54:44.110Z"
+      "updatedAt": "2026-10-25T10:48:36.948Z"
     },
     "Personal/Tags.md": {
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 3,
+      "position": 6,
       "createdAt": "2026-08-24T06:09:00.177Z",
       "updatedAt": "2026-08-24T06:09:00.177Z"
     },
@@ -53,7 +53,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 4,
+      "position": 9,
       "createdAt": "2026-08-27T13:52:18.831Z",
       "updatedAt": "2026-09-22T13:19:54.374Z"
     },
@@ -61,7 +61,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 5,
+      "position": 7,
       "createdAt": "2026-08-31T07:52:06.326Z",
       "updatedAt": "2026-09-21T16:49:59.649Z"
     },
@@ -69,7 +69,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 2,
       "createdAt": "2026-10-06T14:59:12.140Z",
       "updatedAt": "2026-10-06T14:59:23.954Z"
     },
@@ -77,7 +77,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 3,
       "createdAt": "2026-10-13T07:52:27.680Z",
       "updatedAt": "2026-10-13T07:54:05.206Z"
     },
@@ -85,7 +85,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 7,
       "createdAt": "2026-10-06T12:58:58.187Z",
       "updatedAt": "2026-10-07T09:37:01.270Z"
     },
@@ -102,7 +102,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 1,
       "createdAt": "2026-10-13T06:36:19.444Z",
       "updatedAt": "2026-10-13T06:36:19.444Z"
     },
@@ -110,7 +110,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 2,
       "createdAt": "2026-10-04T10:45:35.150Z",
       "updatedAt": "2026-10-04T10:47:01.888Z"
     },
@@ -118,7 +118,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 3,
       "createdAt": "2026-10-03T19:38:03.863Z",
       "updatedAt": "2026-10-03T19:39:40.874Z"
     },
@@ -127,7 +127,7 @@
       "favoritePosition": 5,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 4,
       "createdAt": "2026-07-07T19:35:10.235Z",
       "updatedAt": "2026-10-19T13:47:54.686Z"
     },
@@ -136,7 +136,7 @@
       "favoritePosition": 1,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 5,
       "createdAt": "2026-08-28T09:50:04.430Z",
       "updatedAt": "2026-10-16T08:56:37.673Z"
     },
@@ -144,7 +144,7 @@
       "isFavorite": false,
       "aiSummary": "",
       "tags": [],
-      "position": 0,
+      "position": 6,
       "createdAt": "2026-09-05T16:49:26.538Z",
       "updatedAt": "2026-10-24T09:01:39.095Z"
     },
@@ -233,17 +233,9 @@
       "sync": true,
       "index": false
     },
-    "Projects/Chat Forge.md": {
-      "sync": true,
-      "index": false
-    },
     "Personal/deepseek-v4.1-flash.md": {
       "sync": true,
       "index": false
-    },
-    "Personal/Web Resources.md": {
-      "sync": true,
-      "index": true
     },
     "Personal/Tags.md": {
       "sync": true,
@@ -264,6 +256,14 @@
     "work/Branches.md": {
       "sync": true,
       "index": true
+    },
+    "Personal/Web Resources.md": {
+      "sync": true,
+      "index": true
+    },
+    "Projects/Chat Forge.md": {
+      "sync": true,
+      "index": false
     }
   },
   "docAssetRefs": {
@@ -282,7 +282,6 @@
     "Personal/API Keys.emd": [],
     "Personal/AI models.md": [],
     "Projects/Olafatco.md": [],
-    "Personal/Web Resources.md": [],
     "Projects/Stemcell.emd": [],
     "Personal/Info.emd": [],
     "work/Draft.md": [],
@@ -290,10 +289,12 @@
     "work/Devkit rewrite.md": [],
     "Projects/Kiosk OS.md": [],
     "Projects/Graph Mind harness.md": [],
-    "Projects/Chat Forge.md": [],
     "Personal/deepseek-v4.1-flash.md": [],
     "Personal/protonmail.md": [],
     "Personal/protonmail.emd": [],
-    "Personal/GLM-flash.md": []
+    "Personal/GLM-flash.md": [],
+    "Personal/Web Resources.md": [],
+    "Projects/Chat Forge.md": [],
+    "Projects/Flodserve.emd": []
   }
 }
